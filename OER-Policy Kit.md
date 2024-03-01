@@ -50,7 +50,7 @@ Die Wahl des Ansatzes hängt davon ab, wo der Prozess beginnt. In beiden Fällen
 
 ### Schlüsselfragen zum Start des Policy-Prozesses
 
-Fragen, die sich stellen sind (z.B. auch im weiteren Prozess über das Instrument der Change Cards zur Diskussion zu stellen) :
+Fragen, die sich stellen sind (z.B. auch im weiteren Prozess über das Instrument der [Change Cards](Mat_Change-Cards.pdf) zur Diskussion zu stellen) :
 
 - Wo steht das Thema OER in der gelebten Kultur der Hochschule?
 - Ist die Haltung gegenüber OER positiv, oder dominieren Ängste oder Vorbehalte?
