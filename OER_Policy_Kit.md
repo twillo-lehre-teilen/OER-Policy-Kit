@@ -26,7 +26,7 @@ Das Policy Kit stellt keinen Gold-Standard-Weg hin zu einer OER-Policy dar, sond
 
 Das OER-Policy Kit (Stand 2024) wurde erarbeitet von Astrid Dreyer (HAWK Hildesheim/Holzminden/Göttingen), Irina Hörmann, Frank Homp und Stefanie Legler (Netzwerk ORCA.nrw), Silvia Czerwinski und Yulia Loose (twillo). Die Lizenz soll wie folgt angegeben werden: „OER-Policy Kit” (Stand 2024) von Frank Homp, Astrid Dreyer, Irina Hörmann, Stefanie Legler, Silvia Czerwinski und Yulia Loose lizenziert unter CC BY-SA 4.0 (sofern nicht anders angegeben).
 
-##Schritt 1: Überblick
+## Schritt 1: Überblick
 **Wie fange ich an?**
 
 Die ersten Schritte in der Entwicklung einer OER-Policy sind maßgeblich und werden stark von Ihrer Ausgangssituation und Perspektive beeinflusst. Unabhängig davon, von wo Sie beginnen, stellen sich die gleichen grundlegenden Fragen, wenn auch mit unterschiedlichen Schwerpunkten und Nuancen. Wir haben diese Fragen in einer Grafik veranschaulicht und werden sie im Laufe dieses Kapitels beantworten.
