@@ -10,98 +10,157 @@ comment: Das OER-Policy Kit steht unter der CC BY SA 4.0 Lizenz
 
 ![Schritte](Roadmap_PolicyKit.jpg)
 
-Immer mehr Hochschulen bekennen sich zu Openness und wollen durch eine Richtlinie das Signal für Lehrende und andere Hochschulangehörige setzen, dass sie das Erstellen und Teilen von OER unterstützen. Obwohl diese Richtlinie – zumeist als OER-Policy bezeichnet – nicht unbedingt rechtlich verbindlich ist, wie z.B. eine Dienstanweisung, schafft sie einen hohen Grad an Verbindlichkeit für das Thema OER und öffnet damit viele Türen hin zu einer anerkannten und gelebten offenen Bildung.
+Immer mehr Hochschulen bekennen sich zu Openness und wollen durch eine Richtlinie das Signal für Lehrende und andere Hochschulangehörige setzen, dass sie das Erstellen und Teilen von OER unterstützen. Obwohl diese Richtlinie – zumeist als OER-Policy bezeichnet – nicht unbedingt rechtlich verbindlich ist, wie z.B. eine Dienstanweisung, schafft sie einen hohen Grad an **Verbindlichkeit für das Thema OER** und öffnet damit viele Türen hin zu einer anerkannten und gelebten offenen Bildung.
 
 Der Weg zu eine OER-Policy kann je nach Hochschule sehr unterschiedlich sein. An einer kleineren Hochschule, wo die Entscheidungswege eher kurz sind, kann der Policy-Prozess relativ schnell erfolgreich sein. An einer größeren Hochschule kann der Weg zu einer OER-Policy hingegen länger dauern, schon allein weil der Beteiligtenkreis größer ist. Daneben gibt es auch viele weitere Faktoren, die den Entstehungsprozess einer OER-Policy prägen, wie z.B. das Stimmungsbild zu OER in Entscheidungskreisen oder die Vorgehensweise (top-down/bottom-up, mehr oder weniger partizipativ usw.).
 
 Trotz unterschiedlicher Ausgangslagen gibt es Schritte, die alle Hochschulen auf dem Weg zu einer Policy machen und Fragen, die sich alle stellen, die einen entsprechenden Prozess anstoßen und begleiten:
-    • Wo und wie anfangen?
-    • Was soll die Policy enthalten? 
-    • Was ist aus rechtlicher Sicht zu beachten?
-    • Welche Akteur:innen müssen einbezogen werden und wen als Erstes fragen?
+- Wo und wie anfangen?
+- Was soll die Policy enthalten? 
+- Was ist aus rechtlicher Sicht zu beachten?
+- Welche Akteur:innen müssen einbezogen werden und wen als Erstes fragen?
 
-Um Ihnen die Beantwortung dieser Fragen zu erleichtern sowie Sie bei Entscheidungen und Planungen möglichst gut zu unterstützen, haben wir dieses OER-Policy Kit erstellt, das als Leitfaden zum Policy-Prozess zu verstehen ist. Dieses Policy Kit umfasst sieben Schritte, die mögliche Stationen beschreibt und mit weiteren Materialien ergänzt werden, wie z.B. einer Muster OER-Policy oder Mailvorlagen.
+Um Ihnen die Beantwortung dieser Fragen zu erleichtern sowie Sie bei Entscheidungen und Planungen möglichst gut zu unterstützen, haben wir dieses OER-Policy Kit erstellt, das als **Leitfaden zum Policy-Prozess** zu verstehen ist. Dieses Policy Kit umfasst sieben Schritte, die mögliche Stationen beschreibt und mit weiteren Materialien ergänzt werden, wie z.B. einer Muster OER-Policy oder Mailvorlagen.
 
 Das Policy Kit stellt keinen Gold-Standard-Weg hin zu einer OER-Policy dar, sondern soll an die spezifische Situation Ihrer Hochschule angepasst werden. Da der konkrete Ablauf sehr unterschiedlich sein kann, ist auch die Reihenfolge der Schritte nicht strikt einzuhalten. Auch eine Linearität ist nicht unbedingt gegeben, so dass es einige Schleifen im Policy-Prozess geben kann und mehrere Schritte wiederholt werden bzw. zwischen den Schritten hin und her gesprungen wird.
 
-Das OER-Policy Kit (Stand 2024) wurde erarbeitet von Astrid Dreyer (HAWK Hildesheim/Holzminden/Göttingen), Irina Hörmann, Frank Homp und Stefanie Legler (Netzwerk ORCA.nrw), Silvia Czerwinski und Yulia Loose (twillo). 
-Die Lizenz soll wie folgt angegeben werden:
-„OER-Policy Kit” (Stand 2024) von Frank Homp, Astrid Dreyer, Irina Hörmann, Stefanie Legler, Silvia Czerwinski und Yulia Loose lizenziert unter CC BY-SA 4.0 (sofern nicht anders angegeben).
+Das OER-Policy Kit (Stand 2024) wurde erarbeitet von Astrid Dreyer (HAWK Hildesheim/Holzminden/Göttingen), Irina Hörmann, Frank Homp und Stefanie Legler (Netzwerk ORCA.nrw), Silvia Czerwinski und Yulia Loose (twillo). Die Lizenz soll wie folgt angegeben werden: „OER-Policy Kit” (Stand 2024) von Frank Homp, Astrid Dreyer, Irina Hörmann, Stefanie Legler, Silvia Czerwinski und Yulia Loose lizenziert unter CC BY-SA 4.0 (sofern nicht anders angegeben).
 
-##Schritt 1: Überblick
-Wie fange ich an?
+## Schritt 1: Überblick
+**Wie fange ich an?**
+
 Die ersten Schritte in der Entwicklung einer OER-Policy sind maßgeblich und werden stark von Ihrer Ausgangssituation und Perspektive beeinflusst. Unabhängig davon, von wo Sie beginnen, stellen sich die gleichen grundlegenden Fragen, wenn auch mit unterschiedlichen Schwerpunkten und Nuancen. Wir haben diese Fragen in einer Grafik veranschaulicht und werden sie im Laufe dieses Kapitels beantworten.
+![Überblick](Ueberblick_gewinnen_Policykit.gif)
 
-Wo starten OER-Prozesse?
+###Wo starten OER-Prozesse?
 Bei der Entwicklung einer OER-Policy an Hochschulen unterscheiden wir grundsätzlich zwischen Top-Down- und Bottom-Up-Prozessen (vgl. Orr/Neumann/Muuß-Merholz, 2017)
+![TopDown BottomUp](TopDown_BottomUp_PolicyKit.gif)
 
-Top-Down-Prozesse werden durch einen offiziellen Auftrag der Hochschulleitung initiiert und sind eng mit der strategischen Ausrichtung der Hochschule verbunden. Diese Prozesse profitieren von der Unterstützung „von oben“ und erfordern gleichzeitig eine gute Kommunikation in die Breite der Stakeholder und Zielgruppen, um diese im Geiste einer gelebten Kultur der Offenheit an ihren Bedarfen abzuholen und mit den strategischen Zielen der Hochschule in Einklang zu bringen.
-Bottom-Up-Prozesse hingegen werden von Lehrenden oder zentralen Service-Abteilungen angestoßen. Sie zeichnen sich durch ihre Praxisnähe und Innovationskraft aus. Auch hier ist eine effektive Kommunikation nötig, um eine breite Unterstützung und Anerkennung zu finden. Insbesondere müssen einzelne Zielgruppen überzeugt werden, sich als Stakeholder zu begreifen, wie z.B. die Hochschulleitung.
+**Top-Down-Prozesse** werden durch einen offiziellen Auftrag der Hochschulleitung initiiert und sind eng mit der strategischen Ausrichtung der Hochschule verbunden. Diese Prozesse profitieren von der Unterstützung „von oben“ und erfordern gleichzeitig eine gute Kommunikation in die Breite der Stakeholder und Zielgruppen, um diese im Geiste einer gelebten Kultur der Offenheit an ihren Bedarfen abzuholen und mit den strategischen Zielen der Hochschule in Einklang zu bringen.
+
+**Bottom-Up-Prozesse** hingegen werden von Lehrenden oder zentralen Service-Abteilungen angestoßen. Sie zeichnen sich durch ihre Praxisnähe und Innovationskraft aus. Auch hier ist eine effektive Kommunikation nötig, um eine breite Unterstützung und Anerkennung zu finden. Insbesondere müssen einzelne Zielgruppen überzeugt werden, sich als Stakeholder zu begreifen, wie z.B. die Hochschulleitung.
+
 Die Wahl des Ansatzes hängt davon ab, wo der Prozess beginnt. Aufbauend auf beiden Definitionen kann es Mischprozesse geben – beispielsweise wenn die Initiative von einer zentralen Einrichtung direkt an die Hochschulleitung herangetragen werden kann, dort auf Zustimmung findet und fortan unter ihrem Schirm weiterentwickelt wird. In beiden Fällen ist eine angepasste Strategie entscheidend, um eine erfolgreiche OER-Policy zu entwickeln.
+
 Das Potenzial einer OER-Policy liegt darin, Veränderungsprozesse in Richtung Openness und einer Kultur des Teilens steuernd zu unterstützen. Bei der Entwicklung und Implementierung der Policy bedarf es ein gewisses Maß an Feingefühl, Reflexionsbereitschaft und Offenheit (vgl. Deimann/Neumann/Muuß-Merholz, 2015). Wünschenswert wäre das natürlich auch bei Ihren Adressat:innen. Die Herausforderung bei der Gestaltung einer OER-Policy liegt unabhängig davon, ob der Anstoß von Entscheidungsträger:innen kommt oder ob zunächst Überzeugungsarbeit innerhalb der Hochschule geleistet werden muss, darin, sowohl konkrete Inhalte zu definieren als auch eine breite Akzeptanz zu schaffen.
-Was sind die Schlüsselfragen zum Start des Policy-Prozesses?
+
+### Was sind die Schlüsselfragen zum Start des Policy-Prozesses?
 Konkrete Fragen, die sich zu Beginn eines Policy-Prozesses stellen können, sind:
-    • Wo steht das Thema OER in der gelebten Kultur der Hochschule?
-    • Ist die Haltung gegenüber OER positiv oder dominieren Ängste oder Vorbehalte?
-    • Welche Rolle könnte/soll die OER-Policy an der Hochschule aufgrund dieser Vorbedingungen spielen?
-    • Welche Auswirkungen ergeben sich daraus für die weitere Vorgehensweise?
-    • Welche bereits vorhandenen Policies, Leitbilder oder Strategiepapiere können als Grundlage dienen?
-    • Wer sind die Schlüsselpersonen, die uns im Policy-Prozess unterstützen können?
-    • Ist ein offizieller Auftrag für die Entwicklung einer OER-Policy erforderlich?
-    • Welche Rolle spielt die offizielle Legitimation im Policy-Prozess?
-    • Wie wird die Arbeitskultur an unserer Hochschule den Policy-Prozess beeinflussen?
-    • Sind Spannungen zwischen Top-down-Ansätzen und der Bottom-up-Kultur der OER-Communities zu erwarten und falls ja, wie diese überbrücken?
+
+- Wo steht das Thema OER in der gelebten Kultur der Hochschule?
+- Ist die Haltung gegenüber OER positiv oder dominieren Ängste oder Vorbehalte?
+- Welche Rolle könnte/soll die OER-Policy an der Hochschule aufgrund dieser Vorbedingungen spielen?
+- Welche Auswirkungen ergeben sich daraus für die weitere Vorgehensweise?
+- Welche bereits vorhandenen Policies, Leitbilder oder Strategiepapiere können als Grundlage dienen?
+- Wer sind die Schlüsselpersonen, die uns im Policy-Prozess unterstützen können?
+- Ist ein offizieller Auftrag für die Entwicklung einer OER-Policy erforderlich?
+- Welche Rolle spielt die offizielle Legitimation im Policy-Prozess?
+- Wie wird die Arbeitskultur an unserer Hochschule den Policy-Prozess beeinflussen?
+- Sind Spannungen zwischen Top-down-Ansätzen und der Bottom-up-Kultur der OER-Communities zu erwarten und falls ja, wie diese überbrücken?
+
 Notieren Sie sich Ihre Überlegungen dazu, z.B. anhand der Methode Change Cards. Diese Überlegungen sind Ihre Grundlage und können später genutzt werden, um den Policy-Prozess zu reflektieren und Wege nachzuvollziehen.
-Wie ist der Status Quo? Welche Ressourcen sind vorhanden?
+
+### Wie ist der Status Quo? Welche Ressourcen sind vorhanden?
 Nutzen Sie Ihren ersten Überblick, um die Möglichkeiten verschiedener Anknüpfungspotenziale und relevante Aspekte zu strukturieren und sorgfältig hinsichtlich der folgenden vier Kernkategorien zu durchleuchten:
-1. Themen
-Betrachten Sie OER nicht isoliert, sondern als integralen Bestandteil von Openness (vgl. Walkthrough: Unesco Guidelines zur Erstellung von OER Policies). Als ein Beispiel kann hier die Universität zu Köln herangezogen werden, die OER in ein umfassendes Openness-Konzept integriert hat. An Ihrer Hochschule können sich Anknüpfungspunkte zum Thema Openness und OER im Handlungsfeld der Bibliotheken (Open Access), im Handlungsfeld von Forschung und Transfer (Open Science/Open Data) und in allen rechtlichen Schnittmengen beim Justiziariat finden lassen.
-Das Thema OER ist zudem eng mit Nachhaltigkeit verknüpft. Sie haben verschiedene Möglichkeiten, diese Verbindung als Argument für OER und eine dementsprechende Policy zu nutzen. Falls Ihre Hochschule (noch) kein Nachhaltigkeitsleitbild hat, in dem OER unter Umständen sogar explizit erwähnt wird, finden sich Beispiele dafür zum bei der Uni Bielefeld (OER explizit erwähnt), der Uni Bamberg (basiert auf den SDGs der UNESCO), der RWTH Aachen (Verweis auf BNE und „Offenheit der Lehre”) oder der Uni Hamburg (Bezug zu SDGs). Weitere Hochschulen mit einem veröffentlichten Nachhaltigkeitsleitbild sind die Uni Siegen, TU Chemnitz, Uni Kassel, FU Berlin und die Uni Bonn. Die wesentlichen Argumente aus offiziellen Dokumenten supranationaler Organisationen finden Sie in unserem Material „OER und Nachhaltigkeit“.
+
+Themen
+----
+Betrachten Sie OER nicht isoliert, sondern als integralen Bestandteil von **Openness** (vgl. Walkthrough: Unesco Guidelines zur Erstellung von OER Policies). Als ein Beispiel kann hier die [Universität zu Köln](https://kups.ub.uni-koeln.de/71669/1/UzK_CD_Open_scienceGrundsaetze.pdf) herangezogen werden, die OER in ein umfassendes Openness-Konzept integriert hat. An Ihrer Hochschule können sich Anknüpfungspunkte zum Thema Openness und OER im Handlungsfeld der Bibliotheken (Open Access), im Handlungsfeld von Forschung und Transfer (Open Science/Open Data) und in allen rechtlichen Schnittmengen beim Justiziariat finden lassen.
+
+Das Thema OER ist zudem eng mit **Nachhaltigkeit** verknüpft. Sie haben verschiedene Möglichkeiten, diese Verbindung als Argument für OER und eine dementsprechende Policy zu nutzen. Falls Ihre Hochschule (noch) kein Nachhaltigkeitsleitbild hat, in dem OER unter Umständen sogar explizit erwähnt wird, finden sich Beispiele dafür zum bei der [Uni Bielefeld](https://www.uni-bielefeld.de/themen/nachhaltigkeit/nachhaltigkeitsleitbild/) (OER explizit erwähnt), der [Uni Bamberg](https://www.uni-bamberg.de/nachhaltigkeit/leitbild-nachhaltigkeit/) (basiert auf den SDGs der UNESCO), der [RWTH Aachen](https://www.rwth-aachen.de/cms/root/die-rwth/Nachhaltigkeit/~ppuld/Nachhaltigkeitsleitbild/) (Verweis auf BNE und „Offenheit der Lehre”) oder der [Uni Hamburg](https://www.uni-hamburg.de/uhh/profil/leitbild/nachhaltigkeit.html) (Bezug zu SDGs). Weitere Hochschulen mit einem veröffentlichten Nachhaltigkeitsleitbild sind die [Uni Siegen](https://www.uni-siegen.de/nachhaltigkeit/nh_leitbild_governance/?lang=de), [TU Chemnitz](https://www.tu-chemnitz.de/tu/nachhaltigkeit/nh_leitbild.html), [Uni Kassel](https://www.uni-kassel.de/uni/universitaet/profil/profil-umwelt-und-nachhaltigkeit/umwelt-und-nachhaltigkeit/nachhaltigkeitsleitbild), [FU Berlin](https://www.fu-berlin.de/sites/nachhaltigkeit/commitment/leitbild/Nachhaltigkeitsleitbild_FUB_finale_Fassung-mit-Unterschriften.pdf) und die [Uni Bonn](https://www.uni-bonn.de/de/universitaet/ueber-die-uni/nachhaltige-uni/boost-leitbild). Die wesentlichen Argumente aus offiziellen Dokumenten supranationaler Organisationen finden Sie in unserem Material „OER und Nachhaltigkeit“.
+
 Die Identifikation von Querschnittsthemen und damit von potentiellen OER-Befürworter:innen unter den Lehrenden, den akademischen Führungsebenen sowie in den diversen zentralen Hochschuleinrichtungen ist der wohl wichtigste Schritt in der Überblicks-Phase. Möglicherweise gibt es an Ihrer Hochschule bereits AGs oder Strategiegruppen, die Facetten von Openness bearbeiten.
-2. Prozesse:
+
+Prozesse
+-----
 Untersuchen Sie vorhandene Policies, Leitbilder und Strategiepapiere Ihrer Hochschule. Verstehen Sie deren Entstehungsgeschichte im Kontext der Kultur Ihrer Institution. Berücksichtigen Sie, wie Innovationsprozesse an Ihrer Hochschule typischerweise initiiert und umgesetzt werden und ziehen Sie Parallelen zur Entwicklung einer OER-Policy: Hier ergeben sich potenzielle Unterschiede, falls es sich bei Ihrem Policy-Prozess um einen Top-down- oder Bottom-up-Ansatz handelt.
-Hilfreich ist hier ein Blick in die Digitalisierungsstrategien auf nationaler Ebene (z.B. Empfehlung des Wissenschaftsrats zur Digitalisierung für Studium und Lehre), auf Ebene der Länder (insbesondere natürlich desjenigen, in dem Ihre Hochschule verortet ist – z.B. Nordrhein-Westfalen oder Niedersachsen) sowie auf institutioneller Ebene. Falls an Ihrer Hochschule schon eine Digitalisierungsstrategie vorliegt, sollten Sie nachschauen, inwieweit OER bzw. Openness bereits thematisiert werden. Möglicherweise wird ein thematisch sehr ähnliches Papier zeitgleich von einer Digitalisierungs-AG oder einem Gremium an Ihrer Hochschule entwickelt (in diesem Fall ist eine Kooperation anzustreben).
-Weiterhin können hochschulspezifische Leitbilder oder verschriftliche Visions- und Positionspapiere Hinweise darauf geben, inwiefern eine OER-Policy als Ausdruck einer Kultur gelebter Offenheit auf fruchtbaren Boden fallen könnte.
-3. Stakeholder:
-Im Kontext von OER-Policy-Prozessen unterscheiden wir zwischen „Stakeholder:innen“ und „Zielgruppen“. Dabei kann es Überschneidungen zwischen beiden Gruppen geben und der Status zu Beginn identifizierter Stakeholder und Zielgruppen sich während des Policy-Prozesses ändern. Im Abschnitt „Perspektiven vernetzen und anknüpfen“ gehen wir detailliert auf potenzielle Zielgruppen und Stakeholder ein.
+
+Hilfreich ist hier ein Blick in die **Digitalisierungsstrategien** auf nationaler Ebene (z.B. Empfehlung des Wissenschaftsrats zur Digitalisierung für Studium und Lehre), auf Ebene der Länder (insbesondere natürlich desjenigen, in dem Ihre Hochschule verortet ist – z.B. Nordrhein-Westfalen oder Niedersachsen) sowie auf institutioneller Ebene. Falls an Ihrer Hochschule schon eine Digitalisierungsstrategie vorliegt, sollten Sie nachschauen, inwieweit OER bzw. Openness bereits thematisiert werden. Möglicherweise wird ein thematisch sehr ähnliches Papier zeitgleich von einer Digitalisierungs-AG oder einem Gremium an Ihrer Hochschule entwickelt (in diesem Fall ist eine Kooperation anzustreben). Weiterhin können hochschulspezifische Leitbilder oder verschriftliche **Visions- und Positionspapiere** Hinweise darauf geben, inwiefern eine OER-Policy als Ausdruck einer Kultur gelebter Offenheit auf fruchtbaren Boden fallen könnte.
+
+Stakeholder
+-----
+Im Kontext von OER-Policy-Prozessen unterscheiden wir zwischen „Stakeholder:innen“ und „Zielgruppen“. Dabei kann es Überschneidungen zwischen beiden Gruppen geben und der Status zu Beginn identifizierter Stakeholder und Zielgruppen sich während des Policy-Prozesses ändern. Auf der nächsten Seite „Wo finde ich Verbündete?“ gehen wir detailliert auf potenzielle Zielgruppen und Stakeholder ein.
+
 Im Folgenden sind „Stakeholder:innen“ eine Person oder Gruppe, die ein Interesse an der Entwicklung und Umsetzung einer OER-Policy hat. Dies kann eine breite Palette von Akteur:innen umfassen, beginnend bei einer Institution, Abteilungen oder Fachbereich, verschiedenen Statusgruppen der Hochschule sowie allen Personen und Stellen, die innerhalb des OER-Prozesses involviert sind und die durch die OER-Policy beeinflusst werden oder diese beeinflussen können. Identifizieren Sie Kolleg:innen, die bereits Interesse an oder Berührungspunkte mit OER haben und binden Sie sie in Ihre Überlegungen mit ein. Hier kann es sich sowohl um intrinsisch motivierte Personen handeln, als auch um Funktionsstellen, die qua Aufgabengebiet eine wichtige Rolle im Policy-Prozess spielen – diese werden spätestens im Feedbackprozess eingebunden (s. Schritt 3 Feedback). Analysieren Sie die Stakeholder z.B. mit Hilfe einer Matrix. Solange Stakeholder sich ihres Status nicht bewusst sind, gelten sie als Zielgruppe, die noch ins Boot geholt werden muss.
-4. Zielgruppen:
+
+Zielgruppen
+-----
 Eine „Zielgruppe“ bezieht sich spezifischer auf die Gruppen oder Individuen, an die sich die OER-Policy direkt richtet oder die von ihr direkt betroffen sind. Berücksichtigen Sie die Bedürfnisse und Herausforderungen verschiedener Zielgruppen, die von der Policy betroffen sein werden. Dies können sowohl Entscheidungsträger:innen in einem Bottom-up-Prozess als auch Lehrende und andere Hochschulmitglieder in einem Top-down-Prozess sein, sowie die Studierenden und ihre institutionelle Rolle als Hochschulmitglieder. Stellen Sie sicher, dass die Policy die Bedürfnisse und Anforderungen der Zielgruppen berücksichtigt und nicht überfordernd wirkt. Eine sorgfältige Identifikation und Analyse der Zielgruppen ist daher unerlässlich. Ein Instrument hierzu, das sich in der Praxis bewährt hat, ist die Erstellung von Personae.
+
 Dokumentieren Sie Ihre Überlegungen und reflektieren Sie diese regelmäßig, um Lücken oder Wahrnehmungsbias zu identifizieren. Ein hilfreiches Instrument kann bereits zu diesem Zeitpunkt der Open Education Policy Canvas sein. So können Sie den Prozess in den Anfängen dahingehend unterstützen, dass er den Anforderungen Ihrer Hochschule gerecht wird und im späteren Verlauf die Akzeptanz und das Engagement aller Beteiligten fördert. Bei allen genannten Punkten empfiehlt es sich – insbesondere wenn Sie noch nicht lange an Ihrer Hochschule tätig sind – mit erfahrenen Kolleg:innen Rücksprache zu halten und diese ggf. um Beratung zu bitten.
+
 Ungeachtet dessen, von wo Sie starten, können OER-Policies ein Spannungspotenzial bergen. Das liegt u.a. daran, dass Policies letztendlich aufgrund ihres normativen Charakters Top-down-Ansätzen zugeordnet werden. Auf der anderen Seite sind OER-Communities typischerweise eher Bottom-up organisierte Phänomene mit einer spezifischen Kultur und dementsprechenden Werten. Solche Communities durch Anweisungen zu regeln kann daher einen “clash of cultures“ provozieren. Eine umfassende Kommunikationsstrategie kann hier hilfreich sein.
+
 Durch eine umfassende Analyse Ihrer Ausgangssituation lassen sich Ressourcen transparent offenlegen, auf denen Sie aufbauen können, um gemeinsam mit weiteren OER-Stakeholdern Ziele und Maßnahmen zu entwickeln. Die Ziele werden unter Berücksichtigung und ggf. Einbeziehung der relevanten Zielgruppen festgelegt. Wichtig ist außerdem, sowohl intern als auch extern von anderen als Mitstreiter:in gefunden zu werden. Dadurch wird das Thema OER sichtbarer und gleichzeitig Wege geebnet, das Thema zugänglicher zu machen (vgl. Schritt 6 Veröffentlichung).
-Wo finde ich Verbündete? Wer macht mit?
+
+### Wo finde ich Verbündete? Wer macht mit?
 Die Identifikation von OER-Befürworter:innen und anderen relevanten Stakeholdern ist ein zentrales Element im Prozess einer OER-Policy. Dies kann herausfordernd sein, besonders wenn Sie in Bezug auf OER noch nicht weitreichend vernetzt sind. Ein pragmatischer Ansatz ist es, zunächst Gespräche mit Vorgesetzten und Kolleg:innen Ihrer Abteilung zu führen, um herauszufinden, wer bereits mit OER arbeitet bzw. dem Thema positiv gegenübersteht. Gleichzeitig ist es wichtig, die Personen zu identifizieren, die bisher zwar nicht aktiv in das Thema OER involviert waren, aber aufgrund ihrer Expertise und Erfahrung wichtige Beiträge leisten könnten.
+
 Versuchen Sie nachzuvollziehen, wie ähnliche Initiativen an Ihrer Hochschule abgelaufen sind und welche Stakeholder typischerweise beteiligt sind. Deren Position und Rolle an der Hochschule, sei es in einer Fakultät oder einer zentralen Einrichtung, kann Ihren Ansatz beim Policy-Prozess beeinflussen. Einen eher theoretischen Einstieg in die Überlegungen darüber, wen man ansprechen kann oder muss, bietet das Whitepaper Open Educational Resources (OER) an Hochschulen in Deutschland. Bei der Lektüre stolpert man über relevante Namen aus der deutschsprachigen OER-Szene, was bei der Auseinandersetzung mit einer derart komplexen Thematik hilfreich sein kann.
+
 Da Sie sich mit diesem OER-Policy Kit befassen, gehören Sie vermutlich einer der erwähnten Gruppen an und finden im weiteren Verlauf Informationen zu Ihren potentiellen Mitstreiter:innen. Folgende Gruppen werden hier im Besonderen erwähnt:
-Hochschulleitung
+
+<details>
+    <summary>Hochschulleitung</summary>
 Für eine erfolgreiche OER-Policy ist es entscheidend, die Hochschulleitung frühzeitig einzubinden, unabhängig davon, ob Sie einen Bottom-Up oder Top-Down Ansatz verfolgen. Präsentieren Sie Ihre geplante Vorgehensweise und Roadmap klar und überzeugend. Die Kommunikation mit Entscheidungsträger:innen wie Vizepräsident:innen oder Prorektor:innen sollte sorgfältig geplant werden, um deren Verständnis und Unterstützung für die Potenziale von OER zu gewinnen. Nutzen Sie dabei anschauliche Materialien, um die Ziele und den erwarteten Impact der OER-Policy zu verdeutlichen. Inspiration finden Sie in der Präsentation Kick-Off & Roadmap der Universität Bielefeld. 
 Zur thematischen Vorbereitung könnte die OER-Impact-Forschung hilfreich sein, deren Diskurs klar auf die Notwendigkeit eines Kulturwandels verweist. Eine zusammenfassende Darstellung dazu findet sich z.B. bei Otto/Schroeder, Diekmann/Sander, 2021.
-Fachbereichs-/Institutsleitungen
+</details>
+<br>
+
+<details>
+    <summary>Fachbereichs-/Institutsleitungen</summary>
 Auch Dekane und Fachbereichsleitungen können wertvolle Verbündete sein, da sie einen umfassenden Überblick über die Aktivitäten in ihren Bereichen haben und strategische Hochschulprozesse mitgestalten. Sie besitzen oft einen detaillierten Einblick in die Aktivitäten und Bedürfnisse der Lehrenden innerhalb ihrer Fakultäten oder Fachbereiche. In ihrer Rolle können sie eine Brückenfunktion zwischen der Hochschulleitung und den Servicebereichen einnehmen, was für die Integration und Förderung von OER-Projekten und -Initiativen an der Hochschule von großer Bedeutung ist.
-Lehrende
+</details>
+<br>
+
+<details>
+    <summary>Lehrende</summary>
 Lehrende sind zentrale Akteur:innen in der OER-Community an Hochschulen und spielen eine Schlüsselrolle bei der Förderung einer Kultur des Teilens. Um Lehrende, die bereits in OER-Projekte involviert sind oder eigeninitiativ OER erstellen, zu identifizieren, können bestehende oder bereits abgeschlossene OER-Projekte und -Förderlinien wie OERcontent.nrw oder die niedersächsischen Förderlinien herangezogen werden. Oft sind diese Lehrenden über die Hochschule verteilt und agieren unabhängig voneinander, was ihre Identifikation herausfordernd machen kann. Hochschuldidaktische und E-Learning-Einrichtungen können hierbei unterstützen, da sie häufig mit diesen Lehrenden in Beratungen und Veranstaltungen interagieren. Über die Identifikation von Lehrenden, die bereits eine OER-affine Lehrkultur pflegen, können evtl. auch Studierende in den OER-Prozess einbezogen und sie im Folgenden als Zielgruppe und/oder Stakeholder einer OER-Policy betrachtet werden.
-Hochschulbibliothek
-Bibliotheken sind verlässliche Infrastruktureinrichtungen und unterstützen mit der Bereitstellung von OER-Portalen und anderen Repositorien bzw. Referatorien aktiv die Etablierung von OER in allen Bildungsbereichen. Gleichzeitig wirken Bibliotheken als wichtige Bildungsanbieter:innen. Insbesondere im Bereich Open Science und Open Access ist hier eine hohe Expertise angesiedelt: Bibliotheken unterstützen die Kompetenzentwicklung von Lehrenden und Lernenden durch vielfältige Bildungs- und Beratungsangebote, die sich u.A. mit urheberrechtlichen und lizenzrechtlichen Fragen sowie Publikationsmöglichkeiten und technischen Formaten für die Bereitstellung von Ressourcen beschäftigen. Bibliothekar:innen spielen demnach eine besondere Multiplikator:innenrolle (Deimann/Neumann/Muuß-Merholz, 2015, S.48). 
+</details>
+<br>
+
+<details>
+    <summary>Hochschulbibliothek</summary>
+Bibliotheken sind verlässliche Infrastruktureinrichtungen und unterstützen mit der Bereitstellung von OER-Portalen und anderen Repositorien bzw. Referatorien aktiv die Etablierung von OER in allen Bildungsbereichen. Gleichzeitig wirken Bibliotheken als wichtige Bildungsanbieter:innen. Insbesondere im Bereich Open Science und Open Access ist hier eine hohe Expertise angesiedelt: Bibliotheken unterstützen die Kompetenzentwicklung von Lehrenden und Lernenden durch vielfältige Bildungs- und Beratungsangebote, die sich u.A. mit urheberrechtlichen und lizenzrechtlichen Fragen sowie Publikationsmöglichkeiten und technischen Formaten für die Bereitstellung von Ressourcen beschäftigen. Bibliothekar:innen spielen demnach eine besondere Multiplikator:innenrolle (Deimann/Neumann/Muuß-Merholz, 2015, S.48).
+
 Für Lehrende bieten Bibliotheken Mehrwerte z.B. über die DOI-Vergabe für OER oder die Möglichkeit, aus dem eigenen Hochschulrepositorium eine Liste mit veröffentlichten Lehr-Lernmaterialien auf Personenseiten von Hochschullehrenden anzeigen zu lassen. Insbesondere die Verknüpfung eines OER mit einem persistenten Identifiers wie z.B. DOI oder Handle zahlt auf das Konto der Sichtbarkeit der Lehre und damit von OER ein (vgl. Rempis, 2023). Oftmals finden also in Hochschulbibliotheken schon Aktivitäten zur Förderung von OER statt oder werden angestrebt. Es ist daher anzunehmen, dass Sie hier Stakeholder finden werden, die Ihre Bestrebungen zur Entwicklung einer OER-Policy mittragen oder aktiv unterstützen werden.
-Hochschuldidaktik und Mediendidaktik
+</details>
+<br>
+
+<details>
+    <summary>Hochschuldidaktik und Mediendidaktik</summary>
 Weitere Unterstützer:innen für eine OER-Policy sind vermehrt in solchen Einrichtungen anzutreffen, in denen hochschul- und mediendidaktische Fragen eine zentrale Rolle spielen, also z.B. Servicestellen für Lehre und Studium, E-Learning-Abteilungen, hochschuldidaktische Zentren, usw. Diese haben das Thema OER häufig bereits in ihr Beratungs- und Veranstaltungsangebot integriert. Einige der frei zugänglichen OER-Selbstlernkurse finden Sie in dieser Auflistung.
+
 An einigen Hochschulen spielen OER in Verbindung mit dem genutzten LMS eine Rolle, wenn dieses etwa über eine offene Schnittstelle direkt an eine OER-Plattform angebunden ist (z.B. Verknüpfung zwischen OER Campus in Stud.IP und twillo) oder wenn sich Kurse im offenen LMS im OERSI indexieren lassen (z.B. Ruhr-Universität Bochum, Fernuni Hagen oder HHU Düsseldorf). Dadurch können neben den Mitgliedern der Hochschule auch Personen von außerhalb auf die Lehr-/Lernmaterialien zugreifen. 
 Mancherorts werden von hochschul- und mediendidaktischen Abteilungen OER-Zertifikate vergeben, die ihren Inhaber:innen beispielsweise besondere Veröffentlichungsoptionen für OER ermöglichen. Für die Hochschule und insbesondere das Justiziariat kann es sinnvoll sein, eine Art OER-Checkliste als obligatorischen Zwischenschritt zwischen Kurserstellung und Kursveröffentlichung zu schalten.
-Justiziariat
+</details>
+<br>
+
+<details>
+    <summary>Justiziariat</summary>
 Das Justiziariat nimmt eine zentrale und wertvolle Position in der Gestaltung einer OER-Policy an Hochschulen ein. Dadurch wird die rechtliche Integrität und langfristige Tragfähigkeit der Policy gesichert. Um eine Policy zu entwickeln, die nicht nur den hochschulinternen Anforderungen entspricht, sondern auch im Einklang mit gültigen Gesetzen und Richtlinien steht, ist eine Expertise im Bereich des Urheber- und Hochschulrechts unerlässlich. Die Zusammenarbeit mit dem Justiziariat ist daher für die Qualität und Durchführbarkeit einer OER-Policy unabdingbar.
-Studierende
+</details>
+<br>
+
+<details>
+    <summary>Studierende</summary>
 Die Rolle der Studierenden im Kontext von OER ist vielschichtig. Sie sind nicht nur die Hauptnutznießer:innen von qualitativ hochwertigen Lehrmaterialien, sondern können auch aktiv OER mitgestalten – was sie zu Zielgruppe bzw. Stakeholder einer OER-Policy machen kann. Ihre Einbindung in den Prozess kann dazu beitragen, eine Kultur des Teilens (vgl. Jahn/Kober/Reichardt, 2023) und der Offenheit an der Hochschule zu fördern. Erste Ansprechpersonen finden sich in den Studierendenvertretungen. Hier sollte im Kontext der Sichtbarkeit von OER (vgl. Schritt 6 Veröffentlichung) parallel zu Policy-Prozessen über das Potenzial und die Verfügbarkeit von OER informiert werden, um das Bewusstsein auch dieser Gruppe für die Verbreitung und Nutzung von OER einzusetzen und sie zu motivieren, sich aktiv am OER-Lebenszyklus zu beteiligen. OER-Selbstlernkurse können dabei unterstützend kommuniziert werden.
+
 Dabei ist es wichtig, für die rechtlichen Aspekte insbesondere im Hinblick auf Urheberrecht und Verwertungsrechte zu sensibilisieren. Wenn Studierende dazu ermutigt werden, ihre eigenen Lernergebnisse unter offenen Lizenzen zu teilen, sollten sie zuvor über ihre Rechte und Pflichten aufgeklärt werden. Die Studierenden dürfen keine Nachteile erfahren, wenn sie ein Werk nicht veröffentlichen wollen. Insofern sollten Sie dies möglichst früh in Ihrer Lehrveranstaltung ansprechen und ggf. Alternativen für diese Studierenden anbieten. (vgl. OER Policy der FH Dortmund S.4). Möchte die Hochschule selbst die Lernergebnisse Studierender offen lizenzieren, müssen die Studierenden über eine “Vereinbarung über die Übertragung von Nutzungsrechten” der Hochschule diese einräumen.
 Die Zusammenarbeit von Studierenden und Lehrenden bei der Erstellung von OER bietet zudem ein großes didaktisches Potenzial, dessen Publikation (zum Beispiel über die Bibliothek) und damit Sichtbarkeit von Interesse für die zentralen hochschuldidaktischen Einrichtungen (z.B. im Bereich des Peer Learning und Peer Teaching) ist.
-Weitere relevante interne Akteure
+</details>
+<br>
+
+<details>
+    <summary>Weitere relevante interne Akteure</summary>
 Neben dem Suchen und Finden von OER-Befürworter:innen ist zudem das Einbeziehen weiterer Stakeholder an der Hochschule relevant, die im Laufe des Policy-Prozesses mitwirken bzw. eine wichtige Rolle spielen. Hier lohnt es sich ggf. schon ab dem ersten Entwurf, diese Schnittstellen entsprechend der Roadmap zu informieren und miteinzubeziehen:
-    • AGs oder Strategiegruppen, die sich mit Digitalisierung, Lehre bzw. Hochschuldidaktik, Open Science/Open Data/Open Access, Hochschulentwicklung und verwandten Themen auseinandersetzen
-    • Gremien (Senat, Hochschulrat etc.)
-    • Gleichstellungsbeauftragte, Diversity Manager:in
-    • Schwerbehindertenvertretung
-    • Personalräte
-Was machen die Anderen? Woraus lässt sich Inspiration schöpfen?
+- AGs oder Strategiegruppen, die sich mit Digitalisierung, Lehre bzw. Hochschuldidaktik, Open Science/Open Data/Open Access, Hochschulentwicklung und verwandten Themen auseinandersetzen
+- Gremien (Senat, Hochschulrat etc.)
+- Gleichstellungsbeauftragte, Diversity Manager:in
+- Schwerbehindertenvertretung
+- Personalräte
+
+### Was machen die Anderen? Woraus lässt sich Inspiration schöpfen?
 Nutzen Sie die Erfahrungen anderer Hochschulen, externe Quellen und OER-Netzwerke, um durch diese Inspiration Ihren eigenen Policy-Prozess zu optimieren. Wenn Ihre eigene Organisationseinheit mit solchen Hochschulen verbunden ist (z.B. über Landesprojekte), die bereits eine OER-Policy veröffentlicht haben, ist eine Kontaktaufnahme voraussichtlich unproblematisch. Darüber hinaus können Vorgesetzte und Kolleg:innen dabei helfen, die gut mit Beschäftigten anderer Hochschulen vernetzt sind. 
 Auch bei diesem Schritt können relevante Fragen im Format der Change Cards gestellt werden:
     • Welche Erkenntnisse können wir aus existierenden OER-Policies ziehen?
