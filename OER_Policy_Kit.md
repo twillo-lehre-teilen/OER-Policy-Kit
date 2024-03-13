@@ -128,6 +128,7 @@ Bibliotheken sind verlässliche Infrastruktureinrichtungen und unterstützen mit
 Für Lehrende bieten Bibliotheken Mehrwerte z.B. über die DOI-Vergabe für OER oder die Möglichkeit, aus dem eigenen Hochschulrepositorium eine Liste mit veröffentlichten Lehr-Lernmaterialien auf Personenseiten von Hochschullehrenden anzeigen zu lassen. Insbesondere die Verknüpfung eines OER mit einem persistenten Identifiers wie z.B. DOI oder Handle zahlt auf das Konto der Sichtbarkeit der Lehre und damit von OER ein (vgl. Rempis, 2023). Oftmals finden also in Hochschulbibliotheken schon Aktivitäten zur Förderung von OER statt oder werden angestrebt. Es ist daher anzunehmen, dass Sie hier Stakeholder finden werden, die Ihre Bestrebungen zur Entwicklung einer OER-Policy mittragen oder aktiv unterstützen werden.
 </details>
 <br>
+
 <details>
     <summary>Hochschuldidaktik und Mediendidaktik</summary>
 Weitere Unterstützer:innen für eine OER-Policy sind vermehrt in solchen Einrichtungen anzutreffen, in denen hochschul- und mediendidaktische Fragen eine zentrale Rolle spielen, also z.B. Servicestellen für Lehre und Studium, E-Learning-Abteilungen, hochschuldidaktische Zentren, usw. Diese haben das Thema OER häufig bereits in ihr Beratungs- und Veranstaltungsangebot integriert. Einige der frei zugänglichen OER-Selbstlernkurse finden Sie in dieser Auflistung.
