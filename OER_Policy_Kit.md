@@ -32,6 +32,8 @@ Wie fange ich an?
 ----
 
 Die ersten Schritte in der Entwicklung einer OER-Policy sind maßgeblich und werden stark von Ihrer Ausgangssituation und Perspektive beeinflusst. Unabhängig davon, von wo Sie beginnen, stellen sich die gleichen grundlegenden Fragen, wenn auch mit unterschiedlichen Schwerpunkten und Nuancen. Wir haben diese Fragen in einer Grafik veranschaulicht und werden sie im Laufe dieses Kapitels beantworten.
+<br>
+
 ![Überblick](Ueberblick_gewinnen_Policykit.gif)
 
 ### Wo starten OER-Prozesse?
@@ -116,6 +118,12 @@ Auch Dekane und Fachbereichsleitungen können wertvolle Verbündete sein, da sie
 <br>
 
 <details>
+    <summary>Justiziariat</summary>
+Das Justiziariat nimmt eine zentrale und wertvolle Position in der Gestaltung einer OER-Policy an Hochschulen ein. Dadurch wird die rechtliche Integrität und langfristige Tragfähigkeit der Policy gesichert. Um eine Policy zu entwickeln, die nicht nur den hochschulinternen Anforderungen entspricht, sondern auch im Einklang mit gültigen Gesetzen und Richtlinien steht, ist eine Expertise im Bereich des Urheber- und Hochschulrechts unerlässlich. Die Zusammenarbeit mit dem Justiziariat ist daher für die Qualität und Durchführbarkeit einer OER-Policy unabdingbar.
+</details>
+<br>
+
+<details>
     <summary>Lehrende</summary>
 Lehrende sind zentrale Akteur:innen in der OER-Community an Hochschulen und spielen eine Schlüsselrolle bei der Förderung einer Kultur des Teilens. Um Lehrende, die bereits in OER-Projekte involviert sind oder eigeninitiativ OER erstellen, zu identifizieren, können bestehende oder bereits abgeschlossene OER-Projekte und -Förderlinien wie OERcontent.nrw oder die niedersächsischen Förderlinien herangezogen werden. Oft sind diese Lehrenden über die Hochschule verteilt und agieren unabhängig voneinander, was ihre Identifikation herausfordernd machen kann. Hochschuldidaktische und E-Learning-Einrichtungen können hierbei unterstützen, da sie häufig mit diesen Lehrenden in Beratungen und Veranstaltungen interagieren. Über die Identifikation von Lehrenden, die bereits eine OER-affine Lehrkultur pflegen, können evtl. auch Studierende in den OER-Prozess einbezogen und sie im Folgenden als Zielgruppe und/oder Stakeholder einer OER-Policy betrachtet werden.
 </details>
@@ -138,20 +146,23 @@ Mancherorts werden von hochschul- und mediendidaktischen Abteilungen OER-Zertifi
 </details>
 <br>
 
-<details>
-    <summary>Justiziariat</summary>
-Das Justiziariat nimmt eine zentrale und wertvolle Position in der Gestaltung einer OER-Policy an Hochschulen ein. Dadurch wird die rechtliche Integrität und langfristige Tragfähigkeit der Policy gesichert. Um eine Policy zu entwickeln, die nicht nur den hochschulinternen Anforderungen entspricht, sondern auch im Einklang mit gültigen Gesetzen und Richtlinien steht, ist eine Expertise im Bereich des Urheber- und Hochschulrechts unerlässlich. Die Zusammenarbeit mit dem Justiziariat ist daher für die Qualität und Durchführbarkeit einer OER-Policy unabdingbar.
-</details>
-<br>
-
-<details>
-    <summary>Studierende</summary>
+### Welche Gruppen könnten noch mitgenommen werden?
+Studierende
+----
 Die Rolle der Studierenden im Kontext von OER ist vielschichtig. Sie sind nicht nur die Hauptnutznießer:innen von qualitativ hochwertigen Lehrmaterialien, sondern können auch aktiv OER mitgestalten – was sie zu Zielgruppe bzw. Stakeholder einer OER-Policy machen kann. Ihre Einbindung in den Prozess kann dazu beitragen, eine Kultur des Teilens (vgl. Jahn/Kober/Reichardt, 2023) und der Offenheit an der Hochschule zu fördern. Erste Ansprechpersonen finden sich in den Studierendenvertretungen. Hier sollte im Kontext der Sichtbarkeit von OER (vgl. Schritt 6 Veröffentlichung) parallel zu Policy-Prozessen über das Potenzial und die Verfügbarkeit von OER informiert werden, um das Bewusstsein auch dieser Gruppe für die Verbreitung und Nutzung von OER einzusetzen und sie zu motivieren, sich aktiv am OER-Lebenszyklus zu beteiligen. OER-Selbstlernkurse können dabei unterstützend kommuniziert werden.
 
 Dabei ist es wichtig, für die rechtlichen Aspekte insbesondere im Hinblick auf Urheberrecht und Verwertungsrechte zu sensibilisieren. Wenn Studierende dazu ermutigt werden, ihre eigenen Lernergebnisse unter offenen Lizenzen zu teilen, sollten sie zuvor über ihre Rechte und Pflichten aufgeklärt werden. Die Studierenden dürfen keine Nachteile erfahren, wenn sie ein Werk nicht veröffentlichen wollen. Insofern sollten Sie dies möglichst früh in Ihrer Lehrveranstaltung ansprechen und ggf. Alternativen für diese Studierenden anbieten. (vgl. OER Policy der FH Dortmund S.4). Möchte die Hochschule selbst die Lernergebnisse Studierender offen lizenzieren, müssen die Studierenden über eine “Vereinbarung über die Übertragung von Nutzungsrechten” der Hochschule diese einräumen.
 Die Zusammenarbeit von Studierenden und Lehrenden bei der Erstellung von OER bietet zudem ein großes didaktisches Potenzial, dessen Publikation (zum Beispiel über die Bibliothek) und damit Sichtbarkeit von Interesse für die zentralen hochschuldidaktischen Einrichtungen (z.B. im Bereich des Peer Learning und Peer Teaching) ist.
-</details>
-<br>
+
+Weitere relevante interne Akteur:innen
+-----
+Neben dem Suchen und Finden von OER-Befürworter:innen ist zudem das Einbeziehen weiterer Stakeholder an der Hochschule relevant, die im Laufe des Policy-Prozesses mitwirken bzw. eine wichtige Rolle spielen. Hier lohnt es sich ggf. schon ab dem ersten Entwurf, diese Schnittstellen entsprechend der Roadmap zu informieren und miteinzubeziehen:
+
+- AGs oder Strategiegruppen, die sich mit Digitalisierung, Lehre bzw. Hochschuldidaktik, Open Science/Open Data/Open Access, Hochschulentwicklung und verwandten Themen auseinandersetzen
+- Gremien (Senat, Hochschulrat etc.)
+- Gleichstellungsbeauftragte, Diversity Manager:in
+- Schwerbehindertenvertretung
+- Personalräte
 
 ### Was machen die Anderen? Woraus lässt sich Inspiration schöpfen?
 Nutzen Sie die Erfahrungen anderer Hochschulen, externe Quellen und OER-Netzwerke, um durch diese Inspiration Ihren eigenen Policy-Prozess zu optimieren. Wenn Ihre eigene Organisationseinheit mit solchen Hochschulen verbunden ist (z.B. über Landesprojekte), die bereits eine OER-Policy veröffentlicht haben, ist eine Kontaktaufnahme voraussichtlich unproblematisch. Darüber hinaus können Vorgesetzte und Kolleg:innen dabei helfen, die gut mit Beschäftigten anderer Hochschulen vernetzt sind.
