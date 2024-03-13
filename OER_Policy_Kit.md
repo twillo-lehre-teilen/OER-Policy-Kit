@@ -26,7 +26,7 @@ Das Policy Kit stellt keinen Gold-Standard-Weg hin zu einer OER-Policy dar, sond
 
 Das OER-Policy Kit (Stand 2024) wurde erarbeitet von Astrid Dreyer (HAWK Hildesheim/Holzminden/Göttingen), Irina Hörmann, Frank Homp und Stefanie Legler (Netzwerk ORCA.nrw), Silvia Czerwinski und Yulia Loose (twillo). Die Lizenz soll wie folgt angegeben werden: „OER-Policy Kit” (Stand 2024) von Frank Homp, Astrid Dreyer, Irina Hörmann, Stefanie Legler, Silvia Czerwinski und Yulia Loose lizenziert unter CC BY-SA 4.0 (sofern nicht anders angegeben).
 
-## Schritt 1: Überblick
+##Schritt 1: Überblick
 **Wie fange ich an?**
 
 Die ersten Schritte in der Entwicklung einer OER-Policy sind maßgeblich und werden stark von Ihrer Ausgangssituation und Perspektive beeinflusst. Unabhängig davon, von wo Sie beginnen, stellen sich die gleichen grundlegenden Fragen, wenn auch mit unterschiedlichen Schwerpunkten und Nuancen. Wir haben diese Fragen in einer Grafik veranschaulicht und werden sie im Laufe dieses Kapitels beantworten.
@@ -110,6 +110,20 @@ Zur thematischen Vorbereitung könnte die OER-Impact-Forschung hilfreich sein, d
 <details>
     <summary>Fachbereichs-/Institutsleitungen</summary>
 Auch Dekane und Fachbereichsleitungen können wertvolle Verbündete sein, da sie einen umfassenden Überblick über die Aktivitäten in ihren Bereichen haben und strategische Hochschulprozesse mitgestalten. Sie besitzen oft einen detaillierten Einblick in die Aktivitäten und Bedürfnisse der Lehrenden innerhalb ihrer Fakultäten oder Fachbereiche. In ihrer Rolle können sie eine Brückenfunktion zwischen der Hochschulleitung und den Servicebereichen einnehmen, was für die Integration und Förderung von OER-Projekten und -Initiativen an der Hochschule von großer Bedeutung ist.
+</details>
+<br>
+
+<details>
+    <summary>Lehrende</summary>
+Lehrende sind zentrale Akteur:innen in der OER-Community an Hochschulen und spielen eine Schlüsselrolle bei der Förderung einer Kultur des Teilens. Um Lehrende, die bereits in OER-Projekte involviert sind oder eigeninitiativ OER erstellen, zu identifizieren, können bestehende oder bereits abgeschlossene OER-Projekte und -Förderlinien wie OERcontent.nrw oder die niedersächsischen Förderlinien herangezogen werden. Oft sind diese Lehrenden über die Hochschule verteilt und agieren unabhängig voneinander, was ihre Identifikation herausfordernd machen kann. Hochschuldidaktische und E-Learning-Einrichtungen können hierbei unterstützen, da sie häufig mit diesen Lehrenden in Beratungen und Veranstaltungen interagieren. Über die Identifikation von Lehrenden, die bereits eine OER-affine Lehrkultur pflegen, können evtl. auch Studierende in den OER-Prozess einbezogen und sie im Folgenden als Zielgruppe und/oder Stakeholder einer OER-Policy betrachtet werden.
+</details>
+<br>
+
+<details>
+    <summary>Hochschulbibliothek</summary>
+Bibliotheken sind verlässliche Infrastruktureinrichtungen und unterstützen mit der Bereitstellung von OER-Portalen und anderen Repositorien bzw. Referatorien aktiv die Etablierung von OER in allen Bildungsbereichen. Gleichzeitig wirken Bibliotheken als wichtige Bildungsanbieter:innen. Insbesondere im Bereich Open Science und Open Access ist hier eine hohe Expertise angesiedelt: Bibliotheken unterstützen die Kompetenzentwicklung von Lehrenden und Lernenden durch vielfältige Bildungs- und Beratungsangebote, die sich u.A. mit urheberrechtlichen und lizenzrechtlichen Fragen sowie Publikationsmöglichkeiten und technischen Formaten für die Bereitstellung von Ressourcen beschäftigen. Bibliothekar:innen spielen demnach eine besondere Multiplikator:innenrolle (Deimann/Neumann/Muuß-Merholz, 2015, S.48).
+
+Für Lehrende bieten Bibliotheken Mehrwerte z.B. über die DOI-Vergabe für OER oder die Möglichkeit, aus dem eigenen Hochschulrepositorium eine Liste mit veröffentlichten Lehr-Lernmaterialien auf Personenseiten von Hochschullehrenden anzeigen zu lassen. Insbesondere die Verknüpfung eines OER mit einem persistenten Identifiers wie z.B. DOI oder Handle zahlt auf das Konto der Sichtbarkeit der Lehre und damit von OER ein (vgl. Rempis, 2023). Oftmals finden also in Hochschulbibliotheken schon Aktivitäten zur Förderung von OER statt oder werden angestrebt. Es ist daher anzunehmen, dass Sie hier Stakeholder finden werden, die Ihre Bestrebungen zur Entwicklung einer OER-Policy mittragen oder aktiv unterstützen werden.
 </details>
 <br>
 
