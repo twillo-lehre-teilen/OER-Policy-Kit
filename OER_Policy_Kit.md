@@ -166,9 +166,9 @@ Neben dem Suchen und Finden von OER-Befürworter:innen ist zudem das Einbeziehen
 Nutzen Sie die Erfahrungen anderer Hochschulen, externe Quellen und OER-Netzwerke, um durch diese Inspiration Ihren eigenen Policy-Prozess zu optimieren. Wenn Ihre eigene Organisationseinheit mit solchen Hochschulen verbunden ist (z.B. über Landesprojekte), die bereits eine OER-Policy veröffentlicht haben, ist eine Kontaktaufnahme voraussichtlich unproblematisch. Darüber hinaus können Vorgesetzte und Kolleg:innen dabei helfen, die gut mit Beschäftigten anderer Hochschulen vernetzt sind.
 Auch bei diesem Schritt können relevante Fragen im Format der Change Cards gestellt werden:
 
-* Welche Erkenntnisse können wir aus existierenden OER-Policies ziehen?
-* Wie können wir von externen Impulsen profitieren?
-* Welche externen Kontakte und Netzwerke können uns unterstützen?
+- Welche Erkenntnisse können wir aus existierenden OER-Policies ziehen?
+- Wie können wir von externen Impulsen profitieren?
+- Welche externen Kontakte und Netzwerke können uns unterstützen?
 
 ### Wie gelingt effektive Vernetzung?
 Die Vernetzung ins Außen ist eine zentrale Komponente im Policy-Prozess. Dabei knüpfen Sie aktiv Kontakte knüpfen und bringen sich in bestehende Netzwerke ein. Sie können somit von den Erfahrungen anderer profitieren und sowohl für die eigene Arbeit als auch das Thema OER Sichtbarkeit (vgl. Schritt 6 Veröffentlichung) schaffen. Konkret können Sie folgende Schritte unternehmen:
