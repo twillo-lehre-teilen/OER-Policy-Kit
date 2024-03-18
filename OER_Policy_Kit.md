@@ -205,7 +205,8 @@ Bei der Erstellung eines Entwurfs wird es konkret. Wie konkret, hängt davon ab,
 ### Gibt es eine Blaupause? - Die twillo Muster Policy
 
 ![Musterpolicy](Muster_Policy_PolicyKit.png)
-Screenshot Webseite [twillo](https://www.twillo.de/oer/web/oer-policy/)
+
+*Screenshot Webseite [twillo](https://www.twillo.de/oer/web/oer-policy/)*
 
 Für eine Übersicht bietet sich die [Muster Policy](https://www.twillo.de/oer/web/oer-policy/) des niedersächsischen Landesportals twillo sehr gut an. Sie ist nach dem Baukastenprinzip aufgebaut und zeigt die typischen Inhalte einer OER-Policy inkl. kleinerer Formulierungsvorschläge und einiger weiterführender Gedanken. Die Muster Policy ist also eine gute erste Anlaufstelle und besteht aus folgenden Bausteinen:
 
@@ -522,6 +523,7 @@ An dieser Stelle endet das OER-Policy Kit und wir hoffen, es konnte Ihnen in Ihr
 Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder Ihre Hochschule eine OER-Policy veröffentlicht hat, die wir noch nicht in der Liste aufgenommen haben, melden Sie sich auch gerne.
 
 ![Anregungen](Anregungen_PolicyKit.png)
+Pixelchen [Ressource_Offene Werkstatt_F-01.png](https://oer-contentbuffet.info/edu-sharing/components/render/0cde07ff-83f5-4882-b765-86c52ccf5644) lizenziert unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.mds)
 
 ## Materialien
 
