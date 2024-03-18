@@ -164,11 +164,12 @@ Neben dem Suchen und Finden von OER-Befürworter:innen ist zudem das Einbeziehen
 
 ### Was machen die Anderen? Woraus lässt sich Inspiration schöpfen?
 Nutzen Sie die Erfahrungen anderer Hochschulen, externe Quellen und OER-Netzwerke, um durch diese Inspiration Ihren eigenen Policy-Prozess zu optimieren. Wenn Ihre eigene Organisationseinheit mit solchen Hochschulen verbunden ist (z.B. über Landesprojekte), die bereits eine OER-Policy veröffentlicht haben, ist eine Kontaktaufnahme voraussichtlich unproblematisch. Darüber hinaus können Vorgesetzte und Kolleg:innen dabei helfen, die gut mit Beschäftigten anderer Hochschulen vernetzt sind.
+
 Auch bei diesem Schritt können relevante Fragen im Format der Change Cards gestellt werden:
 
-- Welche Erkenntnisse können wir aus existierenden OER-Policies ziehen?
-- Wie können wir von externen Impulsen profitieren?
-- Welche externen Kontakte und Netzwerke können uns unterstützen?
+* Welche Erkenntnisse können wir aus existierenden OER-Policies ziehen?
+* Wie können wir von externen Impulsen profitieren?
+* Welche externen Kontakte und Netzwerke können uns unterstützen?
 
 ### Wie gelingt effektive Vernetzung?
 Die Vernetzung ins Außen ist eine zentrale Komponente im Policy-Prozess. Dabei knüpfen Sie aktiv Kontakte knüpfen und bringen sich in bestehende Netzwerke ein. Sie können somit von den Erfahrungen anderer profitieren und sowohl für die eigene Arbeit als auch das Thema OER Sichtbarkeit (vgl. Schritt 6 Veröffentlichung) schaffen. Konkret können Sie folgende Schritte unternehmen:
@@ -206,8 +207,8 @@ In erstem Fall reicht zunächst eine grobe Übersicht der Kapitel und ungefähre
 Screenshot Webseite twillo
 
 Für eine Übersicht bietet sich die Muster Policy des Landesportals twillo sehr gut an. Sie ist nach dem Baukastenprinzip aufgebaut und zeigt die typischen Inhalte einer OER-Policy inkl. kleinerer Formulierungsvorschläge und einiger weiterführender Gedanken. Die Muster Policy ist also eine gute erste Anlaufstelle und besteht aus folgenden Bausteinen:
-   
-1. Die Position der Uni in Bezug auf OER
+
+1. **Die Position der Uni in Bezug auf OER**
 
 - Die Präambel bildet den Anfang der Policy.
 - Die Hochschule macht ihr Verständnis von OER deutlich.
@@ -215,15 +216,15 @@ Für eine Übersicht bietet sich die Muster Policy des Landesportals twillo sehr
 - Welche Zielgruppe werden angesprochen (s. Schritt 1 Überblick)?
 - Anknüpfung an bereits bestehende Themen, die mit OER in Zusammenhang stehen (s. Schritt 1 Überblick)
 
-2. Empfehlungen der Uni („Pflichten“ der Zielgruppe)
-     
+2. **Empfehlungen der Uni („Pflichten“ der Zielgruppe)**
+
 - Welche offenen Lizenzen sollen für die OER vergeben werden?
 - Wie ist bei der Namensnennung im Zuge der Lizenzvergabe vorzugehen?
 - Welche Dateiformate sollen genutzt werden?
 - Wie soll die Qualitätssicherung für die offenen Bildungsmaterialien gewährleistet werden?
 - Der Aspekt „verpflichtende vs. empfehlende Policy” wird erwähnt (s. Kapitel 3 der Guidelines on the development of open educational resources policies).
 
-3. Angebote der Uni (welche Unterstützung möchte sie in Sachen OER gewährleisten)
+3. **Angebote der Uni (welche Unterstützung möchte sie in Sachen OER gewährleisten)**
 
 - Die Lehrenden bekommen trotz § 43 UrhG die für die Erstellung von OER notwendigen Nutzungsrechte eingeräumt.
 - Nennung von Ansprechpartner:innen:
@@ -232,13 +233,7 @@ Für eine Übersicht bietet sich die Muster Policy des Landesportals twillo sehr
 - Wer hostet und betreut ein eventuelles Onlineangebot zum Thema OER, wie z.B. eine OER Homepage, eine OER-Mailadresse und etwaige Handreichungen oder Selbstlernangebote (s. Schritt 6 Veröffentlichung)?
 - Einige Hochschulen vergeben interne Fördermittel für Lehrprojekte und knüpfen deren Vergabe an die Auflage, dass die Ergebnisse als OER veröffentlicht werden müssen.
 
-Diese drei Schritte
-
-* Die Position der Hochschule zu OER
-* Was möchte/empfiehlt die Hochschule?
-* Was leistet die Hochschule dafür?
-
-lassen sich natürlich auch in einer anderen Reihenfolge zu Papier bringen. Bisher hat sich in vielen Policies die folgende Reihenfolge, wie sie auch in der Muster Policy vorgestellt wird, etabliert.
+Diese drei Schritte lassen sich im Detail natürlich auch in einer anderen **Reihenfolge** zu Papier bringen. Bisher hat sich in vielen Policies die folgende Reihenfolge, wie sie auch in der Muster Policy vorgestellt wird, etabliert.
 
 1. Präambel
 2. Lizenzwahl
@@ -249,195 +244,299 @@ lassen sich natürlich auch in einer anderen Reihenfolge zu Papier bringen. Bish
 7. Verantwortlichkeiten
 8. Schulungen zu OER
 
-## Gibt es verabschiedete Policies?
+### Wo gibt es bereits verabschiedete Policies?
 
+Eine weitere bzw. ergänzende Möglichkeit zur Muster Policy ist, dass Sie sich bereits existierende Policies anschauen und vergleichen. Für die Länder Niedersachsen und Nordrhein-Westfalen wurden Karten erstellt, auf denen der Stand der jeweiligen Hochschulen in Bezug auf deren OER-Policy dargestellt wird und die jeweiligen Policies verlinkt sind. Zum Teil gelangen sie über die Karte auch an Kontaktinformationen der Personen, die mit der Entwicklung der Policy betraut sind oder waren.
 <iframe style="border: 3px solid rgb(0, 43, 68)" src="https://mrkwnzl.github.io/orca-nrw-karte/netzwerk-kombiniert.html?oer_policy_default=true" height="550" width="100%"></iframe>
-Eine weitere bzw. ergänzende Möglichkeit ist, dass Sie sich bereits existierende Policies anschauen und vergleichen. Für die Länder Niedersachsen und Nordrhein-Westfalen wurden Karten erstellt, auf denen der Stand der jeweiligen Hochschulen in Bezug auf deren OER-Policy dargestellt wird und die jeweiligen Policies verlinkt sind. Zum Teil gelangen sie über die Karte auch an Kontaktinformationen der Personen, die mit der Entwicklung der Policy betraut sind oder waren.
 Stumme Karte Kreise Niedersachsen von NordNordWest unter CC BY-SA 3.0, angepasst & erweitert von twillo
+
 Darüber hinaus gibt es noch weitere Hochschulen in Deutschland bzw. im deutschsprachigen Raum mit einer verabschiedeten OER-Policy, die wir in einer Liste zusammengefasst haben (Stand 02/24). Außerhalb von Niedersachsen und NRW sind hier folgende deutschsprachige Hochschulen hervorzuheben:
-    • Open Policy der TU Hamburg (HH)
-    • OER-Policy HS Reutlingen (BW)
-    • OER-Policy TU Graz (A)
-    • OER-Policy ZHAW (CH)
+
+- Open Policy der TU Hamburg (HH)
+- OER-Policy HS Reutlingen (BW)
+- OER-Policy TU Graz (A)
+- OER-Policy ZHAW (CH)
 
 Für den internationalen Raum wurde das als offenes Wiki angelegte OER Policy Registry erstellt, welches leider am 14.08.2017 das letzte Mal gepflegt wurde. Als internationale Karte diente in der Vergangenheit die OER-World Map, deren Relaunch mittlerweile beschlossene Sache ist!
-Gibt es Anleitungen oder Handreichungen?
+
+### Gibt es Anleitungen oder Handreichungen?
 Ist Ihnen das zu konkret oder zu unübersichtlich? Dann könnte Ihnen ein Blick in entsprechende Handreichungen zum Thema OER-Policy weiterhelfen. Wir stellen Ihnen im Folgenden zwei vor:
-Whitepaper Open Educational Resources (OER) an Hochschulen in Deutschland
 
 Ein etwas älteres Dokument ist das Whitepaper Open Educational Resources (OER) an Hochschulen in Deutschland (Deimann/Neumann/Muuß-Merholz, 2015). Es ist nicht direkt ein Guide bzw. eine Anleitung, aber es enthält ein Kapitel mit der Überschrift “Policy Making”. Hier wird neben den grundlegenden Funktionen einer OER-Policy in einer übersichtlichen Tabelle auf mögliche Inhalte einer Policy eingegangen. Diese Inhalte werden flankiert von Fragen, die Sie sich in Bezug auf den jeweiligen Inhalts- bzw. Themenblock stellen könnten. Auf einige der Fragen werden Sie in diesem Policy Kit auch stoßen bzw. bereits gestoßen sein. Die Tabelle basiert u.a. auf den wesentlich umfangreichen Guidelines on the development of open educational rescources policies der UNESCO, die auf der nächsten Seite zusammengefasst werden.
-Thema
-zugehörige Frage
-    1. Allgemeines
-Was sind die mit der Policy verbundenen (strategischen) Zielsetzungen? Auf was für einen spezifischen institutionellen Kontext trifft die Policy? Wer ist Adressat der Policy? Was sind OER? Warum und wozu wollen wir OER einsetzen? Welchen Nutzen versprechen wir uns vom Einsatz von OER?
-    2. Urheber- und Lizenzrecht
 
-Welche Publikationen sollten offen lizenziert werden? Welche offene Lizenz soll verwendet werden?
-    3. Material- und Lehrplanentwicklung
-Wer gestaltet wie das Curriculum? Welche Materialien sollten von wem entwickelt werden? Was für Prozesse müssen entwickelt und gesteuert werden? Welche Werkzeuge sind dafür erforderlich?
+| Thema | zugehörige Frage |
+| ----- | ----- |
+| 1. Allgemeines | Was sind die mit der Policy verbundenen (strategischen) Zielsetzungen? Auf was für einen spezifischen institutionellen Kontext trifft die Policy? Wer ist Adressat der Policy? Was sind OER? Warum und wozu wollen wir OER einsetzen? Welchen Nutzen versprechen wir uns vom Einsatz von OER? |
+| 2. Urheber- und Lizenzrecht | Welche Publikationen sollten offen lizenziert werden? Welche offene Lizenz soll verwendet werden? |
+| 3. Material- und Lehrplanentwicklung | Wer gestaltet wie das Curriculum? Welche Materialien sollten von wem entwickelt werden? Was für Prozesse müssen entwickelt und gesteuert werden? Welche Werkzeuge sind dafür erforderlich? |
+| a) Externe Beschaffung | Zu welchem Anteil sollen proprietäre Inhalte zusätzlich zu OER erworben werden? Werden OER von externen
+Dienstleistern hergestellt? Wie müssen entsprechende Verträge gestaltet sein? |
+| b) Dokumentenformate | Welche Dokumentenformate sollten verwendet werden, um ein Maximum an faktischer Offenheit sicherzustellen? |
+| c) Qualitätssicherung  (siehe dazu Abschnitt 5.f) | Wie kann die Qualität der entwickelten OER sichergestellt werden? |
+| 4. Personalverwaltung | Wie können Angestellte dazu motiviert werden, sich in die Herstellung offener Materialien einzubringen? Welche Belohnungssysteme müssen installiert werden? Wie sollten Lehrkräfte weitergebildet werden, damit Sie die notwendigen Fähigkeiten entwickeln, um sich in die Herstellung und Verwendung von OER einzubringen? Wem gehören die Inhalte, die während der Arbeitszeit hergestellt werden? Wie wird die Erstellung von OER ggf. mit dem Lehrdeputat verrechnet? |
+| 5. IT Infrastruktur (siehe dazu Abschnitt 5.g) | Welche IT-Infrastruktur ist notwendig, um OER zu entwickeln, zu verwalten und zu verwenden? |
+| 6. Kosten | Wie viel Geld soll für die Entwicklung von OER verwendet werden? Wo kommt dieses Geld her? Wie kann sichergestellt werden, dass auch langfristig ausreichende Mittel zur Verfügung stehen? |
 
-    1. Externe Beschaffung
-
-Zu welchem Anteil sollen proprietäre Inhalte zusätzlich zu OER erworben werden? Werden OER von externen
-Dienstleistern hergestellt? Wie müssen entsprechende Verträge gestaltet sein?
-
-    2. Dokumentenformate
-Welche Dokumentenformate sollten verwendet werden, um ein Maximum an faktischer Offenheit sicherzustellen?
-
-    3. Qualitätssicherung
-Wie kann die Qualität der entwickelten OER sichergestellt werden?
-    4. Personalverwaltung
-
-Wie können Angestellte dazu motiviert werden, sich in die Herstellung offener Materialien einzubringen? Welche Belohnungssysteme müssen installiert werden? Wie sollten Lehrkräfte weitergebildet werden, damit Sie die notwendigen Fähigkeiten entwickeln, um sich in die Herstellung und Verwendung von OER einzubringen? Wem gehören die Inhalte, die während der Arbeitszeit hergestellt werden? Wie wird die Erstellung von OER ggf. mit dem Lehrdeputat verrechnet?
-    5. IT Infrastruktur (siehe dazu Abschnitt 5.g)
-Welche IT-Infrastruktur ist notwendig, um OER zu entwickeln, zu verwalten und zu verwenden?
-    6. Kosten
-Wie viel Geld soll für die Entwicklung von OER verwendet werden? Wo kommt dieses Geld her? Wie kann sichergestellt werden, dass auch langfristig ausreichende Mittel zur Verfügung stehen?
 Tabelle aus Whitepaper Open Educational Resources (OER) an Hochschulen in Deutschland von Markus Deimann, Jan Neumann, Jöran Muuß-Merholz /open-educational-resources.de – Transferstelle für OER. Lizenziert unter CC BY 4.0
+
 Ein weiteres wichtiges Kapitel des Whitepapers ist das Kapitel 5.h, welches sich der besonderen Rolle der Bibliotheken im Bereich von OER widmet. Auf diesen Stakeholder sind sie evtl. im Schritt 1 Überblick bereits gestoßen. An dieser Stelle sei erneut auf diese Personengruppe verwiesen: Im Rahmen des Entwurfsprozesses machen Sie sich u.U. auch Gedanken darüber, welche Anreizsysteme Sie in der Policy verschriftlichen wollen oder Sie werden im Rahmen der Gespräche mit den Stakeholder:innen darauf angesprochen. Hier können Bibliotheken ins Spiel kommen. Das Sichtbarmachen von OER z.B. durch die Vergabe von DOI oder durch die Anbindung der Bibliotheksrecherche an OER-Repositorien kann ein attraktiver Anreiz für OER Produzent:innen sowie für Nutzer:innen sein. Die Bibliotheken spielen hierbei aufgrund ihrer Expertise in puncto Repositorien und Schnittstellen eine wichtige Rolle.
-UNESCO Guidelines zur Erstellung von OER-Policies
+
+### Welche Hilfestellungen bieten die UNESCO Guidelines?
 
 Die UNESCO hat in Zusammenarbeit mit dem Commonwealth of Learning die Guidelines on the development of open educational resources policies veröffentlicht. Diese Guidelines sind ein sehr umfangreiches Dokument und enthält evtl. Informationen, die erst relevant werden, wenn man im Policy-Prozess vorangeschritten ist, ist also tendenziell eher nichts für Anfänger:innen. Im Rahmen dieser englischsprachigen Leitlinie werden Sie durch sieben Phasen des Entwicklungsprozesses an die Erstellung einer Policy herangeführt.
+
 Achtung: In den Guidelines wird unter „Policy” nicht ausschließlich das Dokument verstanden, welches am Ende eines Policy-Prozesses beschlossen und veröffentlicht wird, so wie es im Rahmen dieses Kits. In den Guidelines wird eher auf eine umfassende Strategie zur Förderung des Themas OER abgezielt, wozu u.a. das schriftliche Fixieren dieser Strategien gehört.
 
 Map of the seven-phase policy process aus Guidelines on the development of open educational resources policies von UNESCO und Commonwealth of Learning unter CC BY-SA 3.0
+
 Jedes Kapitel der Guidelines beginnt mit einem Abstract und einer Liste von 3-5 (Lern-)zielen, die durch die Auseinandersetzung mit dem Kapitel angebahnt werden sollen. Jedes Kapitel endet mit ausführlichen Leitfragen (“Guiding Questions“), die die Leser:innen zu ersten Formulierungen für die OER-Policy anregen sollen. Wir haben in einem Walkthrough alle sieben Kapitel für Sie zusammengefasst.
+
 Wenn die Guidelines Sie zunächst erschlagen, ist das vollkommen normal! Es handelt sich um ein sehr umfangreiches Dokument, in dessen Rahmen man sich Gedanken über Aspekte oder Bereiche machen kann, die evtl. noch nicht relevant sind und es ggf. auch nie werden. Leider ist das im Vorfeld schwer zu erkennen. Wir empfehlen daher zumindest die Startseite jedes Kapitels zu lesen (Abstract und Lernziele) sowie die letzte Seite (Guiding Questions).
-Schritt 3: Feedback
+
+## Schritt 3: Feedback
 Von wem hole ich mir wann wie Rückmeldung zum Entwurf ein?
+----
+
 Wurde nun ein erster Entwurf einer Policy formuliert, sollte hierauf in einen oder mehreren Schleifen Feedback von verschiedenen Akteur:innen eingeholt werden, um den Text zu schärfen und die Inhalte zu prüfen. Je nach Situation und Struktur der jeweiligen Hochschule kommt es darauf an, wer wann wie Feedback gibt.
+
 Pixelchen Feedback_F-01.png unter CC0
-Von wem wird Feedback eingeholt?
+
+### Von wem wird Feedback eingeholt?
+
 Idealerweise wird Feedback von allen Stakeholder:innen eingeholt, mit denen man zuvor bereits über die Entwicklung einer OER-Policy gesprochen hat (s. Schritt 1 Überblick). Das können bis zu einem vorzeigbaren Entwurf eine ganze Menge Menschen sein – es bietet sich also an, eine kleine Liste anzulegen mit den Personen, mit denen bereits Kommunikation zum Thema OER stattgefunden hat. Gleichzeitig ist zu überlegen, welche Akteur:innen unmittelbar mit den Inhalten der Policy verknüpft sind, z.B. das Justitiariat bezüglich der Erstellung der rechtlichen Inhalte oder die Hochschul-/Mediendidaktik bezüglich der Angebote zur Förderung von OER. Diese Personen bzw. Gruppen sollten spätestens zum Zeitpunkt des Feedbacks miteinbezogen werden. Relevante Feedbackgebende können sein:
+
 Justitiariat
+----
+
 Jurist:innen prüfen die Formulierungen in der Policy auf ihre Rechtskonformität und Rechtsverbindlichkeit. Es wird geschaut, ob alle rechtlich relevanten Inhalte enthalten sind (z.B. sollte die Policy mit einer Präambel beginnen und die Namensnennung der Hochschule enthalten). Falls die Hochschule in der Policy signalisieren möchte, Lehrenden und Mitarbeitenden notwendige Nutzungsrechte für die offene Lizenzierung einzuräumen, muss diese Formulierung entsprechend rechtswirksam formuliert sein. Insgesamt kann das Justitiariat dazu beraten, wie die Policy formuliert sein muss, damit sie sich an die zuvor festgelegte Zielgruppe richtet, wie z.B. an alle Hochschulangehörige oder lediglich an die Mitarbeitenden und Lehrenden. Zudem kann die Frage geklärt werden, was (zwingend) in der Policy verhandelt wird und was eher in ergänzenden Dokumente oder als aktuelle Informationen auf die Webseite geregelt wird.
+
 Bibliothek
+----
+
 Bibliotheken beschäftigen sich schon sehr lange mit Open Access, Open Data oder Open Educational Resources und haben dadurch einen großen Wissens- und Erfahrungsschatz sowie ein gutes Netzwerk (vgl. BuenodelaFuente 2012, zit. nach Deimann 2015). Bibliotheksmitarbeitende können beim Feedback zur OER-Policy folgende Perspektiven einbringen:
-    • Metadatenstandards
-    • Dokumentenformate
-    • Urheberrecht
-    • Repositorien und Schnittstellen
-    • Problembewusstsein
+
+- Metadatenstandards
+- Dokumentenformate
+- Urheberrecht
+- Repositorien und Schnittstellen
+- Problembewusstsein
+
 Engagierte Personen im Bereich (digitales) Lehren und Lernen
+----
+
 Lehrende und Personen, die hochschulweit durch ihr Engagement in der Lehre bekannt sind und z.B. entsprechenden Gremien/ Arbeitsgruppen/ Funktionen angehören, können aus ihrer jeweiligen Perspektive konstruktives Feedback geben. Das können z.B. Lehrende mit OER-Erfahrung, Fachbereichsleitungen, neuberufene Professor:innen, Lehrende mit langjähriger Lehrerfahrung oder Lehrende verschiedener Fachdisziplinen sein. Auch bereits etablierte Arbeitsgruppen, wie z.B. eine AG Digitalisierung sind gute Anlaufstellen. Wenn man noch nicht lange an der Hochschule ist, hilft es, erfahrene Kolleg:innen um Rat zu fragen, um keine an der jeweiligen Hochschule relevante Gruppe/ Person zu vergessen.
+
 Zentrale Schnittstellen
+----
+
 Sobald in der Policy Maßnahmen und Ansprechpersonen genannt werden, die Einrichtungen bzw. Abteilungen an der Hochschule betreffen, muss von diesen Schnittstellen Feedback eingeholt werden. Wenn z.B. in der Policy konkrete Maßnahmen zur Förderung von OER durch spezifische Unterstützungsangebote oder Lehrförderlinien formuliert sein sollen, sollten diejenigen einbezogen werden, die diese Maßnahmen umsetzen. Relevante Schnittstellen können sein: Hochschul-/ Mediendidaktik, eLearning, Evaluation, Wissenschaftliche Weiterbildung, Qualitätsmanagement etc. Auch hier gibt es ggf. bereits etablierte Arbeitsgruppen (z.B. AG Lehrentwicklung), die konsolidiert Feedback geben können. Besonders wichtig ist dabei, gezielt nachzufragen, ob diese Schnittstellen in der Policy als „Ansprechinstitutionen“ genannt werden wollen und wenn ja, wie konkret deren Angebot benannt werden soll (z.B. Beratung, Schulungen, Materialien usw.).
+
 Entscheidungsträger:innen
+----
+
 Je nachdem, wer die OER-Policy in Auftrag gegeben hat, ist es sinnvoll, auch diese Person(en) um Feedback zu bitten. Insbesondere Personen in höheren Positionen (wie Vizepräsident:in/ Prorektor:in oder sogar Präsident:in/ Rektor:in) bringen eine strategische und hochschulpolitische Perspektive ein.
+
 Studierende
+----
+
 Die Gruppe der Studierenden ist etwas speziell. Zwar sind sie über die Lehre direkt von OER betroffen, dennoch sind sie nicht die ersten Adressate:innen einer OER-Policy, in der die Hochschule den Mitgliedern empfiehlt, OER zu nutzen und/oder zu erstellen. Da aber viele Policies a) Studierende als Zielgruppe benennen sowie b) als Ziel u.a. die Verbesserung studentischen Lernens aufzählen, kann es sinnvoll sein, ab einem bestimmten Punkt Studierende miteinzubeziehen. Dies kann z.B. über die Einbindung von Hilfskräften, Tutor:innen oder Studierendenvertretungen realisiert werden.
-Wann wird Feedback eingeholt?
+
+### Wann wird Feedback eingeholt?
 Der Zeitpunkt des Feedbacks kann sehr variabel sein – je nachdem wie partizipativ man den Prozess gestalten möchte und wie viel Zeit zur Verfügung steht. Mindestens eine Feedbackschleife sollte nach dem Entwurf mit den relevanten Akteur:innen bzw. Stakeholder:innen durchgeführt werden. Es können auch mehrere Feedbackschleifen durchlaufen werden, die zu unterschiedlichen Zeitpunkten mit unterschiedlichen Akteur:innen stattfinden und dadurch unterschiedliche Feedbacks eingeholt werden können. In folgenden Phasen kann das Einholen von Feedback sinnvoll sein:
-    • Vor dem Kickoff (z.B. von Entscheidungsträger:innen)
-    • Vor der ersten Redaktionsphase (z.B. von OER-Befürworter:innen)
-    • Nach der Redaktionsphase (z.B. von Entscheidungsträger:innen)
-    • Der Feinschliff (v.a. mit Justitiariat)
-Wie wird Feedback eingeholt?
+
+- Vor dem Kickoff (z.B. von Entscheidungsträger:innen)
+- Vor der ersten Redaktionsphase (z.B. von OER-Befürworter:innen)
+- Nach der Redaktionsphase (z.B. von Entscheidungsträger:innen)
+- Der Feinschliff (v.a. mit Justitiariat)
+
+### Wie wird Feedback eingeholt?
 Feedback einholen kann auf verschiedene Art und Weise passieren, z.B. synchron/ asynchron, persönlich/ virtuell, mündlich/ schriftlich, einzeln oder in der Gruppe etc. In jedem Fall ist es sinnvoll, den Feedbackgebenden Leitfragen mit an die Hand zu geben, damit sie wissen, worauf sie besonders achten bzw. aus welcher Perspektive sie drauf schauen sollen. Grundsätzlich kann man sich folgende Fragen stellen, bevor man Feedback zu der OER-Policy einholt:
-    • Welche offenen Fragen möchte ich mit dem Feedback beantworten?
-    • Welche Art von Feedback will ich haben? Wer kann mir das geben?
-    • Was müssen die Feedbackgebenden über die OER-Policy und den Feedbackprozess wissen, bevor sie konstruktives Feedback geben können (vgl. Roadmap Uni Bielefeld)?
-    • Welche Leitfragen kann ich den Feedbackgebenden zur Orientierung mitgeben?
-    • Wie möchte ich das Feedback einholen? Und wie gehe ich mit dem Feedback um?
-    • Gibt es eine Rückkopplung an die Feedbackgebenden (s. Schritt 4 Überarbeitung)? Braucht es mehrere Feedbackschleifen?
+
+- Welche offenen Fragen möchte ich mit dem Feedback beantworten?
+- Welche Art von Feedback will ich haben? Wer kann mir das geben?
+- Was müssen die Feedbackgebenden über die OER-Policy und den Feedbackprozess wissen, bevor sie konstruktives Feedback geben können (vgl. Roadmap Uni Bielefeld)?
+- Welche Leitfragen kann ich den Feedbackgebenden zur Orientierung mitgeben?
+- Wie möchte ich das Feedback einholen? Und wie gehe ich mit dem Feedback um?
+- Gibt es eine Rückkopplung an die Feedbackgebenden (s. Schritt 4 Überarbeitung)? Braucht es mehrere Feedbackschleifen?
+
 Mit diesen Fragen kann man sich einen groben Fahrplan für die Feedbackschleifen erstellen. Welche konkrete Vorgehensweise hier empfehlenswert ist, hängt von der Kommunikationskultur der jeweiligen Hochschule ab: Wie kurz sind die Wege? Kann man Kolleg:innen und Leiter:innen anderer Abteilungen diesbezüglich direkt ansprechen oder sollte der Weg über den/die Vorgesetzte laufen? Braucht es einen offiziellen Workflow oder kann man einfach Rücksprache halten? Folgende Szenarien skizzieren beispielhaft verschiedene Feedbackprozesse, wobei diese auch kombiniert werden können:
+
 Szenario A - Der kurze Weg
+----
 Wer bereits mit vielen Stakeholder:innen zur OER-Policy persönlichen Kontakt hatte, kann den Entwurf direkt an diese schicken und um Feedback bitten – ggf. wird der Feedbackprozess zuvor kurz per Mail oder Telefon angekündigt. Daraufhin können die Feedbackgebenden schriftlich asynchron Feedback geben, welches schrittweise eingearbeitet wird oder Rückfragen und Anmerkungen werden telefonisch aufgenommen und geklärt.
+
 Szenario B - Alle an einen Tisch holen
+----
 Ein eher formales Setting ist die Präsentation des Policy-Entwurfs in einer gemeinsamen Kick-off-Veranstaltung mit den beteiligten Stakeholder:innen, die dazu eingeladen wurden (s. Mailvorlage und Präsentationsfolien Kick-off). Im Kick-off kann nochmal deutlich gemacht werden, dass die Policy nur ein Türöffner ist, aber ein wesentlicher Schritt zur Förderung von OER an der Hochschule sein kann. Folgende Punkte können dabei auf der Agenda stehen:
-    • Was ist OER und warum ist das wichtig?
-    • Warum braucht es eine OER-Policy?
-    • Was steht im Entwurf?
-    • Wie können die Beteiligten daran teilhaben bzw. mitwirken?
+- Was ist OER und warum ist das wichtig?
+- Warum braucht es eine OER-Policy?
+- Was steht im Entwurf?
+- Wie können die Beteiligten daran teilhaben bzw. mitwirken?
+
 Szenario C - Auf mehreren Hochzeiten tanzen
+----
 Soll Feedback von vielen verschiedenen Stakeholder:innen eingeholt werden, bei denen ein gemeinsames Treffen schwierig zu organisieren ist, kann man den Entwurf mit den verschiedenen Gruppen einzeln besprechen bzw. eine Kombination aus verschiedenen Feedbackmethoden machen. Dabei können z.B. engagierte Lehrende zu einem Feedback-Treffen mündlich synchron Feedback geben, während das Feedback der relevanten Schnittstellen v.a. asynchron schriftlich eingeholt wird, da hier ggf. teaminterne Absprachen zu Maßnahmen und Unterstützungsangeboten erforderlich sind. Mit dem Justitiariat sind ggf. mehrere Feedbackschleifen - mal synchron, mal asynchron - notwendig, bis jede Formulierung durch das schrittweise Feedback geprüft und angepasst ist. Dieser Prozess ist eher aufwändig, aber ermöglicht zielgruppenspezifisches Feedback.
-Schritt 4: Überarbeitung
+
+## Schritt 4: Überarbeitung
 Wie erhält der Policy-Entwurf den letzten Schliff?
+----
+
 In diesem Schritt geht es darum, den Policy-Entwurf einem Überarbeitungsprozess zu unterziehen und für den finalen Rücklauf an Entscheidungsträger:innen vorzubereiten. Wie sich dieser Arbeitsschritt gestalten kann, hängt von den Gegebenheiten Ihrer Hochschule und der Vorgehensweise bei den vorangegangenen Schritten Ihres individuellen OER-Policy-Prozesses ab.
+
 In jedem Fall bedeutet Überarbeitung, dass der Policy-Entwurf einen Redaktionsprozess durchläuft. Dazu gehört nicht nur, den Entwurf durch Korrektorat und Lektorat gezielt qualitativ zu verbessern. Es geht insbesondere darum, zuvor erhaltenes Feedback zum Policy-Entwurf (s. Schritt 3 Feedback) aufzugreifen und bei der Überarbeitung zu berücksichtigen. Dazu gehört es, die Feedbackgeber:innen bei Rückfragen zu kontaktieren und mit ihnen inhaltliche Aspekte und Formulierungen zu besprechen. Eine Herausforderung dabei ist, eine Umgangsweise damit zu finden, dass nicht alle Änderungs- und Ergänzungsvorschläge der Feedbackgeber:innen umgesetzt werden können.
+
 Es kann in dieser Phase erforderlich sein, relevante Schnittstellen an der Hochschule, die bei der Entwicklung von Richtlinien miteinbezogen werden müssen und bisher noch nicht in den Policy-Entwicklungsprozess involviert waren, „mit ins Boot zu holen“ und den Policy-Entwurf mit ihnen abzustimmen. Welche Schnittstellen dabei unabdingbar sind, kann von Hochschule zu Hochschule unterschiedlich sein (s. Schritt 1 Überblick). Es kann sein, dass Sie im Laufe des Feedbackprozesses schon auf Personen hingewiesen wurden, die Sie noch in die Policy-Aktivitäten einbinden müssten. Orientieren Sie sich ansonsten, soweit möglich, an vorangegangenen Prozessen, die eine Ähnlichkeit zu Policy-Entwicklung aufweisen, z.B. die Erarbeitung einer Open-Access-Policy oder einer Digitalisierungsstrategie. Erkundigen Sie sich, wie diese Prozesse abgelaufen sind und welche Schnittstellen an Ihrer Hochschule üblicherweise an solchen Abläufen beteiligt sein müssen. Dabei kann es sich insbesondere um Verantwortliche für Datenschutz (Datenschutzbeauftragte, Datenschutzmanagement) und Hochschulgremien, in erster Linie den Senat der Hochschule und für das Thema relevante Senatskommissionen (wie z.B. eine Zentrale Studienkommission oder eine andere Kommission für Lehre und Studium), handeln. Je nach Organisationsstruktur der Hochschule kommen auch Mitarbeitendenvertretungen wie der Personalrat und die Schwerbehindertenvertretung in Frage.
+
 Des Weiteren kann zum Schritt „Überarbeitung“ auch gehören, den Policy-Entwurf mit Vertreter:innen der Entscheidungsebene der Hochschule, üblicherweise sind dies Prorektor:innen oder Vizepräsident:innen für Studium und Lehre, zu besprechen. Dies ist in besonderem Maße relevant, wenn zu Anfang des Policy-Prozesses kein offizieller Auftrag der Entscheidungsebene stand, eine OER-Policy zu entwickeln, oder wenn dieser Auftrag wenig konkret war. Hier kann man nun die Weichen stellen, um den nächsten Schritt, den Rücklauf an die Entscheidungsebene (s. Schritt 5 Beschluss), vorzubereiten. So werden die Chancen erhöht, dass der Policy-Entwurf bei den Entscheidungsträger:innnen tatsächlich auf Akzeptanz stößt, dort Fürsprecher:innen findet und es letztlich zum Beschluss der OER-Policy kommt.
-Weitere Überzeugungsarbeit und Abstimmungsprozesse
+
+### Bedarf es weiterer Überzeugungsarbeit und Abstimmungsprozesse?
+
 Evtl. ist es in dieser Phase des Policy-Prozesses erforderlich, die erwähnten Schnittstellen oder die Entscheidungsebene noch (weiter) von der Relevanz einer Policy (und damit möglicherweise auch von OER) zu überzeugen. Hierfür und um den bisherigen Policy-Entwurf vorzustellen und sich darüber weiter abzustimmen, kann es hilfreich sein, speziell auf diese Zwecke zugeschnittenes Informationsmaterial zu entwickeln. Als Methode bietet sich dafür besonders eine Präsentation an. Diese sollte so gestaltet sein, dass die Zielgruppe diese eigenständig nutzen und sich schnell „durchklicken” kann, um einen Überblick zu bekommen. Die Präsentation kann auch (z.B. über die entsprechende Funktion bei PowerPoint) als vertontes Video vorgelegt werden, das sich die Beteiligten anschauen können.
+
 Egal in welcher Form das Informationsmaterial vorgelegt oder vorgestellt wird: Die knappen Zeitressourcen der Zielgruppe sollten berücksichtigt werden. Die Vermittlung der Inhalte sollte daher i.d.R. nicht mehr als fünf Minuten in Anspruch nehmen. Daher sollte dieses Material sehr kompakt sein und nur die wesentlichen Aspekte angesprochen werden:
-    • Beweggründe für eine OER-Policy: Warum braucht eine / gerade unsere Hochschule eine Policy? Welche Vorteile ergeben sich für jede:n einzelne:n Hochschulangehörige:n?
-    • Hintergrundinformationen zu OER (wenn die Zielgruppe bisher nur ungenaue oder gar keine Vorstellung von OER hat): Was sind OER? Wie erkenne ich OER? Wie muss ich sie kennzeichnen?
-    • Ggf. inhaltliche Skizze des Policy-Entwurfs: Worum geht es in der Policy? Wie empfehlend/direktiv ist sie formuliert? Welche zukünftigen Ansprechpersonen werden genannt?
-    • Ggf. bisherige und weitere Schritte im OER-Policy-Prozess: Was passiert nach der Überarbeitung? Was geschieht nach einem möglichen Beschluss der Policy? Wo soll sie veröffentlicht werden? Wie würde die Umsetzung der Policy vorangetrieben werden?
-Wie gestaltet sich der konkrete Überarbeitungsprozess?
+
+- Beweggründe für eine OER-Policy: Warum braucht eine / gerade unsere Hochschule eine Policy? Welche Vorteile ergeben sich für jede:n einzelne:n Hochschulangehörige:n?
+- Hintergrundinformationen zu OER (wenn die Zielgruppe bisher nur ungenaue oder gar keine Vorstellung von OER hat): Was sind OER? Wie erkenne ich OER? Wie muss ich sie kennzeichnen?
+- Ggf. inhaltliche Skizze des Policy-Entwurfs: Worum geht es in der Policy? Wie empfehlend/direktiv ist sie formuliert? Welche zukünftigen Ansprechpersonen werden genannt?
+- Ggf. bisherige und weitere Schritte im OER-Policy-Prozess: Was passiert nach der Überarbeitung? Was geschieht nach einem möglichen Beschluss der Policy? Wo soll sie veröffentlicht werden? Wie würde die Umsetzung der Policy vorangetrieben werden?
+
+### Wie gestaltet sich der konkrete Überarbeitungsprozess?
+
 Bevor man mit der Überarbeitung beginnen kann, ist zunächst zu klären, wer an diesem Schritt in welcher Form beteiligt sein soll. Wenn Sie selbst den Policy-Prozess bisher gestaltet und vorangetrieben, den Policy-Entwurf verfasst und Feedback eingeholt haben, werden Sie sich auch als redaktionell verantwortlich betrachten. Es sollte aber möglichst mehrere Überarbeitungsdurchgänge mit unterschiedlichen Perspektiven auf den Text geben, bei denen die Feedbackgeber:innen und auch weitere Personen herangezogen werden.
+
 Empfehlenswert ist, sich zunächst mit dem Feedback zu beschäftigen, das es im vorangegangenen Schritt (s. Schritt 4 Feedback) zum Policy-Entwurf gegeben hat. Schauen Sie sich alle Rückmeldungen an, die Sie erhalten haben, an und treten Sie in den Dialog mit den Feedbackgeber:innen:
-    • Ist etwas nicht verständlich oder haben Sie Rückfragen? Kontaktieren Sie die Feedbackgeber:innen und tauschen Sie sich mit ihnen über Inhalte und Formulierungen aus. Fragen Sie gezielt nach Begründungen für bestimmte Änderungen und Ergänzungen.
-    • Können Feedbackwünsche nicht vollständig übernommen werden, aber eventuell in abgewandelter Form? Stimmen Sie sich mit den Feedbackgeber:innen ab, legen Sie Ihre Position dar und versuchen Sie, Kompromisslösungen zu erarbeiten.
-    • Lassen sich Vorschläge in der OER-Policy nicht berücksichtigen? Hier ist Transparenz besonders wichtig. Machen Sie den Feedbackgeber:innen gegenüber deutlich, dass Sie sich mit den jeweiligen Rückmeldungen auseinandergesetzt haben. Erläutern Sie, warum die entsprechenden Änderungen oder Ergänzungen von Ihnen nicht übernommen werden können. Dies kann darin begründet sein, dass Aspekte an Ihrer Hochschule nicht umsetzbar sind oder als Teil einer OER-Policy erfahrungsgemäß nicht sinnvoll erscheinen. Möglicherweise handelt es sich auch um Details, die im Rahmen einer derart allgemeinen Richtlinie nicht festgehalten werden können, sondern eher in gesonderten, ggf. hochschulinternen Dokumenten.
+
+- Ist etwas nicht verständlich oder haben Sie Rückfragen? Kontaktieren Sie die Feedbackgeber:innen und tauschen Sie sich mit ihnen über Inhalte und Formulierungen aus. Fragen Sie gezielt nach Begründungen für bestimmte Änderungen und Ergänzungen.
+- Können Feedbackwünsche nicht vollständig übernommen werden, aber eventuell in abgewandelter Form? Stimmen Sie sich mit den Feedbackgeber:innen ab, legen Sie Ihre Position dar und versuchen Sie, Kompromisslösungen zu erarbeiten.
+- Lassen sich Vorschläge in der OER-Policy nicht berücksichtigen? Hier ist Transparenz besonders wichtig. Machen Sie den Feedbackgeber:innen gegenüber deutlich, dass Sie sich mit den jeweiligen Rückmeldungen auseinandergesetzt haben. Erläutern Sie, warum die entsprechenden Änderungen oder Ergänzungen von Ihnen nicht übernommen werden können. Dies kann darin begründet sein, dass Aspekte an Ihrer Hochschule nicht umsetzbar sind oder als Teil einer OER-Policy erfahrungsgemäß nicht sinnvoll erscheinen. Möglicherweise handelt es sich auch um Details, die im Rahmen einer derart allgemeinen Richtlinie nicht festgehalten werden können, sondern eher in gesonderten, ggf. hochschulinternen Dokumenten.
+
 Grundsätzlich sollten Sie sich bewusst machen, dass Sie selbst über OER-(Policy-)Expertise verfügen und als Feedbacknehmer:in die Freiheit haben, auszuwählen, welche Rückmeldungen bei der Überarbeitung des Policy-Entwurfs tatsächlich von Nutzen sind und umgesetzt werden. Gleichzeitig sollten Sie die Expertise der Feedbackgeber:innen wertschätzen und alle Änderungs- oder Ergänzungsvorschläge sorgfältig prüfen. Sie sollten auch allen Feedbackgeber:innen gegenüber Ihre Dankbarkeit dafür zum Ausdruck bringen, dass diese ihr Wissen, ihre Arbeitskraft und ihre Perspektiven in den Policy-Prozess einbringen und diese dadurch unterstützen.
+
 Nach der Auseinandersetzung mit dem Feedback und der Einarbeitung von Rückmeldungen bzw. Änderungen infolge des Austausches mit den Feedbackgeber:innen ist als weiterer Überarbeitungsdurchgang ein Lektorat zu empfehlen. Hier ist es ratsam, eine bisher am Prozess unbeteiligte Person um ihre Mithilfe zu bitten, die bereits über Lektoratserfahrungen verfügt, sodass eine qualitative Verbesserung des Textes zu erwarten ist. Da es beim Lektorat neben dem Korrektorat sowohl zu stilistischen als auch zu inhaltlichen Überarbeitungen kommt, ist abzuwägen, ob der:die Lektor:in selbst OER-(Policy-)Expertise haben sollte. Einerseits mag dies ein Vorteil bei der Überarbeitung sein, andererseits geht es darum, dass die OER-Policy am Ende allgemeinverständlich und in sich stimmig sein soll, sodass der Blick aus Laienperspektive vielleicht noch inhaltliche Schwächen oder Lücken offenbart.
+
 Je nach Kapazitäten sind auch verschiedene Lektoratsdurchgänge denkbar, bei denen sowohl aus Expert:innenperspektive (z.B. OER-Praktiker:innen, Mitarbeitende der Hochschul- und Mediendidaktik und Jurist:innen mit entsprechenden Vorkenntnissen) als auch aus der Sicht von OER-Neulingen (z.B. Lehrende und Studierende ohne OER-Erfahrungen) auf das Dokument geschaut wird. Bei mehreren Lektoratsdurchgängen ist eine sorgfältige Koordination wichtig: Wer bearbeitet in welcher Reihenfolge das Dokument oder parallel verschiedene Fassungen des Textes? Wie werden verschiedene Lektoratsdurchgänge zusammengeführt? Gibt es ein „Schlusslektorat”?
+
 In jedem Fall sollten Sie sich den Text nach dem Lektorat noch einmal genau ansehen, um sicherzustellen, dass es zu keinen Änderungen gekommen ist, bei denen es sich aus Ihrer Sicht nicht um Verbesserungen, sondern um inhaltliche Verfälschungen oder inkorrektes Vokabular handelt, die eine Berichtigung erforderlich machen.
+
 Ist die Zeit knapp und reicht nicht für ein Lektorat, sollte zumindest ein Korrektorat durchgeführt werden, bei der eine entsprechend kundige Person Rechtschreibung, Grammatik und Zeichensetzung sowie die Einheitlichkeit von Schreibweisen (Fachbegriffe, Namen, Abkürzungen, Zahlen etc.) überprüft.
-Mit welchen Tools wird gearbeitet?
+
+### Mit welchen Tools wird gearbeitet?
+
 Hinsichtlich der Tools für die Überarbeitung ist es ratsam, an die bisher für den Entwurf der Policy und das Einholen von Feedback verwendeten Instrumente anzuknüpfen. Auch hier sind die Gegebenheiten Ihrer Hochschule zu berücksichtigen:
-    • Ist es übliche Arbeitspraxis, Dokumente per Mail hin- und herzuschicken?
-    • Wird mit Hilfe von Google Docs oder Open Documents und/oder im Rahmen einer Hochschulcloud (z.B. Nextcloud, Sciebo) oder der Academic Cloud gearbeitet?
-    • Werden Wikis oder Etherpads genutzt, um Texte kollaborativ zu erstellen?
+
+- Ist es übliche Arbeitspraxis, Dokumente per Mail hin- und herzuschicken?
+- Wird mit Hilfe von Google Docs oder Open Documents und/oder im Rahmen einer Hochschulcloud (z.B. Nextcloud, Sciebo) oder der Academic Cloud gearbeitet?
+- Werden Wikis oder Etherpads genutzt, um Texte kollaborativ zu erstellen?
+
 Sie sollten auf die Tools zurückgreifen, mit denen die am Überarbeitungsprozess beteiligten Personen bereits vertraut sind, sodass man sich nicht noch in ein neues Tool einarbeiten muss und die ganze Konzentration auf den Policy-Text richten kann.
-Schritt 5: Beschluss
+
+## Schritt 5: Beschluss
 Was sind die letzten Schritte bis zum Beschluss?
+----
+
 Nachdem Sie das Policydokument in eine Form gebracht haben, die „beschlussfähig” ist, gibt es zwei Möglichkeiten. Entweder wird ab jetzt für Sie übernommen: Sie reichen lediglich die Policy und ggf. einen kurzen Bericht zu Ihrem Vorgehen ein, der dann zum finalen Entscheid übergeben wird. Oder Sie stellen die Policy noch einmal in einem letzten Entscheidungs-Gremium vor und fassen den bisherigen Verlauf des Entwicklungsprozesses zusammen.
+
 Es empfiehlt sich, dass Sie sich im gesamten Prozess Notizen dazu machen, wie ihr Weg verläuft und diesen gut dokumentieren: Ihre persönliche Roadmap. Hierzu gehören auch ein paar Zahlen, z.B. wie viele Personen am Kick-off teilgenommen haben (s. Schritt 3 Feedback) oder genau festzuhalten, mit wem Sie, worüber im Austausch waren. Mit diesen Daten können die Entscheidungsträger:innen einen Eindruck davon bekommen, welche Wellen Sie mit Ihrem Thema an der Hochschule bereits geschlagen haben.
+
 Auch wenn diese finale Runde lediglich formal stattfindet, kann es sein, dass kritische und grundlegende Nachfragen hinsichtlich der Policy oder auch zu OER im Allgemeinen gestellt werden. Lassen Sie sich davon nicht entmutigen und seien Sie argumentativ vorbereitet. Insbesondere auf den höheren Entscheidungsebenen treffen Sie auf Personen, die mit übergeordneten und hochschulstrategischen Entscheidungen betraut sind. Hier kommt es darauf an, welchen Stellenwert OER an ihrer Hochschule oder auf Landesebene hat und inwieweit sich Ihre Adressat:innen in der Thematik auskennen.
+
 Andererseits sind wahrscheinlich auch solche Personen anwesend, die mit OER und Open Science vertraut sind oder sogar selbst Verfechter:innen sind. Mit diesen Personen sind Sie sicherlich vorher im Austausch gewesen und können Sie nun als Verbündete nutzen.
 Zu diesem Zeitpunkt haben Sie i.d.R. bereits einen offiziellen Auftrag zur Entwicklung einer OER-Policy erhalten (s. Schritt 1 Überblick), auf den Sie verweisen können. Es ist hilfreich, dass Sie den genauen Begriff dieses „Beschlusses” (z.B. Rektoratsbeschluss oder Präsidiumsbeschluss) und das Datum benennen können und idealerweise auch, wo dieser Beschluss nachzuschlagen ist. Je nachdem, wie oft Sie solche Prozesse schon begleitet bzw. durchgeführt haben, sind Sie mit den hochschulpolitischen Begriffen bereits vertraut. Sie machen damit deutlich, dass Sie die „Sprache” dieser Art von Entscheidungsprozessen sprechen und verstehen.
+
 Neben dem bisherigen Verlauf des Policy-Prozesses ist es wichtig, die weiteren Schritte aufzuzeigen bzw. den anderen Anwesenden Raum für deren Ansichten zu geben. Dies können sein:
-    1. Weitere Vorschläge, wo die Policy und der Prozess noch vorgestellt werden soll
-    2. Weitere Ideen oder Anmerkungen in Bezug auf das Thema OER – Das können interessante und wichtige Anknüpfungspunkte sein, an denen Sie nach der Veröffentlichung weiterarbeiten können (s. Schritt 1 Überblick).
+
+1. Weitere Vorschläge, wo die Policy und der Prozess noch vorgestellt werden soll
+2. Weitere Ideen oder Anmerkungen in Bezug auf das Thema OER – Das können interessante und wichtige Anknüpfungspunkte sein, an denen Sie nach der Veröffentlichung weiterarbeiten können (s. Schritt 1 Überblick).
+
 Je nachdem wie verbindlich diese „Vorschläge” sind, haben Sie danach weitere Schritte auf Ihrer Roadmap und müssen ggf. noch eine Schleife drehen. In jedem Fall ist es ratsam, die Vorschläge aus diesem Gremium zu berücksichtigen. Wir gehen aber an dieser Stelle davon aus, dass nun die OER-Policy endgültig beschlossen wird.
-Schritt 6: Veröffentlichung
+
+## Schritt 6: Veröffentlichung
 Wie mache ich auf die Policy aufmerksam?
+----
+
 Sobald Sie den Beschluss des Präsidiums bzw. des Rektorats in der Tasche haben, ist es nur noch ein kurzer Weg bis zur Veröffentlichung der OER-Policy. Es empfiehlt sich, nur eine einzige Stelle auf den Webseiten der Hochschule zur Veröffentlichung zu wählen, worauf dann von verschiedenen weiteren Stellen verlinkt werden kann. Neben der Veröffentlichung auf der Webseite können begleitende Kommunikations- und Marketingmaßnahmen durchgeführt sowie erklärende Informationsmaterialien zur Policy zur Verfügung gestellt werden.
+
 Um sich einen systematischen Überblick über alle Kommunikationsmaßnahmen und -materialien zu verschaffen, ist es ratsam, ein Marketing-/ Kommunikationskonzept für die Policy zu entwickeln. In diesem Konzept wird festgehalten, über welchen Kanal welche Info von wem an wen kommuniziert wird und was es dafür braucht. So kann sichergestellt werden, dass niemand vergessen wird und alle Zielgruppen die Information zur OER-Policy zielgruppengerecht erhalten. Ggf. sollte hier Rücksprache mit der Hochschulkommunikation gehalten bzw. Feedback eingeholt werden. Folgende Fragen können dabei relevant sein:
+
 Wo wird die Policy zentral veröffentlicht?
+----
 Klären Sie z.B. mit der Hochschulkommunikation oder mit dem Justitiariat, wo die Policy zentral veröffentlicht wird. Das kann z.B. auf der Hochschul-Webseite z.B. in der Rubrik „Amtliche Bekanntmachungen“ oder „Zentrale Ordnungen, Rechtsgrundlagen“ sein.
+
 Gibt es eine eigene Informationsseite rund um OER an der Hochschule?
+---
 Spätestens jetzt, wo sich die Hochschule in Form einer Policy offiziell zu OER bekennt und die Förderung von OER befürwortet, ist eine eigene Informationsseite rund um OER als Anlaufstelle sinnvoll. Das kann eine separate OER-Webseite oder ein gesonderter Bereich innerhalb des Webauftritts einer Abteilung sein, die sich mit OER beschäftigt. Auf dieser Seite sollten Kontaktinformationen zu Ansprechpersonen inkl. E-Mail-Adresse (z.B. OER@Hochschule.de) genannt sein. Daneben kann auch auf weitere Dokumente oder Handreichungen verwiesen werden (z.B. eine Checkliste OER oder ein OER Glossar). Es gibt mittlerweile eine Vielzahl an OER-Selbstlernmaterialien bzw. -kursen (s. OER Selbstlernkurse), durch die man sich eigenständig grundlegende Kenntnisse zum Thema OER (und angrenzende Themen) aneignen kann. Einige Hochschulen arbeiten mit festen OER-Sprechstunden, während andere auf Anfrage beraten. Eine gute Lösung hat z.B. die Hochschule Bielefeld (HSBI) gefunden, die Ihre OER Homepage sehr schlicht gestaltet hat. Von dort wird auf den OER-Wissenspool (ein Ilias-Kurs) verwiesen, in dem ausführlich über das Thema informiert wird.
+
 An welchen Stellen kann auf die Policy verwiesen bzw. darüber informiert werden?
+----
 Sobald die Policy zentral veröffentlicht wurde, kann an relevanten Stellen darauf verlinkt bzw. verwiesen werden. Das kann auf der OER-Informationsseite sein, auf den Seiten der Bibliothek, in offenen Moodle-Kursen für Lehrende etc. Gleichzeitig kann die Nachricht über die Veröffentlichung der Policy per Push-Prinzip an die Zielgruppen herangetragen werden, indem z.B. im hochschulweiten Newsletter darüber informiert oder eine Rundmail an alle Hochschulangehörige (z.B. vom Präsidium bzw. Rektorat) verschickt wird.
+
 Welche Begleitmaßnahmen können zur Sichtbarkeit der Policy beitragen?
+----
 Neben der schriftlichen Information können weitere Begleitmaßnahmen angeboten werden. Es kann z.B. eine Informationsveranstaltung zur Policy stattfinden oder in bestehende Veranstaltungen integriert werden (z.B. auf einem Tag der Lehre). Empfehlenswert sind zudem ergänzende Informationsmaterialien zur Erläuterung z.B. mit der Beantwortung der Fragen „Was heißt OER?“ oder „Warum braucht die Hochschule eine OER-Policy?“ (s. Flyer OER-FAQ). Dadurch kann die Akzeptanz der Policy erhöht werden. Nicht zuletzt können alle beteiligten Akteur:innen, die am Entwicklungsprozess in irgendeiner Form mitgewirkt haben, als Multiplikator:innen der Policy dienen.
+
 Wie kann außerhalb der Hochschule die Policy sichtbar gemacht werden?
+----
 Es lohnt sich einen Blick nach Außen zu werfen und zu überlegen, an welchen Stellen außerhalb der eigenen Hochschule die Information zur OER-Policy platziert werden kann, z.B. kann die Policy in der OER-Policy-Map von twillo oder ORCA.nrw verlinkt werden (s. Schritt 2 Entwurf). Schließlich kann auf diversen Konferenzen und Workshops darüber informiert werden, dass Ihre Hochschule jetzt eine OER-Policy hat - denn: “Tu Gutes und sprich darüber!”
-Schritt 7: Ausblick
+
+## Schritt 7: Ausblick
 Und jetzt? Wie geht es weiter?
+----
 
 Sie haben es geschafft! Ihre Policy wurde veröffentlicht. Und jetzt…? Jetzt geht's erst richtig los! Denn die OER-Policy soll kein ‚totes‘ Dokument sein, das auf einer Webseite verstaubt und irgendwann niemanden mehr interessiert. Ein erster Meilenstein hin zu offener Lehre ist mit der Policy als rechtliche Grundlage und Commitment geschafft. Es ist wie eine Tür, die Sie geholfen haben zu öffnen. Hindurchgehen muss man jedoch selbst. Und Sie können dabei unterstützen.
-Wie kann die OER-Policy zum Leben erweckt werden?
+
+### Wie kann die OER-Policy zum Leben erweckt werden?
+
 Damit die Policy mit Leben gefüllt, über sie gesprochen wird und darauf aufbauend weitere Maßnahmen folgen, braucht es weitere Schritte.
+
 Einerseits…
+
 fängt man jetzt wieder ein bisschen von vorn an. Denn das Thema OER ist nach wie vor an deutschen Hochschulen nicht etabliert. Die Potenziale von OER bzw. die Lösungen, die OER anbieten kann, liegen nicht unbedingt auf der Hand. Bisher gibt es noch wenig Forschung dazu, welche Effekte vom Einsatz von OER z.B. für das pädagogische Handeln und etablierte Bildungspraktiken zu erwarten sind (Otto/Schroeder/Diekmann/Sander, 2021). Zwar findet man in vielen offiziellen Dokumenten Aussagen dazu, welche Potenziale mit OER verbunden werden, die dort aufgeführten Ziele sind aber oftmals idealistisch und kein adäquater Anreiz für Open Educational Practice (OEP) (Ladwig, 2022, S.17). In einer Policy können konkrete Ziele formuliert sein, die sich mit den Bedürfnissen Ihrer Zielgruppe decken oder sogar von dieser Zielgruppe selbst formuliert wurden.
+
 Andererseits…
+
 können Sie genau hier weiter arbeiten und das Policydokument als Türöffner für weitere Aktivitäten nutzen. Im ersten Schritt könnten Sie prüfen, inwiefern Sie die in der Policy formulierten Ziele erreichen. Unter Umständen haben Sie diesen Aspekt, die Selbstverpflichtung zur Überprüfung der Erreichung der Ziele, bereits in der Policy verschriftlicht, wie z.B. im Fall der Policy der TU Graz geschehen. Ist dies nicht der Fall, können Sie wieder in die Kommunikation mit den dementsprechenden Stakeholdern gehen, wie die selbstgesteckten Ziele zu monitoren sind. Ist dies geschehen, entwickeln Sie konkrete Maßnahmen bzw. setzen die in der Policy formulierten Maßnahmen um und evaluieren sie. Beispielsweise wurde in der Policy angekündigt, dass OER in internen Lehrförderlinien verankert wird oder dass die Veröffentlichung von OER bei der Vergabe von Lehrpreisen oder Leistungsprämien berücksichtigt wird.
-Wie nutze ich mein Netzwerk?
+
+### Wie nutze ich mein Netzwerk?
 Innerhalb des Policy-Prozesses haben Sie viele nützliche Kontakte geknüpft und ein Gespür dafür bekommen, welche Personen Ihre lokale OER-Community bilden. Gemeinsam können Sie weitere Arbeitspakete identifizieren, um das Thema OER an der Hochschule voranzubringen. Im Rahmen der Feedbackgespräche kamen evtl. Aspekte auf, die zwar relevant für das Thema OER sind, aber nicht Inhalt der OER Policy waren. Beispielsweise könnte mit dem eLearning Service vereinbart werden, wie Qualifizierungsangebote nun an der OER-Policy ausgerichtet werden. In den Beratungen der Medien- und Hochschuldidaktik könnte die Policy z.B. als Argumentationsgrundlage für Gespräche mit Lehrenden genutzt werden, um Hürden abzubauen und Potenziale von OER aufzuzeigen.
+
 Mit dem eLearning Service sowie der IT-Abteilung könnte eruiert werden, ob es für Ihre Hochschule möglich, ein offenes Lern-Management-System (LMS), z.B. Moodle oder ILIAS zu etablieren. Über die so zugänglichen Lehr-/Lernmaterialien könnten Studieninteressierte einen Einblick in die Lehre an der Hochschule bekommen und im Sinne eines Selfassessments ihre Kenntnisse und Eignung in Bezug auf ein bestimmtes Fach bzw. Studiengang überprüfen. Damit könnte die Hochschule für sich werben und evtl. den rückläufigen Studienanfänger:innenzahlen entgegenwirken. Die zentrale Studienberatung wäre an dieser Stelle sicherlich ein guter Gesprächspartner, um die Probleme und Bedarfe der Studierenden zu identifizieren. Ein offenes LMS (wie z.B. an der Ruhr-Universität Bochum oder der Universität Bielefeld) bedarf sowohl der technischen Wartung als auch des urheberrechtlichen Supports hinsichtlich OER, wodurch die Hochschulbibliothek ins Spiel kommt.
+
 Mit der Hochschulbibliothek könnte außerdem über das Einspielen der Metadaten in das Bibliotheksrecherche-System gesprochen werden. In NRW hat sich eine AG gegründet, die die Möglichkeiten auslotet, sowohl offene LMS als auch Bibliotheksrecherchen an den OERSI anzubinden. Das könnte für Sie und Ihre Hochschule auf drei Arten interessant sein.
-    1. Die Lehrenden werden mit ihren OER aus dem offenen hochschuleigenem LMS im OERSI gelistet und sind darüber in vielen OER-Landesportalen auffindbar.
-    2. Der OERSI lässt sich über eine Schnittstelle in Bibliotheksrecherche-Systeme einbinden. Wenn Studierende z.B. zur Vorbereitung auf ihre Prüfungen über das hochschuleigene Bibliothekssystem nach Literatur suchen, finden sie dadurch auch offene Lehr-/Lernmaterialien passend zu ihrem Thema.
-    3. Wenn die Studierenden über einen so angereicherten Recherchepool auch Lehr-/Lernmaterialien anderer Hochschulen finden, könnte dies zu Kritik führen. De Facto recherchieren Studierende bereits über andere Kanäle als nur die hochschuleigenen Angebote. Es könnte ja ein geeigneter Anreiz sein, die OER Produktion quantitativ und qualitativ anzukurbeln, damit die Studierenden eine höhere Anzahl von Lehr-/Lernmaterialien der eigenen Hochschule finden können. Hinsichtlich der Zielgruppe Studierende kommt hier auch die zentrale
+
+1. Die Lehrenden werden mit ihren OER aus dem offenen hochschuleigenem LMS im OERSI gelistet und sind darüber in vielen OER-Landesportalen auffindbar.
+2. Der OERSI lässt sich über eine Schnittstelle in Bibliotheksrecherche-Systeme einbinden. Wenn Studierende z.B. zur Vorbereitung auf ihre Prüfungen über das hochschuleigene Bibliothekssystem nach Literatur suchen, finden sie dadurch auch offene Lehr-/Lernmaterialien passend zu ihrem Thema.
+3. Wenn die Studierenden über einen so angereicherten Recherchepool auch Lehr-/Lernmaterialien anderer Hochschulen finden, könnte dies zu Kritik führen. De Facto recherchieren Studierende bereits über andere Kanäle als nur die hochschuleigenen Angebote. Es könnte ja ein geeigneter Anreiz sein, die OER Produktion quantitativ und qualitativ anzukurbeln, damit die Studierenden eine höhere Anzahl von Lehr-/Lernmaterialien der eigenen Hochschule finden können. Hinsichtlich der Zielgruppe Studierende kommt hier auch die zentrale
+
 Wenn man einmal vom großen Ganzen träumen möchte, könnte man die OER-Policy auch als Argumentationsgrundlage für die Entwicklung weiterer Policies nutzen, wie z.B. zu Open Access, Open Data oder Open Science (wenn an Ihrer Hochschule noch nicht vorhanden). Vorstellbar wäre auch eine allumfassende gemeinsame Policy, die die verschiedenen Bereiche von Openness in sich vereint (wie z.B. die Open Science Policy der Ruhr-Universität Bochum).
+
 Das alles sind mögliche Ansatzpunkte, die Sie jetzt weiter verfolgen können. Die OER Community wird sich in den nächsten Jahren noch stark weiterentwickeln. Ein Kernwert von OER und damit auch eine Ihrer Kompetenzen ist Offenheit und der inhärente Vernetzungscharakter. Nutzen Sie also das Wissen und die Kompetenz der vielen, die sich, wie Sie, der Kultur des Teilens und den Open Educational Resources verschrieben haben.
-Haben Sie Anregungen?
+
+### Haben Sie Anregungen?
 An dieser Stelle endet das OER-Policy Kit und wir hoffen, es konnte Ihnen in Ihrem individuellen Policy-Prozess weiterhelfen. Für Anregungen, Fragen und Feedback sind wir sehr dankbar. Bitte wenden Sie sich dazu an support.twillo@tib.eu.
+
 Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder Ihre Hochschule eine OER-Policy veröffentlicht hat, die wir noch nicht in der Liste aufgenommen haben, melden Sie sich auch gerne.
-Literaturverzeichnis
+
+## Literaturverzeichnis
 Deimann, M., Neumann, J., Muuß-Merholz, J. (2015): Whitepaper Open Educational Resources (OER) an Hochschulen in Deutschland.
+
 Jan, M., Kober, S., Reichardt, G. (2023): Sichtbarkeit von Open Educational Culture an Hochschulen.
+
 Homp, F., Dobosz, N., Dahlmanns, M. (2024): Der OER Lifecycle. https://doi.org/10.5446/66288
+
 Kobusch, A., Halm, L. (2023): Checkliste: Open Educational Resources erstellen. https://doi.org/10.57720/2762
+
 Ladwig, T. (2022): Konzeptstudie: Förderung der Akzeptanz von OER an den niedersächsischen Hochschulen: Arbeitspapier Nr. 64. Berlin: Hochschulforum Digitalisierung
+
 Ministerium für Wirtschaft, Innovation, Digitalisierung und Energie des Landes Nordrhein-Westfalen (2021): Strategie für das digitale Nordrhein-Westfalen 2.0
+
 Niedersächsisches Ministerium für Wirtschaft, Arbeit, Verkehr und Digitalisierung (o.D.): Die Strategie Niedersachsens zur digitalen Transformation
+
 Orr, D., Neumann, J., Muuß-Merholz, J. (2017): German OER practices and policy: From bottom-up to top-down initiatives.
+
 Otto, D., Schroeder, N., Diekmann, D., & Sander, P. (2021): Trends and Gaps in Empirical Research on Open Educational Resources (OER): A Systematic Mapping of the Literature from 2015 to 2019. Contemporary Educational Technology, 13(4), ep325. https://doi.org/10.30935/cedtech/11145
+
 Rempis, P. (2023): Persistente Identifier. DOIs, Handles und URNs zur Förderung des Ansehens von OER-Autor*innen und bessere OER-Nachnutzung.
+
 UNESCO, Commonwealth of Learning (2019): Guidelines on the development of open educational resources policies.
+
 Wissenschaftsrat (2022): Empfehlungen zur Digitalisierung in Lehre und Studium. https://doi.org/10.57674/sg3e-wm53
