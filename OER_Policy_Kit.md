@@ -25,7 +25,7 @@ Um Ihnen die Beantwortung dieser Fragen zu erleichtern sowie Sie bei Entscheidun
 
 Das Policy Kit stellt keinen Gold-Standard-Weg hin zu einer OER-Policy dar, sondern soll an die spezifische Situation Ihrer Hochschule angepasst werden. Da der konkrete Ablauf sehr unterschiedlich sein kann, ist die Reihenfolge der Schritte nicht strikt einzuhalten. Im Policy-Prozess ist eine Linearität nicht unbedingt gegeben, so dass es einige Schleifen im Policy-Prozess geben kann und mehrere Schritte wiederholt werden bzw. zwischen den Schritten hin und her gesprungen wird.
 
-Das OER-Policy Kit (Stand 2024) wurde erarbeitet von Astrid Dreyer ([HAWK Hildesheim/Holzminden/Göttingen](https://www.hawk.de/de/hochschule/organisation-und-personen/zentrale-einrichtungen/servicestelle-fuer-qualitaet-der-lehre)), Irina Hörmann, Frank Homp und Stefanie Legler ([Netzwerk ORCA.nrw](https://www.orca.nrw/lehrende/akteure/netzwerk)), Silvia Czerwinski und Yulia Loose ([twillo](https://www.twillo.de)). Die Lizenz soll wie folgt angegeben werden: „OER-Policy Kit” (Stand 2024) von Frank Homp, Astrid Dreyer, Irina Hörmann, Stefanie Legler, Silvia Czerwinski und Yulia Loose lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) (sofern nicht anders angegeben).
+Das OER-Policy Kit (Stand 2024) wurde erarbeitet von Astrid Dreyer ([HAWK Hildesheim/Holzminden/Göttingen](https://www.hawk.de/de/hochschule/organisation-und-personen/zentrale-einrichtungen/servicestelle-fuer-qualitaet-der-lehre)), Irina Hörmann, Frank Homp und Stefanie Legler ([Netzwerk ORCA.nrw](https://www.orca.nrw/lehrende/akteure/netzwerk)), Silvia Czerwinski und Yulia Loose ([twillo](https://www.twillo.de)). Die Lizenz soll wie folgt angegeben werden: OER-Policy Kit (Stand 2024) von Policy Kit Team lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) (sofern nicht anders an einzelnen Inhalten angegeben).
 
 ![CCBYSA](BY-SA_PolicyKit.svg)
 
@@ -523,7 +523,7 @@ Wenn man einmal vom großen Ganzen träumen möchte, könnte man die OER-Policy 
 Das alles sind mögliche Ansatzpunkte, die Sie jetzt weiter verfolgen können. Die OER Community wird sich in den nächsten Jahren noch stark weiterentwickeln. Ein Kernwert von OER und damit auch eine Ihrer Kompetenzen ist Offenheit und der inhärente Vernetzungscharakter. Nutzen Sie also das Wissen und die Kompetenz der vielen, die sich, wie Sie, der Kultur des Teilens und den Open Educational Resources verschrieben haben.
 
 ### Haben Sie Anregungen?
-An dieser Stelle endet das OER-Policy Kit und wir hoffen, es konnte Ihnen in Ihrem individuellen Policy-Prozess weiterhelfen. Für Anregungen, Fragen und Feedback sind wir sehr dankbar. Bitte wenden Sie sich dazu an <support.twillo@tib.eu>.
+An dieser Stelle endet das OER-Policy Kit und wir hoffen, es konnte Ihnen in Ihrem individuellen Policy-Prozess weiterhelfen. Für Anregungen, Fragen und Feedback sind wir sehr dankbar. Bitte wenden Sie sich dazu an `support.twillo@tib.eu`.
 
 Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder Ihre Hochschule eine OER-Policy veröffentlicht hat, die wir noch nicht in der Liste aufgenommen haben, melden Sie sich auch gerne.
 
@@ -550,26 +550,26 @@ Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder
 ### Walkthrough UNESCO Guidelines
 
 ## Literaturverzeichnis
-Deimann, M., Neumann, J., Muuß-Merholz, J. (2015): Whitepaper Open Educational Resources (OER) an Hochschulen in Deutschland.
+Deimann, M., Neumann, J., Muuß-Merholz, J. (2015): [Whitepaper Open Educational Resources (OER) an Hochschulen in Deutschland](https://open-educational-resources.de/materialien/oer-whitepaper/oer-whitepaper-hochschule/).
 
-Jan, M., Kober, S., Reichardt, G. (2023): Sichtbarkeit von Open Educational Culture an Hochschulen.
+Jahn, M., Kober, S., Reichardt, G. (2023): [Sichtbarkeit von Open Educational Culture an Hochschulen](https://www.twillo.de/edu-sharing/components/render/aa67b800-5e36-40bf-a4d0-590ec4f40b11).
 
 Homp, F., Dobosz, N., Dahlmanns, M. (2024): Der OER Lifecycle. https://doi.org/10.5446/66288
 
 Kobusch, A., Halm, L. (2023): Checkliste: Open Educational Resources erstellen. https://doi.org/10.57720/2762
 
-Ladwig, T. (2022): Konzeptstudie: Förderung der Akzeptanz von OER an den niedersächsischen Hochschulen: Arbeitspapier Nr. 64. Berlin: Hochschulforum Digitalisierung
+Ladwig, T. (2022): [Konzeptstudie: Förderung der Akzeptanz von OER an den niedersächsischen Hochschulen](https://hochschulforumdigitalisierung.de/wp-content/uploads/2023/09/HFD_AP_64_Konzeptstudie_Open_Educational_Ressources_OER.pdf). Berlin: Hochschulforum Digitalisierung, Arbeitspapiere Nr. 64
 
-Ministerium für Wirtschaft, Innovation, Digitalisierung und Energie des Landes Nordrhein-Westfalen (2021): Strategie für das digitale Nordrhein-Westfalen 2.0
+Ministerium für Wirtschaft, Innovation, Digitalisierung und Energie des Landes Nordrhein-Westfalen (2021): [Strategie für das digitale Nordrhein-Westfalen 2.0](https://www.wirtschaft.nrw/system/files/media/document/file/mwide-digitalstrategie2.0_final.pdf)
 
-Niedersächsisches Ministerium für Wirtschaft, Arbeit, Verkehr und Digitalisierung (o.D.): Die Strategie Niedersachsens zur digitalen Transformation
+Niedersächsisches Ministerium für Wirtschaft, Arbeit, Verkehr und Digitalisierung (o.D.): [Die Strategie Niedersachsens zur digitalen Transformation](https://www.mw.niedersachsen.de/startseite/digitalisierung/masterplan_digitalisierung/digital-strategie-niedersachsen-167922.html)
 
-Orr, D., Neumann, J., Muuß-Merholz, J. (2017): German OER practices and policy: From bottom-up to top-down initiatives. Verfügbar unter: https://iite.unesco.org/wp-content/uploads/2017/09/OER_Germany_www.pdf
+Orr, D., Neumann, J., Muuß-Merholz, J. (2017): [German OER practices and policy: From bottom-up to top-down initiatives](https://iite.unesco.org/wp-content/uploads/2017/09/OER_Germany_www.pdf).
 
 Otto, D., Schroeder, N., Diekmann, D., & Sander, P. (2021): Trends and Gaps in Empirical Research on Open Educational Resources (OER): A Systematic Mapping of the Literature from 2015 to 2019. Contemporary Educational Technology, 13(4), ep325. https://doi.org/10.30935/cedtech/11145
 
-Rempis, P. (2023): Persistente Identifier. DOIs, Handles und URNs zur Förderung des Ansehens von OER-Autor*innen und bessere OER-Nachnutzung.
+Rempis, P. (2023): [Persistente Identifier. DOIs, Handles und URNs zur Förderung des Ansehens von OER-Autor*innen und bessere OER-Nachnutzung](https://www.mmkh.de/fileadmin/veranstaltungen/OER-Awareness/2023-05-10_OER-PID_Rempis.pdf).
 
-UNESCO, Commonwealth of Learning (2019): Guidelines on the development of open educational resources policies.
+UNESCO, Commonwealth of Learning (2019): [Guidelines on the development of open educational resources policies](https://unesdoc.unesco.org/ark:/48223/pf0000371129).
 
 Wissenschaftsrat (2022): Empfehlungen zur Digitalisierung in Lehre und Studium. https://doi.org/10.57674/sg3e-wm53
