@@ -1,5 +1,5 @@
 # OER-Policy-Kit
-Trotz unterschiedlicher Ausgangslagen gibt es Schritte, die alle Hochschulen auf dem Weg zu einer Policy machen und Fragen, die sich alle stellen, die einen entsprechenden Prozess anstoßen und begleiten:
+Trotz unterschiedlicher Ausgangslagen gibt es Schritte, die alle Hochschulen auf dem Weg zu einer OER-Policy machen und Fragen, die sich alle stellen, die einen entsprechenden Prozess anstoßen und begleiten:
 
 - Wo und wie anfangen?
 - Was soll die Policy enthalten?
@@ -7,6 +7,14 @@ Trotz unterschiedlicher Ausgangslagen gibt es Schritte, die alle Hochschulen auf
 - Welche Akteur:innen müssen einbezogen werden und wen als Erstes fragen?
 
 Um Ihnen die Beantwortung dieser Fragen zu erleichtern sowie Sie bei Entscheidungen und Planungen möglichst gut zu unterstützen, haben wir dieses OER-Policy Kit erstellt, das als **Leitfaden zum Policy-Prozess** zu verstehen ist. Dieses Policy Kit umfasst sieben Schritte, die mögliche Stationen beschreiben und mit weiteren Materialien ergänzt werden, wie z.B. einer Muster OER-Policy oder Mailvorlagen.
+
+1. Überblick()
+2. Entwurf]()
+3. Feedback]()
+4 [Überarbeitung])
+5 [Beschluss])
+6 [Veröffentlichung])
+7 [Ausblick])
 
 Das Policy Kit stellt keinen Gold-Standard-Weg hin zu einer OER-Policy dar, sondern soll an die spezifische Situation Ihrer Hochschule angepasst werden. Da der konkrete Ablauf sehr unterschiedlich sein kann, ist die Reihenfolge der Schritte nicht strikt einzuhalten. Im Policy-Prozess ist eine Linearität nicht unbedingt gegeben, so dass es einige Schleifen im Policy-Prozess geben kann und mehrere Schritte wiederholt werden bzw. zwischen den Schritten hin und her gesprungen wird.
 
