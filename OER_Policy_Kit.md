@@ -27,6 +27,8 @@ Das Policy Kit stellt keinen Gold-Standard-Weg hin zu einer OER-Policy dar, sond
 
 Das OER-Policy Kit (Stand 2024) wurde erarbeitet von Astrid Dreyer (HAWK Hildesheim/Holzminden/Göttingen), Irina Hörmann, Frank Homp und Stefanie Legler (Netzwerk ORCA.nrw), Silvia Czerwinski und Yulia Loose (twillo). Die Lizenz soll wie folgt angegeben werden: „OER-Policy Kit” (Stand 2024) von Frank Homp, Astrid Dreyer, Irina Hörmann, Stefanie Legler, Silvia Czerwinski und Yulia Loose lizenziert unter CC BY-SA 4.0 (sofern nicht anders angegeben).
 
+![CCBYSA](BY-SA_PolicyKit.svg)
+
 ## Schritt 1: Überblick
 Wie fange ich an?
 ----
@@ -279,7 +281,7 @@ Ein etwas älteres Dokument ist das Whitepaper Open Educational Resources (OER) 
 | 5. IT Infrastruktur (siehe dazu Abschnitt 5.g) | Welche IT-Infrastruktur ist notwendig, um OER zu entwickeln, zu verwalten und zu verwenden? |
 | 6. Kosten | Wie viel Geld soll für die Entwicklung von OER verwendet werden? Wo kommt dieses Geld her? Wie kann sichergestellt werden, dass auch langfristig ausreichende Mittel zur Verfügung stehen? |
 
-Tabelle aus [Whitepaper Open Educational Resources (OER) an Hochschulen in Deutschland](https://open-educational-resources.de/materialien/oer-whitepaper/oer-whitepaper-hochschule/) von Markus Deimann, Jan Neumann, Jöran Muuß-Merholz / [open-educational-resources.de – Transferstelle für OER](https://open-educational-resources.de) lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.de)
+*Tabelle aus [Whitepaper Open Educational Resources (OER) an Hochschulen in Deutschland](https://open-educational-resources.de/materialien/oer-whitepaper/oer-whitepaper-hochschule/) von Markus Deimann, Jan Neumann, Jöran Muuß-Merholz / [open-educational-resources.de – Transferstelle für OER](https://open-educational-resources.de) lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.de)*
 
 Ein weiteres wichtiges Kapitel des Whitepapers ist das Kapitel 5.h, welches sich der besonderen Rolle der Bibliotheken im Bereich von OER widmet. Auf diesen Stakeholder sind sie evtl. im Schritt 1 Überblick bereits gestoßen. An dieser Stelle sei erneut auf diese Personengruppe verwiesen: Im Rahmen des Entwurfsprozesses machen Sie sich u.U. auch Gedanken darüber, welche Anreizsysteme Sie in der Policy verschriftlichen wollen oder Sie werden im Rahmen der Gespräche mit den Stakeholder:innen darauf angesprochen. Hier können Bibliotheken ins Spiel kommen. Das Sichtbarmachen von OER z.B. durch die Vergabe von DOI oder durch die Anbindung der Bibliotheksrecherche an OER-Repositorien kann ein attraktiver Anreiz für OER Produzent:innen sowie für Nutzer:innen sein. Die Bibliotheken spielen hierbei aufgrund ihrer Expertise in puncto Repositorien und Schnittstellen eine wichtige Rolle.
 
@@ -290,7 +292,8 @@ Die UNESCO hat in Zusammenarbeit mit dem Commonwealth of Learning die [Guideline
 Achtung: In den Guidelines wird unter „Policy” nicht ausschließlich das Dokument verstanden, welches am Ende eines Policy-Prozesses beschlossen und veröffentlicht wird, so wie es im Rahmen dieses Kits. In den Guidelines wird eher auf eine umfassende Strategie zur Förderung des Themas OER abgezielt, wozu u.a. das schriftliche Fixieren dieser Strategien gehört.
 
 ![UNESCO](Grafik_UNESCO_Guidelines_PolicyKit.png)
-Map of the seven-phase policy process aus [Guidelines on the development of open educational resources policies](https://unesdoc.unesco.org/ark:/48223/pf0000371129) von UNESCO und Commonwealth of Learning lizenziert unter [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/igo/)
+
+*Map of the seven-phase policy process aus [Guidelines on the development of open educational resources policies](https://unesdoc.unesco.org/ark:/48223/pf0000371129) von UNESCO und Commonwealth of Learning lizenziert unter [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/igo/)*
 
 Jedes Kapitel der Guidelines beginnt mit einem Abstract und einer Liste von 3-5 (Lern-)zielen, die durch die Auseinandersetzung mit dem Kapitel angebahnt werden sollen. Jedes Kapitel endet mit ausführlichen Leitfragen (“Guiding Questions“), die die Leser:innen zu ersten Formulierungen für die OER-Policy anregen sollen. Wir haben in einem Walkthrough alle sieben Kapitel für Sie zusammengefasst.
 
@@ -303,7 +306,8 @@ Von wem hole ich mir wann wie Rückmeldung zum Entwurf ein?
 Wurde nun ein erster Entwurf einer Policy formuliert, sollte hierauf in einen oder mehreren Schleifen Feedback von verschiedenen Akteur:innen eingeholt werden, um den Text zu schärfen und die Inhalte zu prüfen. Je nach Situation und Struktur der jeweiligen Hochschule kommt es darauf an, wer wann wie Feedback gibt.
 
 ![Feedback](Feedback_PolicyKit.png)
-Pixelchen [Feedback_F-01.png](https://oer-contentbuffet.info/edu-sharing/components/render/82d6267d-2518-4e60-b382-de71eb8a9511) lizenziert unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.mds)
+
+*Pixelchen [Feedback_F-01.png](https://oer-contentbuffet.info/edu-sharing/components/render/82d6267d-2518-4e60-b382-de71eb8a9511) lizenziert unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.mds)*
 
 ### Von wem wird Feedback eingeholt?
 
@@ -518,12 +522,13 @@ Wenn man einmal vom großen Ganzen träumen möchte, könnte man die OER-Policy 
 Das alles sind mögliche Ansatzpunkte, die Sie jetzt weiter verfolgen können. Die OER Community wird sich in den nächsten Jahren noch stark weiterentwickeln. Ein Kernwert von OER und damit auch eine Ihrer Kompetenzen ist Offenheit und der inhärente Vernetzungscharakter. Nutzen Sie also das Wissen und die Kompetenz der vielen, die sich, wie Sie, der Kultur des Teilens und den Open Educational Resources verschrieben haben.
 
 ### Haben Sie Anregungen?
-An dieser Stelle endet das OER-Policy Kit und wir hoffen, es konnte Ihnen in Ihrem individuellen Policy-Prozess weiterhelfen. Für Anregungen, Fragen und Feedback sind wir sehr dankbar. Bitte wenden Sie sich dazu an [support.twillo@tib.eu](mailto:support.twillo@tib.eu).
+An dieser Stelle endet das OER-Policy Kit und wir hoffen, es konnte Ihnen in Ihrem individuellen Policy-Prozess weiterhelfen. Für Anregungen, Fragen und Feedback sind wir sehr dankbar. Bitte wenden Sie sich dazu an <support.twillo@tib.eu>.
 
 Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder Ihre Hochschule eine OER-Policy veröffentlicht hat, die wir noch nicht in der Liste aufgenommen haben, melden Sie sich auch gerne.
 
 ![Anregungen](Anregungen_PolicyKit.png)
-Pixelchen [Ressource_Offene Werkstatt_F-01.png](https://oer-contentbuffet.info/edu-sharing/components/render/0cde07ff-83f5-4882-b765-86c52ccf5644) lizenziert unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.mds)
+
+*Pixelchen [Ressource_Offene Werkstatt_F-01.png](https://oer-contentbuffet.info/edu-sharing/components/render/0cde07ff-83f5-4882-b765-86c52ccf5644) lizenziert unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.mds)*
 
 ## Materialien
 
