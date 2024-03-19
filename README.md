@@ -1,5 +1,5 @@
 # OER-Policy-Kit
-Trotz unterschiedlicher Ausgangslagen gibt es Schritte, die alle Hochschulen auf dem Weg zu einer OER-Policy machen und Fragen, die sich alle stellen, die einen entsprechenden Prozess anstoßen und begleiten:
+Trotz unterschiedlicher Ausgangslagen an den Hochschulen gibt es Schritte, die alle auf dem Weg zu einer OER-Policy machen und Fragen, die sich alle diejenigen stellen, die einen entsprechenden Prozess anstoßen und begleiten:
 
 - Wo und wie anfangen?
 - Was soll die Policy enthalten?
