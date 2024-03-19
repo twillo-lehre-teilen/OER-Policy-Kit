@@ -21,11 +21,11 @@ Trotz unterschiedlicher Ausgangslagen gibt es Schritte, die alle Hochschulen auf
 - Was ist aus rechtlicher Sicht zu beachten?
 - Welche Akteur:innen müssen einbezogen werden und wen als Erstes fragen?
 
-Um Ihnen die Beantwortung dieser Fragen zu erleichtern sowie Sie bei Entscheidungen und Planungen möglichst gut zu unterstützen, haben wir dieses OER-Policy Kit erstellt, das als **Leitfaden zum Policy-Prozess** zu verstehen ist. Dieses Policy Kit umfasst sieben Schritte, die mögliche Stationen beschreibt und mit weiteren Materialien ergänzt werden, wie z.B. einer Muster OER-Policy oder Mailvorlagen.
+Um Ihnen die Beantwortung dieser Fragen zu erleichtern sowie Sie bei Entscheidungen und Planungen möglichst gut zu unterstützen, haben wir dieses OER-Policy Kit erstellt, das als **Leitfaden zum Policy-Prozess** zu verstehen ist. Dieses Policy Kit umfasst sieben Schritte, die mögliche Stationen beschreiben und mit weiteren Materialien ergänzt werden, wie z.B. einer Muster OER-Policy oder Mailvorlagen.
 
 Das Policy Kit stellt keinen Gold-Standard-Weg hin zu einer OER-Policy dar, sondern soll an die spezifische Situation Ihrer Hochschule angepasst werden. Da der konkrete Ablauf sehr unterschiedlich sein kann, ist die Reihenfolge der Schritte nicht strikt einzuhalten. Im Policy-Prozess ist eine Linearität nicht unbedingt gegeben, so dass es einige Schleifen im Policy-Prozess geben kann und mehrere Schritte wiederholt werden bzw. zwischen den Schritten hin und her gesprungen wird.
 
-Das OER-Policy Kit (Stand 2024) wurde erarbeitet von Astrid Dreyer (HAWK Hildesheim/Holzminden/Göttingen), Irina Hörmann, Frank Homp und Stefanie Legler (Netzwerk ORCA.nrw), Silvia Czerwinski und Yulia Loose (twillo). Die Lizenz soll wie folgt angegeben werden: „OER-Policy Kit” (Stand 2024) von Frank Homp, Astrid Dreyer, Irina Hörmann, Stefanie Legler, Silvia Czerwinski und Yulia Loose lizenziert unter CC BY-SA 4.0 (sofern nicht anders angegeben).
+Das OER-Policy Kit (Stand 2024) wurde erarbeitet von Astrid Dreyer ([HAWK Hildesheim/Holzminden/Göttingen](https://www.hawk.de/de/hochschule/organisation-und-personen/zentrale-einrichtungen/servicestelle-fuer-qualitaet-der-lehre)), Irina Hörmann, Frank Homp und Stefanie Legler ([Netzwerk ORCA.nrw](https://www.orca.nrw/lehrende/akteure/netzwerk)), Silvia Czerwinski und Yulia Loose ([twillo](https://www.twillo.de)). Die Lizenz soll wie folgt angegeben werden: „OER-Policy Kit” (Stand 2024) von Frank Homp, Astrid Dreyer, Irina Hörmann, Stefanie Legler, Silvia Czerwinski und Yulia Loose lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) (sofern nicht anders angegeben).
 
 ![CCBYSA](BY-SA_PolicyKit.svg)
 
@@ -40,15 +40,16 @@ Die ersten Schritte in der Entwicklung einer OER-Policy sind maßgeblich und wer
 
 ### Wo starten OER-Prozesse?
 Bei der Entwicklung einer OER-Policy an Hochschulen unterscheiden wir grundsätzlich zwischen Top-Down- und Bottom-Up-Prozessen (vgl. Orr/Neumann/Muuß-Merholz, 2017)
-![TopDown BottomUp](TopDown_BottomUp_PolicyKit.gif)
 
 **Top-Down-Prozesse** werden durch einen offiziellen Auftrag der Hochschulleitung initiiert und sind eng mit der strategischen Ausrichtung der Hochschule verbunden. Diese Prozesse profitieren von der Unterstützung „von oben“ und erfordern gleichzeitig eine gute Kommunikation in die Breite der Stakeholder und Zielgruppen, um diese im Geiste einer gelebten Kultur der Offenheit an ihren Bedarfen abzuholen und mit den strategischen Zielen der Hochschule in Einklang zu bringen.
 
 **Bottom-Up-Prozesse** hingegen werden von Lehrenden oder zentralen Service-Abteilungen angestoßen. Sie zeichnen sich durch ihre Praxisnähe und Innovationskraft aus. Auch hier ist eine effektive Kommunikation nötig, um eine breite Unterstützung und Anerkennung zu finden. Insbesondere müssen einzelne Zielgruppen überzeugt werden, sich als Stakeholder zu begreifen, wie z.B. die Hochschulleitung.
 
-Die Wahl des Ansatzes hängt davon ab, wo der Prozess beginnt. Aufbauend auf beiden Definitionen kann es Mischprozesse geben – beispielsweise wenn die Initiative von einer zentralen Einrichtung direkt an die Hochschulleitung herangetragen werden kann, dort auf Zustimmung findet und fortan unter ihrem Schirm weiterentwickelt wird. In beiden Fällen ist eine angepasste Strategie entscheidend, um eine erfolgreiche OER-Policy zu entwickeln.
+![TopDown BottomUp](TopDown_BottomUp_PolicyKit.gif)
 
-Das Potenzial einer OER-Policy liegt darin, Veränderungsprozesse in Richtung Openness und einer Kultur des Teilens steuernd zu unterstützen. Bei der Entwicklung und Implementierung der Policy bedarf es ein gewisses Maß an Feingefühl, Reflexionsbereitschaft und Offenheit (vgl. Deimann/Neumann/Muuß-Merholz, 2015). Wünschenswert wäre das natürlich auch bei Ihren Adressat:innen. Die Herausforderung bei der Gestaltung einer OER-Policy liegt unabhängig davon, ob der Anstoß von Entscheidungsträger:innen kommt oder ob zunächst Überzeugungsarbeit innerhalb der Hochschule geleistet werden muss, darin, sowohl konkrete Inhalte zu definieren als auch eine breite Akzeptanz zu schaffen.
+Die Wahl des Ansatzes hängt davon ab, wo der Prozess beginnt. Aufbauend auf beiden Definitionen kann es Mischprozesse geben – beispielsweise wenn die Initiative von einer zentralen Einrichtung direkt an die Hochschulleitung herangetragen werden kann, dort auf Zustimmung findet und fortan unter ihrem Schirm weiterentwickelt wird. Einige Vor- und Nachteile der beiden Ansätze finden Sie in der vergleichenden Übersicht.
+
+In beiden Fällen ist eine angepasste Strategie entscheidend, um eine erfolgreiche OER-Policy zu entwickeln. Das Potenzial einer OER-Policy liegt darin, Veränderungsprozesse in Richtung Openness und einer Kultur des Teilens steuernd zu unterstützen. Bei der Entwicklung und Implementierung der Policy bedarf es ein gewisses Maß an Feingefühl, Reflexionsbereitschaft und Offenheit (vgl. Deimann/Neumann/Muuß-Merholz, 2015). Wünschenswert wäre das natürlich auch bei Ihren Adressat:innen. Die Herausforderung bei der Gestaltung einer OER-Policy liegt unabhängig davon, ob der Anstoß von Entscheidungsträger:innen kommt oder ob zunächst Überzeugungsarbeit innerhalb der Hochschule geleistet werden muss, darin, sowohl konkrete Inhalte zu definieren als auch eine breite Akzeptanz zu schaffen.
 
 ### Was sind die Schlüsselfragen zum Start des Policy-Prozesses?
 Konkrete Fragen, die sich zu Beginn eines Policy-Prozesses stellen können, sind:
@@ -532,6 +533,22 @@ Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder
 
 ## Materialien
 
+### Change Cards
+
+### Flyer OER FAQ
+
+### Mailvorlage KickOff
+
+### Open Education Policy Canvas
+
+### Open Education Policy Change Cards
+
+### OER Selbstlernmaterialien
+
+### RoadMap Uni Bielefeld
+
+### Walkthrough UNESCO Guidelines
+
 ## Literaturverzeichnis
 Deimann, M., Neumann, J., Muuß-Merholz, J. (2015): Whitepaper Open Educational Resources (OER) an Hochschulen in Deutschland.
 
@@ -547,7 +564,7 @@ Ministerium für Wirtschaft, Innovation, Digitalisierung und Energie des Landes 
 
 Niedersächsisches Ministerium für Wirtschaft, Arbeit, Verkehr und Digitalisierung (o.D.): Die Strategie Niedersachsens zur digitalen Transformation
 
-Orr, D., Neumann, J., Muuß-Merholz, J. (2017): German OER practices and policy: From bottom-up to top-down initiatives.
+Orr, D., Neumann, J., Muuß-Merholz, J. (2017): German OER practices and policy: From bottom-up to top-down initiatives. Verfügbar unter: https://iite.unesco.org/wp-content/uploads/2017/09/OER_Germany_www.pdf
 
 Otto, D., Schroeder, N., Diekmann, D., & Sander, P. (2021): Trends and Gaps in Empirical Research on Open Educational Resources (OER): A Systematic Mapping of the Literature from 2015 to 2019. Contemporary Educational Technology, 13(4), ep325. https://doi.org/10.30935/cedtech/11145
 
