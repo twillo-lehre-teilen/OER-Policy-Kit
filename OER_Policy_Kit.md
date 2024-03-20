@@ -523,22 +523,38 @@ Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder
 
 ## Materialien
 
-### Change Cards
-<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OE_Policy_Change_Cards_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OE_Policy_Change_Cards_PolicyKit.pdf" charset="UTF-8"></script>
-
 ### Flyer OER FAQ
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Flyer_OER_FAQ_PolicyKit.pdf.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Flyer_OER_FAQ_PolicyKit.pdf.pdf" charset="UTF-8"></script>
 
 ### Mailvorlage KickOff
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Mailvorlage_KickOff_PolicyKit.odt.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Mailvorlage_KickOff_PolicyKit.odt.pdf" charset="UTF-8"></script>
+
+### Matrix
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Matrix_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Matrix_PolicyKit.pdf" charset="UTF-8"></script>
 
 ### Open Education Policy Canvas
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OE_Policy_Canvas_PolicyKit.pdf.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OE_Policy_Canvas_PolicyKit.pdf.pdf" charset="UTF-8"></script>
 
 ### Open Education Policy Change Cards
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OE_Policy_Change_Cards_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OE_Policy_Change_Cards_PolicyKit.pdf" charset="UTF-8"></script>
 
 ### OER Selbstlernmaterialien
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OER_Selbstlernmaterialien_PolicyKit.odt" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OER_Selbstlernmaterialien_PolicyKit.odt" charset="UTF-8"></script>
+
+### Personae
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Personae_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Personae_PolicyKit.pdf" charset="UTF-8"></script>
+
+### Policy Liste
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Policy_Liste_PolicyKit.docx" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Policy_Liste_PolicyKit.docx" charset="UTF-8"></script>
 
 ### RoadMap Uni Bielefeld
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/RoadMap_Uni_Bielefeld_PolicyKit.pptx" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/RoadMap_Uni_Bielefeld_PolicyKit.pptx" charset="UTF-8"></script>
+
+### Vergleich Top-down Bottom-up
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Vergleich_TopDown_BottomUp_PolicyKit.pptx" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Vergleich_TopDown_BottomUp_PolicyKit.pptx" charset="UTF-8"></script>
 
 ### Walkthrough UNESCO Guidelines
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/RoadMap_Uni_Bielefeld_PolicyKit.pptx" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/RoadMap_Uni_Bielefeld_PolicyKit.pptx" charset="UTF-8"></script>
 
 ## Literaturverzeichnis
 Deimann, M., Neumann, J., Muuß-Merholz, J. (2015): [Whitepaper Open Educational Resources (OER) an Hochschulen in Deutschland](https://open-educational-resources.de/materialien/oer-whitepaper/oer-whitepaper-hochschule/).
