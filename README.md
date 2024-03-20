@@ -20,4 +20,4 @@ Das Policy Kit stellt keinen Gold-Standard-Weg hin zu einer OER-Policy dar, sond
 
 Das OER-Policy Kit (Stand 2024) wurde erarbeitet von Astrid Dreyer ([HAWK Hildesheim/Holzminden/Göttingen](https://www.hawk.de/de/hochschule/organisation-und-personen/zentrale-einrichtungen/servicestelle-fuer-qualitaet-der-lehre)), Irina Hörmann, Frank Homp und Stefanie Legler ([Netzwerk ORCA.nrw](https://www.orca.nrw/lehrende/akteure/netzwerk)), Silvia Czerwinski und Yulia Loose ([twillo](https://www.twillo.de)). Die Lizenz soll wie folgt angegeben werden: OER-Policy Kit (Stand 2024) von Policy Kit Team lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) (sofern nicht anders an einzelnen Inhalten angegeben).
 
-![CCBYSA](BY-SA_PolicyKit.svg)
+![CCBYSA](Bilder/BY-SA_PolicyKit.svg)
