@@ -529,6 +529,8 @@ Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder
 ### Mailvorlage KickOff
 [Download Mailvorlage Kick Off odt Format](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Mailvorlage_KickOff_PolicyKit.odt)
 
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Mailvorlage_KickOff_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Mailvorlage_KickOff_PolicyKit.pdf" charset="UTF-8"></script>
+
 ### Matrix
 <iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Matrix_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Matrix_PolicyKit.pdf" charset="UTF-8"></script>
 
@@ -545,17 +547,24 @@ Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder
 <iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Personae_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Personae_PolicyKit.pdf" charset="UTF-8"></script>
 
 ### Policy Liste
-[Download Policy Liste docx Format]
-<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Policy_Liste_PolicyKit.docx" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Policy_Liste_PolicyKit.docx" charset="UTF-8"></script>
+[Download Policy Liste docx Format](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Policy_Liste_PolicyKit.docx)
+
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Policy_Liste_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Policy_Liste_PolicyKit.pdf" charset="UTF-8"></script>
 
 ### RoadMap Uni Bielefeld
 [Download Roadmap Uni Bielefeld pptx Format](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/RoadMap_Uni_Bielefeld_PolicyKit.pptx)
 
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/RoadMap_Uni_Bielefeld_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/RoadMap_Uni_Bielefeld_PolicyKit.pdf" charset="UTF-8"></script>
+
 ### Vergleich Top-down Bottom-up
 [Download Vergleich Top-down Bottom-up pptx Format](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Vergleich_TopDown_BottomUp_PolicyKit.pptx)
 
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Vergleich_TopDown_BottomUp_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Vergleich_TopDown_BottomUp_PolicyKit.pdf" charset="UTF-8"></script>
+
 ### Walkthrough UNESCO Guidelines
 [Download Walkthrough UNESCO Guidelines pptx Format](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/RoadMap_Uni_Bielefeld_PolicyKit.pptx)
+
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Walkthrough_UNESCO_Guidelines_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Walkthrough_UNESCO_Guidelines_PolicyKit.pdf" charset="UTF-8"></script>
 
 ## Literaturverzeichnis
 Deimann, M., Neumann, J., Muuß-Merholz, J. (2015): [Whitepaper Open Educational Resources (OER) an Hochschulen in Deutschland](https://open-educational-resources.de/materialien/oer-whitepaper/oer-whitepaper-hochschule/).
