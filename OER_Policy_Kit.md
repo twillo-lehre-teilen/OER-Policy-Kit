@@ -107,41 +107,31 @@ Versuchen Sie nachzuvollziehen, wie ähnliche Initiativen an Ihrer Hochschule ab
 
 Da Sie sich mit diesem OER-Policy Kit befassen, gehören Sie vermutlich einer der erwähnten Gruppen an und finden im weiteren Verlauf Informationen zu Ihren potentiellen Mitstreiter:innen. Folgende Gruppen werden hier im Besonderen erwähnt:
 
-<details>
-    <summary>Hochschulleitung</summary>
+Hochschulleitung
+----
 Für eine erfolgreiche OER-Policy ist es entscheidend, die Hochschulleitung frühzeitig einzubinden, unabhängig davon, ob Sie einen Bottom-Up oder Top-Down Ansatz verfolgen. Präsentieren Sie Ihre geplante Vorgehensweise und Roadmap klar und überzeugend. Die Kommunikation mit Entscheidungsträger:innen wie Vizepräsident:innen oder Prorektor:innen sollte sorgfältig geplant werden, um deren Verständnis und Unterstützung für die Potenziale von OER zu gewinnen. Nutzen Sie dabei anschauliche Materialien, um die Ziele und den erwarteten Impact der OER-Policy zu verdeutlichen. Inspiration finden Sie in der Präsentation Kick-Off & Roadmap der Universität Bielefeld.
 Zur thematischen Vorbereitung könnte die OER-Impact-Forschung hilfreich sein, deren Diskurs klar auf die Notwendigkeit eines Kulturwandels verweist. Eine zusammenfassende Darstellung dazu findet sich z.B. bei Otto/Schroeder/Diekmann/Sander, 2021.
-</details>
-<br>
 
-<details>
-    <summary>Fachbereichs-/Institutsleitungen</summary>
+Fachbereichs-/Institutsleitungen
+----
 Auch Dekane und Fachbereichsleitungen können wertvolle Verbündete sein, da sie einen umfassenden Überblick über die Aktivitäten in ihren Bereichen haben und strategische Hochschulprozesse mitgestalten. Sie besitzen oft einen detaillierten Einblick in die Aktivitäten und Bedürfnisse der Lehrenden innerhalb ihrer Fakultäten oder Fachbereiche. In ihrer Rolle können sie eine Brückenfunktion zwischen der Hochschulleitung und den Servicebereichen einnehmen, was für die Integration und Förderung von OER-Projekten und -Initiativen an der Hochschule von großer Bedeutung ist.
-</details>
-<br>
 
-<details>
-    <summary>Justiziariat</summary>
+Justiziariat
+-----
 Das Justiziariat nimmt eine zentrale und wertvolle Position in der Gestaltung einer OER-Policy an Hochschulen ein. Dadurch wird die rechtliche Integrität und langfristige Tragfähigkeit der Policy gesichert. Um eine Policy zu entwickeln, die nicht nur den hochschulinternen Anforderungen entspricht, sondern auch im Einklang mit gültigen Gesetzen und Richtlinien steht, ist eine Expertise im Bereich des Urheber- und Hochschulrechts unerlässlich. Die Zusammenarbeit mit dem Justiziariat ist daher für die Qualität und Durchführbarkeit einer OER-Policy unabdingbar.
-</details>
-<br>
 
-<details>
-    <summary>Hochschulbibliothek</summary>
+Hochschulbibliothek
+----
 Bibliotheken sind verlässliche Infrastruktureinrichtungen und unterstützen mit der Bereitstellung von OER-Portalen und anderen Repositorien bzw. Referatorien aktiv die Etablierung von OER in allen Bildungsbereichen. Gleichzeitig wirken Bibliotheken als wichtige Bildungsanbieter:innen. Insbesondere im Bereich Open Science und Open Access ist hier eine hohe Expertise angesiedelt: Bibliotheken unterstützen die Kompetenzentwicklung von Lehrenden und Lernenden durch vielfältige Bildungs- und Beratungsangebote, die sich u.A. mit urheberrechtlichen und lizenzrechtlichen Fragen sowie Publikationsmöglichkeiten und technischen Formaten für die Bereitstellung von Ressourcen beschäftigen. Bibliothekar:innen spielen demnach eine besondere Multiplikator:innenrolle (Deimann/Neumann/Muuß-Merholz, 2015, S.48).
 
 Für Lehrende bieten Bibliotheken Mehrwerte z.B. über die DOI-Vergabe für OER oder die Möglichkeit, aus dem eigenen Hochschulrepositorium eine Liste mit veröffentlichten Lehr-Lernmaterialien auf Personenseiten von Hochschullehrenden anzeigen zu lassen. Insbesondere die Verknüpfung eines OER mit einem persistenten Identifiers wie z.B. DOI oder Handle zahlt auf das Konto der Sichtbarkeit der Lehre und damit von OER ein (vgl. Rempis, 2023). Oftmals finden also in Hochschulbibliotheken schon Aktivitäten zur Förderung von OER statt oder werden angestrebt. Es ist daher anzunehmen, dass Sie hier Stakeholder finden werden, die Ihre Bestrebungen zur Entwicklung einer OER-Policy mittragen oder aktiv unterstützen werden.
-</details>
-<br>
 
-<details>
-    <summary>Hochschuldidaktik und Mediendidaktik</summary>
+Hochschuldidaktik und Mediendidaktik
+----
 Weitere Unterstützer:innen für eine OER-Policy sind vermehrt in solchen Einrichtungen anzutreffen, in denen hochschul- und mediendidaktische Fragen eine zentrale Rolle spielen, also z.B. Servicestellen für Lehre und Studium, E-Learning-Abteilungen, hochschuldidaktische Zentren, usw. Diese haben das Thema OER häufig bereits in ihr Beratungs- und Veranstaltungsangebot integriert. Einige der frei zugänglichen OER-Selbstlernkurse finden Sie in dieser Auflistung.
 
 An einigen Hochschulen spielen OER in Verbindung mit dem genutzten LMS eine Rolle, wenn dieses etwa über eine offene Schnittstelle direkt an eine OER-Plattform angebunden ist (z.B. Verknüpfung zwischen OER Campus in Stud.IP und [twillo](https://www.twillo.de/oer/web/)) oder wenn sich Kurse im offenen LMS im [OERSI](https://oersi.org/resources/) indexieren lassen (z.B. [Ruhr-Universität Bochum](https://open.ruhr-uni-bochum.de/), [Fernuni Hagen](https://offene.fernuni-hagen.de/) oder [HHU Düsseldorf](https://mediathek.hhu.de/)). Dadurch können neben den Mitgliedern der Hochschule auch Personen von außerhalb auf die Lehr-/Lernmaterialien zugreifen.
 Mancherorts werden von hochschul- und mediendidaktischen Abteilungen OER-Zertifikate vergeben, die ihren Inhaber:innen beispielsweise besondere Veröffentlichungsoptionen für OER ermöglichen. Für die Hochschule und insbesondere das Justiziariat kann es sinnvoll sein, eine Art [OER-Checkliste](https://doi.org/10.57720/2762) als obligatorischen Zwischenschritt zwischen Kurserstellung und Kursveröffentlichung zu schalten.
-</details>
-<br>
 
 ### Welche Gruppen werden miteinbezogen?
 Lehrende
@@ -534,6 +524,7 @@ Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder
 ## Materialien
 
 ### Change Cards
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OE_Policy_Change_Cards_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OE_Policy_Change_Cards_PolicyKit.pdf" charset="UTF-8"></script>
 
 ### Flyer OER FAQ
 
