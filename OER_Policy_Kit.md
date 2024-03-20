@@ -8,7 +8,7 @@ comment: Das OER-Policy Kit steht unter der CC BY SA 4.0 Lizenz
 
 # OER-Policy Kit
 
-![Schritte](Roadmap_PolicyKit.jpg)
+![Schritte](Bilder/Roadmap_PolicyKit.jpg)
 
 Immer mehr Hochschulen bekennen sich zu Openness und wollen durch eine Richtlinie das Signal für Lehrende und andere Hochschulangehörige setzen, dass sie das Erstellen und Teilen von OER unterstützen. Obwohl diese Richtlinie – zumeist als OER-Policy bezeichnet – nicht unbedingt rechtlich verbindlich ist, wie z.B. eine Dienstanweisung, schafft sie einen hohen Grad an **Verbindlichkeit für das Thema OER** und öffnet damit viele Türen hin zu einer anerkannten und gelebten offenen Bildung.
 
@@ -27,7 +27,7 @@ Das Policy Kit stellt keinen Gold-Standard-Weg hin zu einer OER-Policy dar, sond
 
 Das OER-Policy Kit (Stand 2024) wurde erarbeitet von Astrid Dreyer ([HAWK Hildesheim/Holzminden/Göttingen](https://www.hawk.de/de/hochschule/organisation-und-personen/zentrale-einrichtungen/servicestelle-fuer-qualitaet-der-lehre)), Irina Hörmann, Frank Homp und Stefanie Legler ([Netzwerk ORCA.nrw](https://www.orca.nrw/lehrende/akteure/netzwerk)), Silvia Czerwinski und Yulia Loose ([twillo](https://www.twillo.de)). Die Lizenz soll wie folgt angegeben werden: OER-Policy Kit (Stand 2024) von Policy Kit Team lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) (sofern nicht anders an einzelnen Inhalten angegeben).
 
-![CCBYSA](BY-SA_PolicyKit.svg)
+![CCBYSA](Bilder/BY-SA_PolicyKit.svg)
 
 ## Schritt 1: Überblick
 Wie fange ich an?
@@ -36,7 +36,7 @@ Wie fange ich an?
 Die ersten Schritte in der Entwicklung einer OER-Policy sind maßgeblich und werden stark von Ihrer Ausgangssituation und Perspektive beeinflusst. Unabhängig davon, von wo Sie beginnen, stellen sich die gleichen grundlegenden Fragen, wenn auch mit unterschiedlichen Schwerpunkten und Nuancen. Wir haben diese Fragen in einer Grafik veranschaulicht und werden sie im Laufe dieses Kapitels beantworten.
 <br>
 
-![Überblick](Ueberblick_gewinnen_Policykit.gif)
+![Überblick](Bilder/Ueberblick_gewinnen_Policykit.gif)
 
 ### Wo starten OER-Prozesse?
 Bei der Entwicklung einer OER-Policy an Hochschulen unterscheiden wir grundsätzlich zwischen Top-Down- und Bottom-Up-Prozessen (vgl. Orr/Neumann/Muuß-Merholz, 2017)
@@ -45,7 +45,7 @@ Bei der Entwicklung einer OER-Policy an Hochschulen unterscheiden wir grundsätz
 
 **Bottom-Up-Prozesse** hingegen werden von Lehrenden oder zentralen Service-Abteilungen angestoßen. Sie zeichnen sich durch ihre Praxisnähe und Innovationskraft aus. Auch hier ist eine effektive Kommunikation nötig, um eine breite Unterstützung und Anerkennung zu finden. Insbesondere müssen einzelne Zielgruppen überzeugt werden, sich als Stakeholder zu begreifen, wie z.B. die Hochschulleitung.
 
-![TopDown BottomUp](TopDown_BottomUp_PolicyKit.gif)
+![TopDown BottomUp](Bilder/TopDown_BottomUp_PolicyKit.gif)
 
 Die Wahl des Ansatzes hängt davon ab, wo der Prozess beginnt. Aufbauend auf beiden Definitionen kann es Mischprozesse geben – beispielsweise wenn die Initiative von einer zentralen Einrichtung direkt an die Hochschulleitung herangetragen werden kann, dort auf Zustimmung findet und fortan unter ihrem Schirm weiterentwickelt wird. Einige Vor- und Nachteile der beiden Ansätze finden Sie in der vergleichenden Übersicht.
 
@@ -193,11 +193,11 @@ Wie überwinden Sie das weiße Blatt Papier?
 ----
 Bei der Erstellung eines Entwurfs wird es konkret. Wie konkret, hängt davon ab, ob Sie sich erst noch den offiziellen Auftrag zum „weitermachen“ holen dürfen (s. Schritt 1 Überblick) oder ob dieser bereits an Sie ergangen ist. Vielleicht haben Sie dieses Policy Kit direkt in diesem Kapitel gestartet, wollen endlich loslegen und etwas schwarz auf weiß festhalten, um es Ihren Adressat:innen vorzustellen oder den Entscheidungsträger:innen vorzulegen, damit sie das offizielle GO erhalten.
 
-![Elemente](OER-Policy-Elemente_PolicyKit.png)
+![Elemente](Bilder/OER-Policy-Elemente_PolicyKit.png)
 
 ### Gibt es eine Blaupause? - Die twillo Muster Policy
 
-![Musterpolicy](Muster_Policy_PolicyKit.png)
+![Musterpolicy](Bilder/Muster_Policy_PolicyKit.png)
 
 *Screenshot Webseite [twillo](https://www.twillo.de/oer/web/oer-policy/)*
 
@@ -282,7 +282,7 @@ Die UNESCO hat in Zusammenarbeit mit dem Commonwealth of Learning die [Guideline
 
 Achtung: In den Guidelines wird unter „Policy” nicht ausschließlich das Dokument verstanden, welches am Ende eines Policy-Prozesses beschlossen und veröffentlicht wird, so wie es im Rahmen dieses Kits. In den Guidelines wird eher auf eine umfassende Strategie zur Förderung des Themas OER abgezielt, wozu u.a. das schriftliche Fixieren dieser Strategien gehört.
 
-![UNESCO](Grafik_UNESCO_Guidelines_PolicyKit.png)
+![UNESCO](Bilder/Grafik_UNESCO_Guidelines_PolicyKit.png)
 
 *Map of the seven-phase policy process aus [Guidelines on the development of open educational resources policies](https://unesdoc.unesco.org/ark:/48223/pf0000371129) von UNESCO und Commonwealth of Learning lizenziert unter [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/igo/)*
 
@@ -296,7 +296,7 @@ Von wem hole ich mir wann wie Rückmeldung zum Entwurf ein?
 
 Wurde nun ein erster Entwurf einer Policy formuliert, sollte hierauf in einen oder mehreren Schleifen Feedback von verschiedenen Akteur:innen eingeholt werden, um den Text zu schärfen und die Inhalte zu prüfen. Je nach Situation und Struktur der jeweiligen Hochschule kommt es darauf an, wer wann wie Feedback gibt.
 
-![Feedback](Feedback_PolicyKit.png)
+![Feedback](Bilder/Feedback_PolicyKit.png)
 
 *Pixelchen [Feedback_F-01.png](https://oer-contentbuffet.info/edu-sharing/components/render/82d6267d-2518-4e60-b382-de71eb8a9511) lizenziert unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.mds)*
 
@@ -483,7 +483,7 @@ Und jetzt? Wie geht es weiter?
 
 Sie haben es geschafft! Ihre Policy wurde veröffentlicht. Und jetzt…? Jetzt geht's erst richtig los! Denn die OER-Policy soll kein ‚totes‘ Dokument sein, das auf einer Webseite verstaubt und irgendwann niemanden mehr interessiert. Ein erster Meilenstein hin zu offener Lehre ist mit der Policy als rechtliche Grundlage und Commitment geschafft. Es ist wie eine Tür, die Sie geholfen haben zu öffnen. Hindurchgehen muss man jedoch selbst. Und Sie können dabei unterstützen.
 
-![Ausblick](Ausblick_PolicyKit.png)
+![Ausblick](Bilder/Bilder/Ausblick_PolicyKit.png)
 
 ### Wie kann die OER-Policy zum Leben erweckt werden?
 
@@ -517,23 +517,23 @@ An dieser Stelle endet das OER-Policy Kit und wir hoffen, es konnte Ihnen in Ihr
 
 Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder Ihre Hochschule eine OER-Policy veröffentlicht hat, die wir noch nicht in der Liste aufgenommen haben, melden Sie sich auch gerne.
 
-![Anregungen](Anregungen_PolicyKit.png)
+![Anregungen](Bilder/Anregungen_PolicyKit.png)
 
 *Pixelchen [Ressource_Offene Werkstatt_F-01.png](https://oer-contentbuffet.info/edu-sharing/components/render/0cde07ff-83f5-4882-b765-86c52ccf5644) lizenziert unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.mds)*
 
 ## Materialien
 
 ### Flyer OER FAQ
-<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Flyer_OER_FAQ_PolicyKit.pdf.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Flyer_OER_FAQ_PolicyKit.pdf.pdf" charset="UTF-8"></script>
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Flyer_OER_FAQ_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Flyer_OER_FAQ_PolicyKit.pdf" charset="UTF-8"></script>
 
 ### Mailvorlage KickOff
-<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Mailvorlage_KickOff_PolicyKit.odt.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Mailvorlage_KickOff_PolicyKit.odt.pdf" charset="UTF-8"></script>
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Mailvorlage_KickOff_PolicyKit.odt" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Mailvorlage_KickOff_PolicyKit.odt" charset="UTF-8"></script>
 
 ### Matrix
 <iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Matrix_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Matrix_PolicyKit.pdf" charset="UTF-8"></script>
 
 ### Open Education Policy Canvas
-<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OE_Policy_Canvas_PolicyKit.pdf.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OE_Policy_Canvas_PolicyKit.pdf.pdf" charset="UTF-8"></script>
+<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OE_Policy_Canvas_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OE_Policy_Canvas_PolicyKit.pdf" charset="UTF-8"></script>
 
 ### Open Education Policy Change Cards
 <iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OE_Policy_Change_Cards_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/OE_Policy_Change_Cards_PolicyKit.pdf" charset="UTF-8"></script>
