@@ -1,9 +1,9 @@
 !--
-author: twillo
+author: Policy Kit Team
 email: support.twillo@tib.eu
 language: de
 narrator: Deutsch Female
-comment: Das OER-Policy Kit steht unter der CC BY SA 4.0 Lizenz
+comment: OER-Policy Kit (Stand 2024) von Policy Kit Team lizenziert unter CC BY-SA 4.0 (sofern nicht anders an einzelnen Inhalten angegeben).
 -->
 
 # OER-Policy Kit
@@ -88,7 +88,7 @@ Stakeholder
 -----
 Im Kontext von OER-Policy-Prozessen unterscheiden wir zwischen „Stakeholder“ und „Zielgruppen“. Dabei kann es Überschneidungen zwischen beiden Gruppen geben und der Status zu Beginn identifizierter Stakeholder und Zielgruppen sich während des Policy-Prozesses ändern. Auf der nächsten Seite „Wo finde ich Verbündete?“ gehen wir detailliert auf potenzielle Zielgruppen und Stakeholder ein.
 
-Im Folgenden sind „Stakeholder“ eine Person oder Gruppe, die ein Interesse an der Entwicklung und Umsetzung einer OER-Policy hat. Dies kann eine breite Palette von Akteur:innen umfassen, beginnend bei einer Institution, Abteilungen oder Fachbereich, verschiedenen Statusgruppen der Hochschule sowie allen Personen und Stellen, die innerhalb des OER-Prozesses involviert sind und die durch die OER-Policy beeinflusst werden oder diese beeinflussen können. Identifizieren Sie Kolleg:innen, die bereits Interesse an oder Berührungspunkte mit OER haben und binden Sie sie in Ihre Überlegungen mit ein. Hier kann es sich sowohl um intrinsisch motivierte Personen handeln, als auch um Funktionsstellen, die qua Aufgabengebiet eine wichtige Rolle im Policy-Prozess spielen – diese werden spätestens im Feedbackprozess eingebunden (s. [Schritt 3 Feedback](#16)). Analysieren Sie die Stakeholder z.B. mit Hilfe einer [Matrix](#33). Solange Stakeholder sich ihres Status nicht bewusst sind, gelten sie als Zielgruppe, die noch ins Boot geholt werden muss.
+Im Folgenden sind „Stakeholder“ eine Person oder Gruppe, die ein Interesse an der Entwicklung und Umsetzung einer OER-Policy hat. Dies kann eine breite Palette von Akteur:innen umfassen, beginnend bei einer Institution, Abteilungen oder Fachbereich, verschiedenen Statusgruppen der Hochschule sowie allen Personen und Stellen, die innerhalb des OER-Prozesses involviert sind und die durch die OER-Policy beeinflusst werden oder diese beeinflussen können. Identifizieren Sie Kolleg:innen, die bereits Interesse an oder Berührungspunkte mit OER haben und binden Sie sie in Ihre Überlegungen mit ein. Hier kann es sich sowohl um intrinsisch motivierte Personen handeln, als auch um Funktionsstellen, die qua Aufgabengebiet eine wichtige Rolle im Policy-Prozess spielen – diese werden spätestens im Feedbackprozess eingebunden (s. Schritt 3 [Feedback](#16)). Analysieren Sie die Stakeholder z.B. mit Hilfe einer [Matrix](#33). Solange Stakeholder sich ihres Status nicht bewusst sind, gelten sie als Zielgruppe, die noch ins Boot geholt werden muss.
 
 Zielgruppen
 -----
@@ -98,7 +98,7 @@ Dokumentieren Sie Ihre Überlegungen und reflektieren Sie diese regelmäßig, um
 
 Ungeachtet dessen, von wo Sie starten, können OER-Policies ein Spannungspotenzial bergen. Das liegt u.a. daran, dass Policies letztendlich aufgrund ihres normativen Charakters Top-down-Ansätzen zugeordnet werden. Auf der anderen Seite sind OER-Communities typischerweise eher Bottom-up organisierte Phänomene mit einer spezifischen Kultur und dementsprechenden Werten. Solche Communities durch Anweisungen zu regeln kann daher einen “clash of cultures“ provozieren. Eine umfassende Kommunikationsstrategie kann hier hilfreich sein.
 
-Durch eine umfassende Analyse Ihrer Ausgangssituation lassen sich Ressourcen transparent offenlegen, auf denen Sie aufbauen können, um gemeinsam mit weiteren OER-Stakeholdern Ziele und Maßnahmen zu entwickeln. Die Ziele werden unter Berücksichtigung und ggf. Einbeziehung der relevanten Zielgruppen festgelegt. Wichtig ist außerdem, sowohl intern als auch extern von anderen als Mitstreiter:in gefunden zu werden. Dadurch wird das Thema OER sichtbarer und gleichzeitig Wege geebnet, das Thema zugänglicher zu machen (vgl. [Schritt 6 Veröffentlichung](#25)).
+Durch eine umfassende Analyse Ihrer Ausgangssituation lassen sich Ressourcen transparent offenlegen, auf denen Sie aufbauen können, um gemeinsam mit weiteren OER-Stakeholdern Ziele und Maßnahmen zu entwickeln. Die Ziele werden unter Berücksichtigung und ggf. Einbeziehung der relevanten Zielgruppen festgelegt. Wichtig ist außerdem, sowohl intern als auch extern von anderen als Mitstreiter:in gefunden zu werden. Dadurch wird das Thema OER sichtbarer und gleichzeitig Wege geebnet, das Thema zugänglicher zu machen (vgl. Schritt 6 [Veröffentlichung](#25)).
 
 ### Wo finde ich Verbündete? Wer macht mit?
 Die Identifikation von OER-Befürworter:innen und anderen relevanten Stakeholdern ist ein zentrales Element im Prozess einer OER-Policy. Dies kann herausfordernd sein, besonders wenn Sie in Bezug auf OER noch nicht weitreichend vernetzt sind. Ein pragmatischer Ansatz ist es, zunächst Gespräche mit Vorgesetzten und Kolleg:innen Ihrer Abteilung zu führen, um herauszufinden, wer bereits mit OER arbeitet bzw. dem Thema positiv gegenübersteht. Gleichzeitig ist es wichtig, die Personen zu identifizieren, die bisher zwar nicht aktiv in das Thema OER involviert waren, aber aufgrund ihrer Expertise und Erfahrung wichtige Beiträge leisten könnten.
@@ -140,7 +140,7 @@ Lehrende sind zentrale Akteur:innen in der OER-Community an Hochschulen und spie
 
 Studierende
 ----
-Die Rolle der Studierenden im Kontext von OER ist vielschichtig. Sie sind nicht nur die Hauptnutznießer:innen von qualitativ hochwertigen Lehrmaterialien, sondern können auch aktiv OER mitgestalten – was sie zu Zielgruppe bzw. Stakeholder einer OER-Policy machen kann. Ihre Einbindung in den Prozess kann dazu beitragen, eine Kultur des Teilens (vgl. Jahn/Kober/Reichardt, 2023) und der Offenheit an der Hochschule zu fördern. Erste Ansprechpersonen finden sich in den Studierendenvertretungen. Hier sollte im Kontext der Sichtbarkeit von OER (vgl. [Schritt 6 Veröffentlichung](#25)) parallel zu Policy-Prozessen über das Potenzial und die Verfügbarkeit von OER informiert werden, um das Bewusstsein auch dieser Gruppe für die Verbreitung und Nutzung von OER einzusetzen und sie zu motivieren, sich aktiv am [OER-Lebenszyklus](https://doi.org/10.5446/66288) zu beteiligen. [OER-Selbstlernmaterialien](#37) können dabei unterstützend kommuniziert werden.
+Die Rolle der Studierenden im Kontext von OER ist vielschichtig. Sie sind nicht nur die Hauptnutznießer:innen von qualitativ hochwertigen Lehrmaterialien, sondern können auch aktiv OER mitgestalten – was sie zu Zielgruppe bzw. Stakeholder einer OER-Policy machen kann. Ihre Einbindung in den Prozess kann dazu beitragen, eine Kultur des Teilens (vgl. Jahn/Kober/Reichardt, 2023) und der Offenheit an der Hochschule zu fördern. Erste Ansprechpersonen finden sich in den Studierendenvertretungen. Hier sollte im Kontext der Sichtbarkeit von OER (vgl. Schritt 6 [Veröffentlichung](#25)) parallel zu Policy-Prozessen über das Potenzial und die Verfügbarkeit von OER informiert werden, um das Bewusstsein auch dieser Gruppe für die Verbreitung und Nutzung von OER einzusetzen und sie zu motivieren, sich aktiv am [OER-Lebenszyklus](https://doi.org/10.5446/66288) zu beteiligen. [OER-Selbstlernmaterialien](#37) können dabei unterstützend kommuniziert werden.
 
 Dabei ist es wichtig, für die rechtlichen Aspekte insbesondere im Hinblick auf Urheberrecht und Verwertungsrechte zu sensibilisieren. Wenn Studierende dazu ermutigt werden, ihre eigenen Lernergebnisse unter offenen Lizenzen zu teilen, sollten sie zuvor über ihre Rechte und Pflichten aufgeklärt werden. Die Studierenden dürfen keine Nachteile erfahren, wenn sie ein Werk nicht veröffentlichen wollen. Insofern sollten Sie dies möglichst früh in Ihrer Lehrveranstaltung ansprechen und ggf. Alternativen für diese Studierenden anbieten. (vgl. [OER Policy der FH Dortmund](https://www.fh-dortmund.de/medien/hochschule/gesetze-verordnungen-erlasse/14_OER-Policy-FH-Dortmund.pdf), S.4). Möchte die Hochschule selbst die Lernergebnisse Studierender offen lizenzieren, müssen die Studierenden über eine [Vereinbarung über die Übertragung von Nutzungsrechten](https://www.twillo.de/oer/web/vorlagen-und-werkzeuge/) der Hochschule diese einräumen.
 Die Zusammenarbeit von Studierenden und Lehrenden bei der Erstellung von OER bietet zudem ein großes didaktisches Potenzial, dessen Publikation (zum Beispiel über die Bibliothek) und damit Sichtbarkeit von Interesse für die zentralen hochschuldidaktischen Einrichtungen (z.B. im Bereich des Peer Learning und Peer Teaching) ist.
@@ -165,7 +165,7 @@ Auch bei diesem Schritt können relevante Fragen im Format der [Change Cards](#3
 * Welche externen Kontakte und Netzwerke können uns unterstützen?
 
 ### Wie gelingt effektive Vernetzung?
-Die Vernetzung ins Außen ist eine zentrale Komponente im Policy-Prozess. Dabei knüpfen Sie aktiv Kontakte knüpfen und bringen sich in bestehende Netzwerke ein. Sie können somit von den Erfahrungen anderer profitieren und sowohl für die eigene Arbeit als auch das Thema OER Sichtbarkeit (vgl. [Schritt 6 Veröffentlichung](#25)) schaffen. Konkret können Sie folgende Schritte unternehmen:
+Die Vernetzung ins Außen ist eine zentrale Komponente im Policy-Prozess. Dabei knüpfen Sie aktiv Kontakte knüpfen und bringen sich in bestehende Netzwerke ein. Sie können somit von den Erfahrungen anderer profitieren und sowohl für die eigene Arbeit als auch das Thema OER Sichtbarkeit (vgl. Schritt 6 [Veröffentlichung](#25)) schaffen. Konkret können Sie folgende Schritte unternehmen:
 
 Eine Anlaufstelle bieten
 ----
@@ -191,7 +191,7 @@ Die Erfassung des Status quo von OER und die Identifikation der Schlüsselperson
 ## Schritt 2: Entwurf
 Wie überwinden Sie das weiße Blatt Papier?
 ----
-Bei der Erstellung eines Entwurfs wird es konkret. Wie konkret, hängt davon ab, ob Sie sich erst noch den offiziellen Auftrag zum „weitermachen“ holen dürfen (s. [Schritt 1 Überblick](#2)) oder ob dieser bereits an Sie ergangen ist. Vielleicht haben Sie dieses Policy Kit direkt in diesem Kapitel gestartet, wollen endlich loslegen und etwas schwarz auf weiß festhalten, um es Ihren Adressat:innen vorzustellen oder den Entscheidungsträger:innen vorzulegen, damit sie das offizielle GO erhalten.
+Bei der Erstellung eines Entwurfs wird es konkret. Wie konkret, hängt davon ab, ob Sie sich erst noch den offiziellen Auftrag zum „weitermachen“ holen dürfen (s. Schritt 1 [Überblick](#2)) oder ob dieser bereits an Sie ergangen ist. Vielleicht haben Sie dieses Policy Kit direkt in diesem Kapitel gestartet, wollen endlich loslegen und etwas schwarz auf weiß festhalten, um es Ihren Adressat:innen vorzustellen oder den Entscheidungsträger:innen vorzulegen, damit sie das offizielle GO erhalten.
 
 ![Elemente](Bilder/OER-Policy-Elemente_PolicyKit.png)
 
