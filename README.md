@@ -8,7 +8,7 @@ Trotz unterschiedlicher Ausgangslagen an den Hochschulen gibt es Schritte, die a
 
 Um Ihnen die Beantwortung dieser Fragen zu erleichtern sowie Sie bei Entscheidungen und Planungen möglichst gut zu unterstützen, haben wir dieses OER-Policy Kit erstellt, das als **Leitfaden zum Policy-Prozess** zu verstehen ist. Dieses Policy Kit umfasst sieben Schritte, die mögliche Stationen beschreiben und mit weiteren Materialien ergänzt werden, wie z.B. einer Muster OER-Policy oder Mailvorlagen.
 
-1. [Überblick](#2)
+1. [Überblick](https://liascript.github.io/course/?https://raw.githubusercontent.com/twillo-lehre-teilen/OER-Policy-Kit/main/OER_Policy_Kit.md#2)
 2. Entwurf]()
 3. Feedback]()
 4 [Überarbeitung])
