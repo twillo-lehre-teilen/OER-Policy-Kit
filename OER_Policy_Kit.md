@@ -21,7 +21,7 @@ Trotz unterschiedlicher Ausgangslagen gibt es Schritte, die alle Hochschulen auf
 - Was ist aus rechtlicher Sicht zu beachten?
 - Welche Akteur:innen müssen einbezogen werden und wen als Erstes fragen?
 
-Um Ihnen die Beantwortung dieser Fragen zu erleichtern sowie Sie bei Entscheidungen und Planungen möglichst gut zu unterstützen, haben wir dieses OER-Policy Kit erstellt, das als **Leitfaden zum Policy-Prozess** zu verstehen ist. Dieses Policy Kit umfasst sieben Schritte, die mögliche Stationen beschreiben und mit weiteren Materialien ergänzt werden, wie z.B. einer Muster OER-Policy oder Mailvorlagen.
+Um Ihnen die Beantwortung dieser Fragen zu erleichtern sowie Sie bei Entscheidungen und Planungen möglichst gut zu unterstützen, haben wir dieses OER-Policy Kit erstellt, das als **Leitfaden zum Policy-Prozess** zu verstehen ist. Dieses Policy Kit umfasst sieben Schritte, die mögliche Stationen beschreiben und mit weiteren [Materialien](#30) ergänzt werden, wie z.B. einer Muster OER-Policy oder Mailvorlagen.
 
 Das Policy Kit stellt keinen Gold-Standard-Weg hin zu einer OER-Policy dar, sondern soll an die spezifische Situation Ihrer Hochschule angepasst werden. Da der konkrete Ablauf sehr unterschiedlich sein kann, ist die Reihenfolge der Schritte nicht strikt einzuhalten. Im Policy-Prozess ist eine Linearität nicht unbedingt gegeben, so dass es einige Schleifen im Policy-Prozess geben kann und mehrere Schritte wiederholt werden bzw. zwischen den Schritten hin und her gesprungen wird.
 
@@ -65,16 +65,16 @@ Konkrete Fragen, die sich zu Beginn eines Policy-Prozesses stellen können, sind
 - Wie wird die Arbeitskultur an unserer Hochschule den Policy-Prozess beeinflussen?
 - Sind Spannungen zwischen Top-down-Ansätzen und der Bottom-up-Kultur der OER-Communities zu erwarten und falls ja, wie diese überbrücken?
 
-Notieren Sie sich Ihre Überlegungen dazu, z.B. anhand der Methode Change Cards. Diese Überlegungen sind Ihre Grundlage und können später genutzt werden, um den Policy-Prozess zu reflektieren und Wege nachzuvollziehen.
+Notieren Sie sich Ihre Überlegungen dazu, z.B. anhand der Methode [Change Cards](#35). Diese Überlegungen sind Ihre Grundlage und können später genutzt werden, um den Policy-Prozess zu reflektieren und Wege nachzuvollziehen.
 
 ### Wie ist der Status Quo? Welche Ressourcen sind vorhanden?
 Nutzen Sie Ihren ersten Überblick, um die Möglichkeiten verschiedener Anknüpfungspotenziale und relevante Aspekte zu strukturieren und sorgfältig hinsichtlich der folgenden vier Kernkategorien zu durchleuchten:
 
 Themen
 ----
-Betrachten Sie OER nicht isoliert, sondern als integralen Bestandteil von **Openness** (vgl. Walkthrough: Unesco Guidelines zur Erstellung von OER Policies). Als ein Beispiel kann hier die [Universität zu Köln](https://kups.ub.uni-koeln.de/71669/1/UzK_CD_Open_scienceGrundsaetze.pdf) herangezogen werden, die OER in ein umfassendes Openness-Konzept integriert hat. An Ihrer Hochschule können sich Anknüpfungspunkte zum Thema Openness und OER im Handlungsfeld der Bibliotheken (Open Access), im Handlungsfeld von Forschung und Transfer (Open Science/Open Data) und in allen rechtlichen Schnittmengen beim Justiziariat finden lassen.
+Betrachten Sie OER nicht isoliert, sondern als integralen Bestandteil von **Openness** (vgl. [Walkthrough: Unesco Guidelines zur Erstellung von OER Policies](#41)). Als ein Beispiel kann hier die [Universität zu Köln](https://kups.ub.uni-koeln.de/71669/1/UzK_CD_Open_scienceGrundsaetze.pdf) herangezogen werden, die OER in ein umfassendes Openness-Konzept integriert hat. An Ihrer Hochschule können sich Anknüpfungspunkte zum Thema Openness und OER im Handlungsfeld der Bibliotheken (Open Access), im Handlungsfeld von Forschung und Transfer (Open Science/Open Data) und in allen rechtlichen Schnittmengen beim Justiziariat finden lassen.
 
-Das Thema OER ist zudem eng mit **Nachhaltigkeit** verknüpft. Sie haben verschiedene Möglichkeiten, diese Verbindung als Argument für OER und eine dementsprechende Policy zu nutzen. Falls Ihre Hochschule (noch) kein Nachhaltigkeitsleitbild hat, in dem OER unter Umständen sogar explizit erwähnt wird, finden sich Beispiele dafür zum bei der [Uni Bielefeld](https://www.uni-bielefeld.de/themen/nachhaltigkeit/nachhaltigkeitsleitbild/) (OER explizit erwähnt), der [Uni Bamberg](https://www.uni-bamberg.de/nachhaltigkeit/leitbild-nachhaltigkeit/) (basiert auf den SDGs der UNESCO), der [RWTH Aachen](https://www.rwth-aachen.de/cms/root/die-rwth/Nachhaltigkeit/~ppuld/Nachhaltigkeitsleitbild/) (Verweis auf BNE und „Offenheit der Lehre”) oder der [Uni Hamburg](https://www.uni-hamburg.de/uhh/profil/leitbild/nachhaltigkeit.html) (Bezug zu SDGs). Weitere Hochschulen mit einem veröffentlichten Nachhaltigkeitsleitbild sind die [Uni Siegen](https://www.uni-siegen.de/nachhaltigkeit/nh_leitbild_governance/?lang=de), [TU Chemnitz](https://www.tu-chemnitz.de/tu/nachhaltigkeit/nh_leitbild.html), [Uni Kassel](https://www.uni-kassel.de/uni/universitaet/profil/profil-umwelt-und-nachhaltigkeit/umwelt-und-nachhaltigkeit/nachhaltigkeitsleitbild), [FU Berlin](https://www.fu-berlin.de/sites/nachhaltigkeit/commitment/leitbild/Nachhaltigkeitsleitbild_FUB_finale_Fassung-mit-Unterschriften.pdf) und die [Uni Bonn](https://www.uni-bonn.de/de/universitaet/ueber-die-uni/nachhaltige-uni/boost-leitbild). Die wesentlichen Argumente aus offiziellen Dokumenten supranationaler Organisationen finden Sie in unserem Material „OER und Nachhaltigkeit“.
+Das Thema OER ist zudem eng mit **Nachhaltigkeit** verknüpft. Sie haben verschiedene Möglichkeiten, diese Verbindung als Argument für OER und eine dementsprechende Policy zu nutzen. Falls Ihre Hochschule (noch) kein Nachhaltigkeitsleitbild hat, in dem OER unter Umständen sogar explizit erwähnt wird, finden sich Beispiele dafür zum bei der [Uni Bielefeld](https://www.uni-bielefeld.de/themen/nachhaltigkeit/nachhaltigkeitsleitbild/) (OER explizit erwähnt), der [Uni Bamberg](https://www.uni-bamberg.de/nachhaltigkeit/leitbild-nachhaltigkeit/) (basiert auf den SDGs der UNESCO), der [RWTH Aachen](https://www.rwth-aachen.de/cms/root/die-rwth/Nachhaltigkeit/~ppuld/Nachhaltigkeitsleitbild/) (Verweis auf BNE und „Offenheit der Lehre”) oder der [Uni Hamburg](https://www.uni-hamburg.de/uhh/profil/leitbild/nachhaltigkeit.html) (Bezug zu SDGs). Weitere Hochschulen mit einem veröffentlichten Nachhaltigkeitsleitbild sind die [Uni Siegen](https://www.uni-siegen.de/nachhaltigkeit/nh_leitbild_governance/?lang=de), [TU Chemnitz](https://www.tu-chemnitz.de/tu/nachhaltigkeit/nh_leitbild.html), [Uni Kassel](https://www.uni-kassel.de/uni/universitaet/profil/profil-umwelt-und-nachhaltigkeit/umwelt-und-nachhaltigkeit/nachhaltigkeitsleitbild), [FU Berlin](https://www.fu-berlin.de/sites/nachhaltigkeit/commitment/leitbild/Nachhaltigkeitsleitbild_FUB_finale_Fassung-mit-Unterschriften.pdf) und die [Uni Bonn](https://www.uni-bonn.de/de/universitaet/ueber-die-uni/nachhaltige-uni/boost-leitbild). Die wesentlichen Argumente aus offiziellen Dokumenten supranationaler Organisationen finden Sie in unserem Material [OER und Nachhaltigkeit]().
 
 Die Identifikation von Querschnittsthemen und damit von potentiellen OER-Befürworter:innen unter den Lehrenden, den akademischen Führungsebenen sowie in den diversen zentralen Hochschuleinrichtungen ist der wohl wichtigste Schritt in der Überblicks-Phase. Möglicherweise gibt es an Ihrer Hochschule bereits AGs oder Strategiegruppen, die Facetten von Openness bearbeiten.
 
@@ -243,7 +243,7 @@ Diese drei Schritte lassen sich im Detail natürlich auch in einer anderen **Rei
 
 Eine weitere bzw. ergänzende Möglichkeit zur Muster Policy ist, dass Sie sich bereits existierende Policies anschauen und vergleichen. Für die Länder [Niedersachsen](https://www.twillo.de/oer/web/oer-policy/) und [Nordrhein-Westfalen](https://mrkwnzl.github.io/orca-nrw-karte/) wurden Karten erstellt, auf denen der Stand der jeweiligen Hochschulen in Bezug auf deren OER-Policy dargestellt wird und die jeweiligen Policies verlinkt sind. Zum Teil gelangen sie über die Karte auch an Kontaktinformationen der Personen, die mit der Entwicklung der Policy betraut sind oder waren.
 <iframe style="border: 3px solid rgb(0, 43, 68)" src="https://mrkwnzl.github.io/orca-nrw-karte/netzwerk-kombiniert.html?oer_policy_default=true" height="550" width="100%"></iframe>
-![Niedersachsen](Karte_Niedersachsen_PolicyKit.png)
+![Niedersachsen](Bilder/Karte_Niedersachsen_PolicyKit.png)
 [Stumme Karte Kreise Niedersachsen](https://commons.wikimedia.org/wiki/File:Stumme_Karte_Kreise_Niedersachsen.svg) von NordNordWest unter [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), angepasst & erweitert von [twillo](http://twillo.de/)
 
 Darüber hinaus gibt es noch weitere Hochschulen in Deutschland bzw. im deutschsprachigen Raum mit einer verabschiedeten OER-Policy, die wir in einer Liste zusammengefasst haben (Stand 02/24). Außerhalb von Niedersachsen und NRW sind hier folgende deutschsprachige Hochschulen hervorzuheben:
@@ -483,7 +483,7 @@ Und jetzt? Wie geht es weiter?
 
 Sie haben es geschafft! Ihre Policy wurde veröffentlicht. Und jetzt…? Jetzt geht's erst richtig los! Denn die OER-Policy soll kein ‚totes‘ Dokument sein, das auf einer Webseite verstaubt und irgendwann niemanden mehr interessiert. Ein erster Meilenstein hin zu offener Lehre ist mit der Policy als rechtliche Grundlage und Commitment geschafft. Es ist wie eine Tür, die Sie geholfen haben zu öffnen. Hindurchgehen muss man jedoch selbst. Und Sie können dabei unterstützen.
 
-![Ausblick](Bilder/Bilder/Ausblick_PolicyKit.png)
+![Ausblick](Bilder/Ausblick_PolicyKit.png)
 
 ### Wie kann die OER-Policy zum Leben erweckt werden?
 
@@ -522,6 +522,13 @@ Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder
 *Pixelchen [Ressource_Offene Werkstatt_F-01.png](https://oer-contentbuffet.info/edu-sharing/components/render/0cde07ff-83f5-4882-b765-86c52ccf5644) lizenziert unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.mds)*
 
 ## Materialien
+Auf den folgenden Seiten finden Sie verschiedene Materialien zur Nachnutzung in Ihrem Policy-Prozess. Manche Dateien können Sie zur leichteren Weiterverarbeitung in einen offenen Dateiformat wie z.B. odt, docx oder pptx herunterladen.
+
+Falls Sie ähnliche Materialien erstellt oder verwendet haben, die für andere hilfreich sein könnten, melden Sie sich gerne unter `support.twillo@tib.eu`.
+
+![Materialien](Bilder/Materialien_PolicyKit.png)
+
+*Pixelchen [OERnutzen_F-01.png](https://oer-contentbuffet.info/edu-sharing/components/render/09cd5ff0-08a9-4943-8a94-5a812b8d6dbb) lizenziert unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.mds)*
 
 ### Flyer OER FAQ
 <iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Flyer_OER_FAQ_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Flyer_OER_FAQ_PolicyKit.pdf" charset="UTF-8"></script>
@@ -531,7 +538,7 @@ Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder
 
 <iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Mailvorlage_KickOff_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Mailvorlage_KickOff_PolicyKit.pdf" charset="UTF-8"></script>
 
-### Matrix
+### Matrix Stakeholder
 <iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Matrix_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Matrix_PolicyKit.pdf" charset="UTF-8"></script>
 
 ### Open Education Policy Canvas
@@ -540,16 +547,22 @@ Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder
 ### Open Education Policy Change Cards
 <iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/OE_Policy_Change_Cards_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/OE_Policy_Change_Cards_PolicyKit.pdf" charset="UTF-8"></script>
 
+### OER und Nachhaltigkeit
+Wird noch erstellt.
+
 ### OER Selbstlernmaterialien
 [Download Selbstlernmaterialien odt Format](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/OER_Selbstlernmaterialien_PolicyKit.odt)
 
 ### Personae
 <iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Personae_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Personae_PolicyKit.pdf" charset="UTF-8"></script>
 
-### Policy Liste
+### Policies Liste
 [Download Policy Liste docx Format](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Policy_Liste_PolicyKit.docx)
 
 <iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Policy_Liste_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Policy_Liste_PolicyKit.pdf" charset="UTF-8"></script>
+
+### Querschnittsthemen
+Wird noch erstellt.
 
 ### RoadMap Uni Bielefeld
 [Download Roadmap Uni Bielefeld pptx Format](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/RoadMap_Uni_Bielefeld_PolicyKit.pptx)
