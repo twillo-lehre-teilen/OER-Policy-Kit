@@ -1,6 +1,6 @@
 # OER-Policy-Kit
 
-Das OER-Policy Kit ist als **Leitfaden zum Policy-Prozess** zu verstehen und umfasst sieben Schritte, die mit weiteren [Materialien](https://liascript.github.io/course/?https://raw.githubusercontent.com/twillo-lehre-teilen/OER-Policy-Kit/main/OER_Policy_Kit.md#30) ergänzt werden, wie z.B. einer Muster OER-Policy oder Mailvorlagen.
+Das [OER-Policy Kit](https://liascript.github.io/course/?https://raw.githubusercontent.com/twillo-lehre-teilen/OER-Policy-Kit/main/OER_Policy_Kit.md#1) ist als **Leitfaden zum Policy-Prozess** zu verstehen und umfasst sieben Schritte, die mit weiteren [Materialien](https://liascript.github.io/course/?https://raw.githubusercontent.com/twillo-lehre-teilen/OER-Policy-Kit/main/OER_Policy_Kit.md#30) ergänzt werden, wie z.B. einer Muster OER-Policy oder Mailvorlagen.
 
 1. [Überblick](https://liascript.github.io/course/?https://raw.githubusercontent.com/twillo-lehre-teilen/OER-Policy-Kit/main/OER_Policy_Kit.md#2)
 2. [Entwurf](https://liascript.github.io/course/?https://raw.githubusercontent.com/twillo-lehre-teilen/OER-Policy-Kit/main/OER_Policy_Kit.md#11)
