@@ -357,7 +357,7 @@ Feedback einholen kann auf verschiedene Art und Weise passieren, z.B. synchron/ 
 - Was müssen die Feedbackgebenden über die OER-Policy und den Feedbackprozess wissen, bevor sie konstruktives Feedback geben können (vgl. [Roadmap Uni Bielefeld](41))?
 - Welche Leitfragen kann ich den Feedbackgebenden zur Orientierung mitgeben?
 - Wie möchte ich das Feedback einholen? Und wie gehe ich mit dem Feedback um?
-- Gibt es eine Rückkopplung an die Feedbackgebenden (s. Schritt 4 [Überarbeitung](20))? Braucht es mehrere Feedbackschleifen?
+- Gibt es eine Rückkopplung an die Feedbackgebenden (s. Schritt 4 [Überarbeitung](#20))? Braucht es mehrere Feedbackschleifen?
 
 Mit diesen Fragen kann man sich einen groben Fahrplan für die Feedbackschleifen erstellen. Welche konkrete Vorgehensweise hier empfehlenswert ist, hängt von der Kommunikationskultur der jeweiligen Hochschule ab: Wie kurz sind die Wege? Kann man Kolleg:innen und Leiter:innen anderer Abteilungen diesbezüglich direkt ansprechen oder sollte der Weg über den/die Vorgesetzte laufen? Braucht es einen offiziellen Workflow oder kann man einfach Rücksprache halten? Folgende Szenarien skizzieren beispielhaft verschiedene Feedbackprozesse, wobei diese auch kombiniert werden können:
 
