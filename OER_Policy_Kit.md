@@ -437,7 +437,7 @@ Was sind die letzten Schritte bis zum Beschluss?
 ----
 
 Nachdem Sie das Policydokument in eine Form gebracht haben, die „beschlussfähig” ist, gibt es zwei Möglichkeiten. Entweder wird ab jetzt für Sie übernommen: Sie reichen lediglich die Policy und ggf. einen kurzen Bericht zu Ihrem Vorgehen ein, der dann zum finalen Entscheid übergeben wird. Oder Sie stellen die Policy noch einmal in einem letzten Entscheidungs-Gremium vor und fassen den bisherigen Verlauf des Entwicklungsprozesses zusammen.
-![Startschuss](Startschuss_PolicyKit.png)
+![Startschuss](Bilder/Startschuss_PolicyKit.png)
 
 Es empfiehlt sich, dass Sie sich im gesamten Prozess Notizen dazu machen, wie ihr Weg verläuft und diesen gut dokumentieren: Ihre persönliche Roadmap. Hierzu gehören auch ein paar Zahlen, z.B. wie viele Personen am Kick-off teilgenommen haben (s. Schritt 3 [Feedback](#16)) oder genau festzuhalten, mit wem Sie, worüber im Austausch waren. Mit diesen Daten können die Entscheidungsträger:innen einen Eindruck davon bekommen, welche Wellen Sie mit Ihrem Thema an der Hochschule bereits geschlagen haben.
 
