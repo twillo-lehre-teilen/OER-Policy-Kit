@@ -445,7 +445,7 @@ Zu diesem Zeitpunkt haben Sie i.d.R. bereits einen offiziellen Auftrag zur Entwi
 Neben dem bisherigen Verlauf des Policy-Prozesses ist es wichtig, die weiteren Schritte aufzuzeigen bzw. den anderen Anwesenden Raum für deren Ansichten zu geben. Dies können sein:
 
 - Weitere Vorschläge, wo die Policy und der Prozess noch vorgestellt werden soll
-- Weitere Ideen oder Anmerkungen in Bezug auf das Thema OER – Das können interessante und wichtige Anknüpfungspunkte sein, an denen Sie nach der Veröffentlichung weiterarbeiten können (s. Schritt 1 Überblick).
+- Weitere Ideen oder Anmerkungen in Bezug auf das Thema OER – Das können interessante und wichtige Anknüpfungspunkte sein, an denen Sie nach der Veröffentlichung weiterarbeiten können (s. Schritt 1 [Überblick](#2)).
 
 Je nachdem wie verbindlich diese „Vorschläge” sind, haben Sie danach weitere Schritte auf Ihrer Roadmap und müssen ggf. noch eine Schleife drehen. In jedem Fall ist es ratsam, die Vorschläge aus diesem Gremium zu berücksichtigen. Wir gehen aber an dieser Stelle davon aus, dass nun die OER-Policy endgültig beschlossen wird.
 
