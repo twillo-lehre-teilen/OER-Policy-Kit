@@ -547,6 +547,7 @@ Falls Sie ähnliche Materialien erstellt oder verwendet haben, die für andere h
 *Pixelchen [OERnutzen_F-01.png](https://oer-contentbuffet.info/edu-sharing/components/render/09cd5ff0-08a9-4943-8a94-5a812b8d6dbb) lizenziert unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed)*
 
 ### Flyer OER FAQ
+Für eine leichtere Nachnutzung können Sie sich die **Datei im ai-Format** [direkt herunterladen](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Flyer_OER_FAQ_PolicyKit.ai).
 <iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Flyer_OER_FAQ_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Flyer_OER_FAQ_PolicyKit.pdf" charset="UTF-8"></script>
 
 ### Mailvorlage KickOff
