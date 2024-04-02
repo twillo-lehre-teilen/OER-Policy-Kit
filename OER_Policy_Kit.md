@@ -548,6 +548,7 @@ Falls Sie ähnliche Materialien erstellt oder verwendet haben, die für andere h
 
 ### Flyer OER FAQ
 Für eine leichtere Nachnutzung können Sie sich die **Datei im ai-Format** [direkt herunterladen](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Flyer_OER_FAQ_PolicyKit.ai).
+
 <iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Flyer_OER_FAQ_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Flyer_OER_FAQ_PolicyKit.pdf" charset="UTF-8"></script>
 
 ### Mailvorlage KickOff
