@@ -540,7 +540,7 @@ Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder
 ## Materialien
 Auf den folgenden Seiten finden Sie verschiedene Materialien zur Nachnutzung in Ihrem Policy-Prozess. Manche Dateien können Sie zur leichteren Weiterverarbeitung in einen offenen Dateiformat wie z.B. odt, docx oder pptx herunterladen.
 
-Falls Sie ähnliche Materialien erstellt oder verwendet haben, die für andere hilfreich sein könnten, melden Sie sich gerne unter `support.twillo@tib.eu`.
+Falls Sie ähnliche Materialien erstellt oder verwendet haben, die für andere hilfreich sein könnten, melden Sie sich gerne unter `support.twillo@tib.eu` oder via [GitHub](https://github.com/twillo-lehre-teilen/OER-Policy-Kit) (in dem Sie uns ein [Issue](https://github.com/twillo-lehre-teilen/OER-Policy-Kit/issues) melden)
 
 ![Materialien](Bilder/Materialien_PolicyKit.png)
 
