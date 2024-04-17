@@ -51,7 +51,7 @@ Bei der Entwicklung einer OER-Policy an Hochschulen unterscheiden wir grundsätz
 
 **Bottom-Up-Prozesse** hingegen werden von Lehrenden oder zentralen Service-Abteilungen angestoßen. Sie zeichnen sich durch ihre Praxisnähe und Innovationskraft aus. Auch hier ist eine effektive Kommunikation nötig, um eine breite Unterstützung und Anerkennung zu finden. Insbesondere müssen einzelne Zielgruppen überzeugt werden, sich als Stakeholder zu begreifen, wie z.B. die Hochschulleitung.
 
-![TopDown BottomUp|center](Bilder/TopDown_BottomUp_PolicyKit.gif)
+![TopDown BottomUp](Bilder/TopDown_BottomUp_PolicyKit.gif){ width="800" height="600" style="display: block; margin: 0 auto" }
 
 lizenziert unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed)
 
