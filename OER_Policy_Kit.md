@@ -8,10 +8,6 @@ comment: OER-Policy Kit (Stand 2024) von Policy Kit Team lizenziert unter CC BY-
 
 # OER-Policy Kit
 
-<p align="center">
-  <img width="100%" height="100%" src="Bilder/Roadmap_PolicyKit.jpg">
-</p>
-
 
 ![Roadmap](Bilder/Roadmap_PolicyKit.jpg)
 
@@ -55,6 +51,10 @@ Bei der Entwicklung einer OER-Policy an Hochschulen unterscheiden wir grundsätz
 **Top-Down-Prozesse** werden durch einen offiziellen Auftrag der Hochschulleitung initiiert und sind eng mit der strategischen Ausrichtung der Hochschule verbunden. Diese Prozesse profitieren von der Unterstützung „von oben“ und erfordern gleichzeitig eine gute Kommunikation in die Breite der Stakeholder und Zielgruppen, um diese im Geiste einer gelebten Kultur der Offenheit an ihren Bedarfen abzuholen und mit den strategischen Zielen der Hochschule in Einklang zu bringen.
 
 **Bottom-Up-Prozesse** hingegen werden von Lehrenden oder zentralen Service-Abteilungen angestoßen. Sie zeichnen sich durch ihre Praxisnähe und Innovationskraft aus. Auch hier ist eine effektive Kommunikation nötig, um eine breite Unterstützung und Anerkennung zu finden. Insbesondere müssen einzelne Zielgruppen überzeugt werden, sich als Stakeholder zu begreifen, wie z.B. die Hochschulleitung.
+
+<p align="center">
+  <img width="100%" height="100%" src="Bilder/TopDown_BottomUp_PolicyKit.gif">
+</p>
 
 ![TopDown BottomUp](Bilder/TopDown_BottomUp_PolicyKit.gif)
 
