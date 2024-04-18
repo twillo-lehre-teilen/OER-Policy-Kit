@@ -30,6 +30,7 @@ Das Policy Kit stellt keinen Gold-Standard-Weg hin zu einer OER-Policy dar, sond
 
 Das OER-Policy Kit (Stand 2024) wurde erarbeitet von (in alphabetischer Reihenfolge):
 
+
 - Silvia Czerwinski [^3]
 - Astrid Dreyer [^1]
 - Irina Hörmann [^2]
