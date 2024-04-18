@@ -8,6 +8,8 @@ comment: OER-Policy Kit (Stand 2024) von Policy Kit Team lizenziert unter CC BY-
 
 # OER-Policy Kit
 
+<p style="text-align: center;">Testt</p>
+
 ![Roadmap](Bilder/Roadmap_PolicyKit.jpg)
 
 *Roadmap OER-Policy Prozess von Frank Homp und Stefanie Legler lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)*
