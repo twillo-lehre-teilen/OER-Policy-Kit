@@ -56,8 +56,6 @@ Bei der Entwicklung einer OER-Policy an Hochschulen unterscheiden wir grundsätz
   <img width="50%" height="50%" src="Bilder/TopDown_BottomUp_PolicyKit.gif">
 </p>
 
-![TopDown BottomUp](Bilder/TopDown_BottomUp_PolicyKit.gif)
-
 lizenziert unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed)
 
 Die Wahl des Ansatzes hängt davon ab, wo der Prozess beginnt. Aufbauend auf beiden Definitionen kann es Mischprozesse geben – beispielsweise wenn die Initiative von einer zentralen Einrichtung direkt an die Hochschulleitung herangetragen werden kann, dort auf Zustimmung findet und fortan unter ihrem Schirm weiterentwickelt wird. Einige Vor- und Nachteile der beiden Ansätze finden Sie in der [vergleichenden Übersicht](#42).
