@@ -38,6 +38,8 @@ Das OER-Policy Kit (Stand 2024) wurde erarbeitet von (in alphabetischer Reihenfo
 - Stefanie Legler [^2] 
 - Yulia Loose [^3]
 
+
+
 [^1]: [HAWK Hildesheim/Holzminden/Göttingen](https://www.hawk.de/de/hochschule/organisation-und-personen/zentrale-einrichtungen/servicestelle-fuer-qualitaet-der-lehre),
 [^2]: [Netzwerk ORCA.nrw](https://www.orca.nrw/lehrende/akteure/netzwerk)
 [^3]: [twillo](https://www.twillo.de)
