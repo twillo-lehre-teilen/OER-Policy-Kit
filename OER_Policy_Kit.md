@@ -8,7 +8,8 @@ comment: OER-Policy Kit (Stand 2024) von Policy Kit Team lizenziert unter CC BY-
 
 # OER-Policy Kit
 
-<p style="text-align: center;">Testt</p>
+
+<div align="center">Test</div>
 
 ![Roadmap](Bilder/Roadmap_PolicyKit.jpg)
 
