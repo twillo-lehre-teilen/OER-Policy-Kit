@@ -24,16 +24,20 @@ Trotz unterschiedlicher Ausgangslagen gibt es Schritte, die alle Hochschulen auf
 - Was ist aus rechtlicher Sicht zu beachten?
 - Welche Akteur:innen müssen einbezogen werden und wen als Erstes fragen?
 
-Um Ihnen die Beantwortung dieser Fragen zu erleichtern sowie Sie bei Entscheidungen und Planungen möglichst gut zu unterstützen, haben wir dieses OER-Policy Kit erstellt, das als **Leitfaden zum Policy-Prozess** zu verstehen ist. Dieses Policy Kit umfasst sieben Schritte, die mögliche Stationen beschreiben und mit weiteren [Materialien](#30) ergänzt werden, wie z.B. einer Muster OER-Policy oder Mailvorlagen.
+Wir haben dieses Policy Kit erstellt um Ihnen die Beantwortung dieser Fragen zu erleichtern und Sie bei Entscheidungen und Planungen möglichst gut zu unterstützen. Es ist als **Leitfaden für den Policy-Entwicklungsprozess** zu verstehen. Dieses Policy Kit umfasst sieben Schritte, die mögliche Stationen beschreiben und mit weiteren [Materialien](#30) ergänzt werden, wie z.B. einer Muster OER-Policy oder Mailvorlagen.
 
-Das Policy Kit stellt keinen Gold-Standard-Weg hin zu einer OER-Policy dar, sondern soll an die spezifische Situation Ihrer Hochschule angepasst werden. Da der konkrete Ablauf sehr unterschiedlich sein kann, ist die Reihenfolge der Schritte nicht strikt einzuhalten. Im Policy-Prozess ist eine Linearität nicht unbedingt gegeben, so dass es einige Schleifen im Policy-Prozess geben kann und mehrere Schritte wiederholt werden bzw. zwischen den Schritten hin und her gesprungen wird.
+Das Policy Kit stellt keinen Königswegs dar. Jeder Entwicklungsprozess ist individuell und sollte an die spezifische Situation Ihrer Hochschule angepasst werden. Die Reihenfolge der Kapitel dieses Kits ist daher ein _Vorschlag_. Wir sind uns dessen bewusst, dass diese Linearität bei der tatsächlichen Entwicklung nicht (immer) gegeben ist. Es kann also sein, dass Sie einige Schleifen bei Ihrem Policy-Entwicklungsprozess drehen und dadurch Schritte wiederholen werden bzw. zwischen bestimmten Schritten hin und her springen müssen.
 
-Das OER-Policy Kit (Stand 2024) wurde erarbeitet von:[^1]
+Das OER-Policy Kit (Stand 2024) wurde erarbeitet von:
 
-Astrid Deryer ([HAWK Hildesheim/Holzminden/Göttingen](https://www.hawk.de/de/hochschule/organisation-und-personen/zentrale-einrichtungen/servicestelle-fuer-qualitaet-der-lehre)), Irina Hörmann, [Frank Homp]([https://fediscience.org/@frank_homp](https://orcid.org/0000-0003-3765-9362)) und Stefanie Legler ([Netzwerk ORCA.nrw](https://www.orca.nrw/lehrende/akteure/netzwerk)) sowie Silvia Czerwinski und Yulia Loose ([twillo](https://www.twillo.de)).
+Astrid Deryer ([HAWK Hildesheim/Holzminden/Göttingen](https://www.hawk.de/de/hochschule/organisation-und-personen/zentrale-einrichtungen/servicestelle-fuer-qualitaet-der-lehre)), Irina Hörmann, [Frank Homp]([https://fediscience.org/@frank_homp](https://orcid.org/0000-0003-3765-9362)) und Stefanie Legler ([Netzwerk ORCA.nrw](https://www.orca.nrw/lehrende/akteure/netzwerk)) sowie Silvia Czerwinski und Yulia Loose ([twillo](https://www.twillo.de)).[^1]
 
 
-Die Lizenz soll wie folgt angegeben werden: [OER-Policy Kit](https://doi.org/10.57961/9pjs-7p14) (Stand 2024) von Policy Kit Team lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) (sofern nicht anders an einzelnen Inhalten angegeben).
+Die Lizenz soll wie folgt angegeben werden:
+
+![CC-BY-SA](Bilder/CC_BY-SA_icon.png)
+
+[OER-Policy Kit](https://doi.org/10.57961/9pjs-7p14) (Stand 2024) von Policy Kit Team lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) (sofern nicht anders an einzelnen Inhalten angegeben).
 
 Alle Dateien zum Nachnutzen des Policy Kits finden sich in diesem [Git-Repository](https://github.com/twillo-lehre-teilen/OER-Policy-Kit).
 
