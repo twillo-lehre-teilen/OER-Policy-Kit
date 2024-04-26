@@ -30,7 +30,7 @@ Das Policy Kit stellt keinen Königswegs dar. Jeder Entwicklungsprozess ist indi
 
 Das OER-Policy Kit (Stand 2024) wurde erarbeitet von:
 
-Astrid Deryer ([HAWK Hildesheim/Holzminden/Göttingen](https://www.hawk.de/de/hochschule/organisation-und-personen/zentrale-einrichtungen/servicestelle-fuer-qualitaet-der-lehre)), Irina Hörmann, [Frank Homp]([https://fediscience.org/@frank_homp](https://orcid.org/0000-0003-3765-9362)) und Stefanie Legler ([Netzwerk ORCA.nrw](https://www.orca.nrw/lehrende/akteure/netzwerk)) sowie Silvia Czerwinski und Yulia Loose ([twillo](https://www.twillo.de)).[^1]
+Astrid Dreyer ([HAWK Hildesheim/Holzminden/Göttingen](https://www.hawk.de/de/hochschule/organisation-und-personen/zentrale-einrichtungen/servicestelle-fuer-qualitaet-der-lehre)), Irina Hörmann, [Frank Homp]([https://fediscience.org/@frank_homp](https://orcid.org/0000-0003-3765-9362)) und Stefanie Legler ([Netzwerk ORCA.nrw](https://www.orca.nrw/lehrende/akteure/netzwerk)) sowie Silvia Czerwinski und Yulia Loose ([twillo](https://www.twillo.de)).[^1]
 
 
 Die Lizenz soll wie folgt angegeben werden:
