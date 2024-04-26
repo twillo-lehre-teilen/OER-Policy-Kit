@@ -37,11 +37,13 @@ Die Lizenz soll wie folgt angegeben werden:
 
 ![CC-BY-SA](Bilder/CC_BY-SA_icon.png)
 
+![CCBYSA](Bilder/BY-SA_PolicyKit.svg)
+
 [OER-Policy Kit](https://doi.org/10.57961/9pjs-7p14) (Stand 2024) von Policy Kit Team lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) (sofern nicht anders an einzelnen Inhalten angegeben).
 
 Alle Dateien zum Nachnutzen des Policy Kits finden sich in diesem [Git-Repository](https://github.com/twillo-lehre-teilen/OER-Policy-Kit).
 
-![CCBYSA](Bilder/BY-SA_PolicyKit.svg)
+
 
 [^1]: in alpabetischer Reihenfolge der institutionellen Zugehörigkeit
 
