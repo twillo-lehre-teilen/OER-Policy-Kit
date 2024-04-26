@@ -35,8 +35,6 @@ Astrid Deryer ([HAWK Hildesheim/Holzminden/Göttingen](https://www.hawk.de/de/ho
 
 Die Lizenz soll wie folgt angegeben werden:
 
-![CC-BY-SA](Bilder/CC_BY-SA_icon.png|200)
-
 ![CCBYSA](Bilder/BY-SA_PolicyKit.svg)
 
 [OER-Policy Kit](https://doi.org/10.57961/9pjs-7p14) (Stand 2024) von Policy Kit Team lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) (sofern nicht anders an einzelnen Inhalten angegeben).
