@@ -539,7 +539,7 @@ Wenn man einmal vom großen Ganzen träumen möchte, könnte man die OER-Policy 
 Das alles sind mögliche Ansatzpunkte, die Sie jetzt weiter verfolgen können. Die OER Community wird sich in den nächsten Jahren noch stark weiterentwickeln. Ein Kernwert von OER und damit auch eine Ihrer Kompetenzen ist Offenheit und der inhärente Vernetzungscharakter. Nutzen Sie also das Wissen und die Kompetenz der vielen, die sich, wie Sie, der Kultur des Teilens und den Open Educational Resources verschrieben haben.
 
 ### Haben Sie Anregungen?
-An dieser Stelle endet das OER-Policy Kit und wir hoffen, es konnte Ihnen in Ihrem individuellen Policy-Prozess weiterhelfen. Für Anregungen, Fragen und Feedback sind wir sehr dankbar. Diese können Sie uns über `[GitHub](https://github.com/twillo-lehre-teilen/OER-Policy-Kit)` oder via Mail an `support.twillo@tib.eu` mitteilen. 
+An dieser Stelle endet das OER-Policy Kit und wir hoffen, es konnte Ihnen in Ihrem individuellen Policy-Prozess weiterhelfen. Für Anregungen, Fragen und Feedback sind wir sehr dankbar. Diese können Sie uns über [GitHub](https://github.com/twillo-lehre-teilen/OER-Policy-Kit) oder via Mail an `support.twillo@tib.eu` mitteilen. 
 
 Falls Sie weitere hilfreiche Materialien rund um das Thema OER-Policy haben oder Ihre Hochschule eine OER-Policy veröffentlicht hat, die wir noch nicht in der Liste aufgenommen haben, melden Sie sich auch gerne.
 
