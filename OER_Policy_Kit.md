@@ -30,16 +30,16 @@ Das Policy Kit stellt keinen Gold-Standard-Weg hin zu einer OER-Policy dar, sond
 
 Das OER-Policy Kit (Stand 2024) wurde erarbeitet von:[^1]
 
-Astrid Deryer ([HAWK Hildesheim/Holzminden/Göttingen](https://www.hawk.de/de/hochschule/organisation-und-personen/zentrale-einrichtungen/servicestelle-fuer-qualitaet-der-lehre)), Irina Hörmann, [Frank Homp]([https://fediscience.org/@frank_homp](https://orcid.org/0000-0003-3765-9362)) und Stefanie Legler ([Netzwerk ORCA.nrw](https://www.orca.nrw/lehrende/akteure/netzwerk)) sowie Silvia Czerwinski und Yulia Loose ([twillo](https://www.twillo.de)).
+Astrid Dreyer ([HAWK Hildesheim/Holzminden/Göttingen](https://www.hawk.de/de/hochschule/organisation-und-personen/zentrale-einrichtungen/servicestelle-fuer-qualitaet-der-lehre)), Irina Hörmann, [Frank Homp]([https://fediscience.org/@frank_homp](https://orcid.org/0000-0003-3765-9362)) und Stefanie Legler ([Netzwerk ORCA.nrw](https://www.orca.nrw/lehrende/akteure/netzwerk)) sowie Silvia Czerwinski und Yulia Loose ([twillo](https://www.twillo.de)) in alpabetischer Reihenfolge der institutionellen Zugehörigkeit.
 
-
-Die Lizenz soll wie folgt angegeben werden: [OER-Policy Kit](https://doi.org/10.57961/9pjs-7p14) (Stand 2024) von Policy Kit Team lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) (sofern nicht anders an einzelnen Inhalten angegeben).
-
-Alle Dateien zum Nachnutzen des Policy Kits finden sich in diesem [Git-Repository](https://github.com/twillo-lehre-teilen/OER-Policy-Kit).
+Die Lizenz soll wie folgt angegeben werden:
 
 ![CCBYSA](Bilder/BY-SA_PolicyKit.svg)
+[OER-Policy Kit](https://doi.org/10.57961/9pjs-7p14) (Stand 2024) von Policy Kit Team lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) (sofern nicht anders an einzelnen Inhalten angegeben).
 
-[^1]: in alpabetischer Reihenfolge der institutionellen Zugehörigkeit
+Alle Dateien zum Nachnutzen des Policy Kits finden Sie auf [GitHub](https://github.com/twillo-lehre-teilen/OER-Policy-Kit).
+
+
 
 ## Schritt 1: Überblick
 Wie fange ich an?
