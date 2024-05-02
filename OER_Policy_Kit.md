@@ -1,9 +1,11 @@
-!--
+<!--
 author: Policy Kit Team
 email: support.twillo@tib.eu
 language: de
 narrator: Deutsch Female
 comment: OER-Policy Kit (Stand 2024) von Policy Kit Team lizenziert unter CC BY-SA 4.0 (sofern nicht anders an einzelnen Inhalten angegeben).
+
+@download: <iframe src="@0" style="width: 100%; height:75vh;" frameborder="0" scrolling="no"></iframe>
 -->
 
 # OER-Policy Kit
@@ -588,25 +590,25 @@ Falls Sie ähnliche Materialien erstellt oder verwendet haben, die für andere h
 
 Für eine leichtere Nachnutzung können Sie sich die **Datei im ai-Format** [direkt herunterladen](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Flyer_OER_FAQ_PolicyKit.ai).
 
-<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Flyer_OER_FAQ_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe>
+@[download](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Flyer_OER_FAQ_PolicyKit.pdf)
 
 ### Mailvorlage KickOff
 
 Für eine leichtere Nachnutzung können Sie sich die **Datei im odt-Format** [direkt herunterladen](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Mailvorlage_KickOff_PolicyKit.odt).
 
-<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Mailvorlage_KickOff_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe>
+@[download](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Mailvorlage_KickOff_PolicyKit.pdf)
 
 ### Matrix Stakeholder
 
-<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Matrix_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe>
+@[download](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Matrix_PolicyKit.pdf)
 
 ### Open Education Policy Canvas
 
-<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/OE_Policy_Canvas_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe>
+@[download](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/OE_Policy_Canvas_PolicyKit.pdf)
 
 ### Open Education Policy Change Cards
 
-<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/OE_Policy_Change_Cards_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe>
+@[download](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/OE_Policy_Change_Cards_PolicyKit.pdf)
 
 ### OER und Nachhaltigkeit
 
@@ -618,13 +620,13 @@ Für eine leichtere Nachnutzung können Sie sich die **Datei im odt-Format** [di
 
 ### Personae
 
-<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Personae_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe>
+@[download](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Personae_PolicyKit.pdf)
 
 ### Policies Liste
 
 Für eine leichtere Nachnutzung können Sie sich die **Datei im docx-Format** [direkt herunterladen](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Policy_Liste_PolicyKit.docx).
 
-<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Policy_Liste_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe>
+@[download](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Policy_Liste_PolicyKit.pdf)
 
 ### Querschnittsthemen
 
@@ -634,19 +636,19 @@ Wird noch erstellt.
 
 Für eine leichtere Nachnutzung können Sie sich die **Datei im pptx-Format** [direkt herunterladen](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/RoadMap_Uni_Bielefeld_PolicyKit.pptx).
 
-<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/RoadMap_Uni_Bielefeld_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe>
+@[download](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/RoadMap_Uni_Bielefeld_PolicyKit.pdf)
 
 ### Vergleich Top-down Bottom-up
 
 Für eine leichtere Nachnutzung können Sie sich die **Datei im pptx-Format** [direkt herunterladen](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Vergleich_TopDown_BottomUp_PolicyKit.pptx).
 
-<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Vergleich_TopDown_BottomUp_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe>
+@[download](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Vergleich_TopDown_BottomUp_PolicyKit.pdf)
 
 ### Walkthrough UNESCO Guidelines
 
 Für eine leichtere Nachnutzung können Sie sich die **Datei im pptx-Format** [direkt herunterladen](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/RoadMap_Uni_Bielefeld_PolicyKit.pptx).
 
-<iframe src="https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Walkthrough_UNESCO_Guidelines_PolicyKit.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe>
+@[download](https://raw.githack.com/twillo-lehre-teilen/OER-Policy-Kit/main/Materialien/Walkthrough_UNESCO_Guidelines_PolicyKit.pdf)
 
 ## Literaturverzeichnis
 
