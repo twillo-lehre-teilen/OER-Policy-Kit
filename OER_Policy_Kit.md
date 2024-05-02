@@ -5,15 +5,15 @@ language: de
 narrator: Deutsch Female
 comment: OER-Policy Kit (Stand 2024) von Policy Kit Team lizenziert unter CC BY-SA 4.0 (sofern nicht anders an einzelnen Inhalten angegeben).
 
+logo: ./Bilder/Roadmap_PolicyKit.jpg
+
 @download: <iframe src="@0" style="width: 100%; height:75vh;" frameborder="0" scrolling="no"></iframe>
 -->
 
 # OER-Policy Kit
 
 
-![Roadmap](Bilder/Roadmap_PolicyKit.jpg)
-
-*Roadmap OER-Policy Prozess von Frank Homp und Stefanie Legler lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)*
+![Roadmap](Bilder/Roadmap_PolicyKit.jpg "*Roadmap OER-Policy Prozess von Frank Homp und Stefanie Legler lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)*")
 
 Immer mehr Hochschulen bekennen sich zu Openness und wollen durch eine Richtlinie das Signal für Lehrende und andere Hochschulangehörige setzen, dass sie das Erstellen und Teilen von OER unterstützen. Obwohl diese Richtlinie – zumeist als OER-Policy bezeichnet – nicht unbedingt rechtlich verbindlich ist, wie z.B. eine Dienstanweisung, schafft sie einen hohen Grad an **Verbindlichkeit für das Thema OER** und öffnet damit viele Türen hin zu einer anerkannten und gelebten offenen Bildung.
 
