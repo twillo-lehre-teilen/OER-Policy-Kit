@@ -500,7 +500,7 @@ Neben der schriftlichen Information können weitere Begleitmaßnahmen angeboten 
 
 Wie kann außerhalb der Hochschule die Policy sichtbar gemacht werden?
 ----
-Es lohnt sich einen Blick nach Außen zu werfen und zu überlegen, an welchen Stellen außerhalb der eigenen Hochschule die Information zur OER-Policy platziert werden kann, z.B. kann die Policy in der OER-Policy-Map von twillo oder ORCA.nrw verlinkt werden (s. Schritt 2 [Entwurf](#10)). Schließlich kann auf diversen Konferenzen und Workshops darüber informiert werden, dass Ihre Hochschule jetzt eine OER-Policy hat - denn: “Tu Gutes und sprich darüber!”. Ein Beispiel für ein unkonventionelles aber neugierig machendes kurzes [Video](https://www.oercamp.de/24/video/oer-policy-kit/) ist auf dem OERcamp entstanden, welches das OER-Policy Kit kurz und knackig vorstellt und besonders für Social Media Kanäle geeignet ist.
+Es lohnt sich einen Blick nach Außen zu werfen und zu überlegen, an welchen Stellen außerhalb der eigenen Hochschule die Information zur OER-Policy platziert werden kann, z.B. kann die Policy in der OER-Policy-Map von twillo oder ORCA.nrw verlinkt werden (s. Schritt 2 [Entwurf](#3)). Schließlich kann auf diversen Konferenzen und Workshops darüber informiert werden, dass Ihre Hochschule jetzt eine OER-Policy hat - denn: “Tu Gutes und sprich darüber!”. Ein Beispiel für ein unkonventionelles aber neugierig machendes kurzes [Video](https://www.oercamp.de/24/video/oer-policy-kit/) ist auf dem OERcamp entstanden, welches das OER-Policy Kit kurz und knackig vorstellt und besonders für Social Media Kanäle geeignet ist.
 
 ## Schritt 7: Ausblick
 Und jetzt? Wie geht es weiter?
