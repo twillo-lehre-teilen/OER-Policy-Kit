@@ -313,10 +313,10 @@ Jedes Kapitel der Guidelines beginnt mit einem Abstract und einer Liste von 3-5 
 Wenn die Guidelines Sie zunächst erschlagen, ist das vollkommen normal! Es handelt sich um ein sehr umfangreiches Dokument, in dessen Rahmen man sich Gedanken über Aspekte oder Bereiche machen kann, die evtl. noch nicht relevant sind und es ggf. auch nie werden. Leider ist das im Vorfeld schwer zu erkennen. Wir empfehlen daher zumindest die Startseite jedes Kapitels zu lesen (Abstract und Lernziele) sowie die letzte Seite (Guiding Questions).
 
 ## Schritt 3: Feedback
-Von wem hole ich mir wann wie Rückmeldung zum Entwurf ein?
+Von wem hole ich mir wann und wie Rückmeldung zum Entwurf ein?
 ----
 
-Wurde nun ein erster Entwurf einer Policy formuliert, sollte hierauf in einen oder mehreren Schleifen Feedback von verschiedenen Akteur:innen eingeholt werden, um den Text zu schärfen und die Inhalte zu prüfen. Je nach Situation und Struktur der jeweiligen Hochschule kommt es darauf an, wer wann wie Feedback gibt.
+Wurde nun ein erster Entwurf einer Policy formuliert, sollte hierauf folgend in einer oder mehreren Schleifen Feedback von verschiedenen Akteursgruppen eingeholt werden. Der Fokus kann dabei divers von der Schärfung des Textes hin zur Prüfung des Inhalts oder der Zielformulierung aus Hochschulperspektive variieren. Je nach Situation, Stand des Entwurfes und Struktur der jeweiligen Hochschule können die Feedbackgebenden variieren, da es unterschiedliche Auswirkungen haben kann, wer wann wie Feedback gibt.
 
 ![Feedback](Bilder/Feedback_PolicyKit.png)
 
@@ -324,12 +324,12 @@ Wurde nun ein erster Entwurf einer Policy formuliert, sollte hierauf in einen od
 
 ### Von wem wird Feedback eingeholt?
 
-Idealerweise wird Feedback von allen [Stakeholder](#6) eingeholt, mit denen man zuvor bereits über die Entwicklung einer OER-Policy gesprochen hat. Das können bis zu einem vorzeigbaren Entwurf eine ganze Menge Menschen sein – es bietet sich also an, eine kleine Liste anzulegen mit den Personen, mit denen bereits Kommunikation zum Thema OER stattgefunden hat. Gleichzeitig ist zu überlegen, welche Akteur:innen unmittelbar mit den Inhalten der Policy verknüpft sind, z.B. das Justitiariat bezüglich der Erstellung der rechtlichen Inhalte oder die Hochschul-/Mediendidaktik bezüglich der Angebote zur Förderung von OER. Diese Personen bzw. Gruppen sollten spätestens zum Zeitpunkt des Feedbacks miteinbezogen werden. Relevante Feedbackgebende können sein:
+Idealerweise wird Feedback von allen [Stakeholdern](#6) eingeholt, mit denen man zuvor bereits über die Entwicklung einer OER-Policy gesprochen hat. Das können bis zu einem vorzeigbaren Entwurf eine ganze Menge Menschen sein. Es bietet sich also an, eine kleine Liste anzulegen mit den Personen, mit denen bereits Kommunikation zum Thema OER stattgefunden hat. Gleichzeitig ist zu überlegen, welche Akteur:innen unmittelbar mit den Inhalten der Policy verknüpft sind. Zu nennen sind hier beispielsweise das Justitiariat bezüglich der Erstellung der rechtlichen Inhalte oder die Hochschul-/Mediendidaktik bezüglich der Angebote zur Förderung von OER. Diese Personen bzw. Gruppen sollten spätestens zum Zeitpunkt des Feedbacks miteinbezogen werden. Relevante Feedbackgebende können sein:
 
 Justitiariat
 ----
 
-Jurist:innen prüfen die Formulierungen in der Policy auf ihre Rechtskonformität und Rechtsverbindlichkeit. Es wird geschaut, ob alle rechtlich relevanten Inhalte enthalten sind (z.B. sollte die Policy mit einer Präambel beginnen und die Namensnennung der Hochschule enthalten). Falls die Hochschule in der Policy signalisieren möchte, Lehrenden und Mitarbeitenden notwendige Nutzungsrechte für die offene Lizenzierung einzuräumen, muss diese Formulierung entsprechend rechtswirksam formuliert sein. Insgesamt kann das Justitiariat dazu beraten, wie die Policy formuliert sein muss, damit sie sich an die zuvor festgelegte Zielgruppe richtet, wie z.B. an alle Hochschulangehörige oder lediglich an die Mitarbeitenden und Lehrenden. Zudem kann die Frage geklärt werden, was (zwingend) in der Policy verhandelt wird und was eher in ergänzenden Dokumente oder als aktuelle Informationen auf die Webseite geregelt wird.
+Jurist:innen prüfen die Formulierungen in der Policy auf ihre Rechtskonformität und Rechtsverbindlichkeit. Es wird geschaut, ob alle rechtlich relevanten Inhalte enthalten sind (z. B. sollte die Policy mit einer Präambel beginnen und die Namensnennung der Hochschule enthalten). Falls die Hochschule in der Policy signalisieren möchte, Lehrenden und Mitarbeitenden notwendige Nutzungsrechte für die offene Lizenzierung einzuräumen, muss diese Formulierung entsprechend rechtswirksam formuliert sein. Insgesamt kann das Justitiariat dazu beraten, wie die Policy formuliert sein muss, damit sie sich an die zuvor festgelegte Zielgruppe richtet, wie z. B. an alle Hochschulangehörige oder lediglich an die Mitarbeitenden und Lehrenden. Zudem kann die Frage geklärt werden, was (zwingend) in der Policy verhandelt wird und was eher in ergänzenden Dokumenten oder als aktuelle Informationen auf einer Webseite geregelt wird.
 
 Bibliothek
 ----
@@ -345,58 +345,54 @@ Bibliotheken beschäftigen sich schon sehr lange mit Open Access, Open Data oder
 Engagierte Personen im Bereich (digitales) Lehren und Lernen
 ----
 
-Lehrende und Personen, die hochschulweit durch ihr Engagement in der Lehre bekannt sind und z.B. entsprechenden Gremien/ Arbeitsgruppen/ Funktionen angehören, können aus ihrer jeweiligen Perspektive konstruktives Feedback geben. Das können z.B. Lehrende mit OER-Erfahrung, Fachbereichsleitungen, neuberufene Professor:innen, Lehrende mit langjähriger Lehrerfahrung oder Lehrende verschiedener Fachdisziplinen sein. Auch bereits etablierte Arbeitsgruppen, wie z.B. eine AG Digitalisierung sind gute Anlaufstellen. Wenn man noch nicht lange an der Hochschule ist, hilft es, erfahrene Kolleg:innen um Rat zu fragen, um keine an der jeweiligen Hochschule relevante Gruppe/ Person zu vergessen.
+Lehrende und Personen, die hochschulweit durch ihr Engagement in der Lehre bekannt sind und z. B. entsprechenden Gremien / Arbeitsgruppen / Funktionen angehören, können aus ihrer jeweiligen Perspektive konstruktives Feedback geben. Das können Lehrende mit OER-Erfahrung, Fachbereichsleitungen, neuberufene Professor:innen, Lehrende mit langjähriger Lehrerfahrung oder Lehrende verschiedener Fachdisziplinen sein. Auch bereits etablierte Arbeitsgruppen, wie eine AG Digitalisierung, sind gute Anlaufstellen. Wenn man noch nicht lange an der Hochschule ist, hilft es, erfahrene Kolleg:innen um Rat zu fragen, um keine an der jeweiligen Hochschule relevante Gruppe / Person zu vergessen.
 
 Zentrale Schnittstellen
 ----
 
-Sobald in der Policy Maßnahmen und Ansprechpersonen genannt werden, die Einrichtungen bzw. Abteilungen an der Hochschule betreffen, muss von diesen Schnittstellen Feedback eingeholt werden. Wenn z.B. in der Policy konkrete Maßnahmen zur Förderung von OER durch spezifische Unterstützungsangebote oder Lehrförderlinien formuliert sein sollen, sollten diejenigen einbezogen werden, die diese Maßnahmen umsetzen. Relevante Schnittstellen können sein: Hochschul-/ Mediendidaktik, eLearning, Evaluation, Wissenschaftliche Weiterbildung, Qualitätsmanagement etc. Auch hier gibt es ggf. bereits etablierte Arbeitsgruppen (z.B. AG Lehrentwicklung), die konsolidiert Feedback geben können. Besonders wichtig ist dabei, gezielt nachzufragen, ob diese Schnittstellen in der Policy als „Ansprechinstitutionen“ genannt werden wollen und wenn ja, wie konkret deren Angebot benannt werden soll (z.B. Beratung, Schulungen, Materialien usw.).
+Sobald in der Policy Maßnahmen und Ansprechpersonen genannt werden, die Einrichtungen bzw. Abteilungen an der Hochschule betreffen, muss von diesen Schnittstellen Feedback eingeholt werden. Wenn beispielsweise in der Policy konkrete Maßnahmen zur Förderung von OER durch spezifische Unterstützungsangebote oder Lehrförderlinien formuliert sein sollen, sollten diejenigen einbezogen werden, die diese Maßnahmen umsetzen. Relevante Schnittstellen können sein: Hochschul-/Mediendidaktik, E-Learning, Evaluation, Wissenschaftliche Weiterbildung, Qualitätsmanagement etc. Auch hier gibt es ggf. bereits etablierte Arbeitsgruppen (z. B. AG Lehrentwicklung), die konsolidiert Feedback geben können. Besonders wichtig ist dabei, gezielt nachzufragen, ob diese Schnittstellen in der Policy als „Ansprechinstitutionen“ genannt werden wollen und wenn ja, wie konkret deren Angebot benannt werden soll (Beratung, Schulungen, Materialien etc.).
 
-Entscheidungsträger:innen
+Entscheidungstragende
 ----
 
-Je nachdem, wer die OER-Policy in Auftrag gegeben hat, ist es sinnvoll, auch diese Person(en) um Feedback zu bitten. Insbesondere Personen in höheren Positionen (wie Vizepräsident:in/ Prorektor:in oder sogar Präsident:in/ Rektor:in) bringen eine strategische und hochschulpolitische Perspektive ein.
+Je nachdem, wer die OER-Policy in Auftrag gegeben hat, ist es sinnvoll, auch diese Person(en) um Feedback zu bitten. Insbesondere Personen in höheren Positionen (wie Präsidium bzw. Rektorat) bringen eine strategische und hochschulpolitische Perspektive ein.
 
 Studierende
 ----
 
-Die Gruppe der Studierenden ist etwas speziell. Zwar sind sie über die Lehre direkt von OER betroffen, dennoch sind sie nicht die ersten Adressate:innen einer OER-Policy, in der die Hochschule den Mitgliedern empfiehlt, OER zu nutzen und/oder zu erstellen. Da aber viele Policies a) Studierende als Zielgruppe benennen sowie b) als Ziel u.a. die Verbesserung studentischen Lernens aufzählen, kann es sinnvoll sein, ab einem bestimmten Punkt Studierende miteinzubeziehen. Dies kann z.B. über die Einbindung von Hilfskräften, Tutor:innen oder Studierendenvertretungen realisiert werden.
+Die Gruppe der Studierenden ist etwas speziell. Zwar sind sie über die Lehre direkt von OER betroffen, dennoch sind sie nicht die ersten Adressat:innen einer OER-Policy, in der die Hochschule den Mitgliedern empfiehlt, OER zu nutzen und/oder zu erstellen. Da aber viele Policies a) Studierende als Zielgruppe benennen sowie b) als Ziel u. a. die Verbesserung studentischen Lernens aufzählen, kann es sinnvoll sein, ab einem bestimmten Punkt Studierende miteinzubeziehen. Dies kann z. B. über die Einbindung von Hilfskräften, Tutor:innen, Studierendenvertretungen oder über Studierendengruppen, mit denen OER erstellt oder OEP erprobt werden, realisiert werden.
 
 ### Wann wird Feedback eingeholt?
-Der Zeitpunkt des Feedbacks kann sehr variabel sein – je nachdem wie partizipativ man den Prozess gestalten möchte und wie viel Zeit zur Verfügung steht. Mindestens eine Feedbackschleife sollte nach dem Entwurf mit den relevanten Akteur:innen bzw. Stakeholder durchgeführt werden. Es können auch mehrere Feedbackschleifen durchlaufen werden, die zu unterschiedlichen Zeitpunkten mit unterschiedlichen Akteur:innen stattfinden und dadurch unterschiedliche Feedbacks eingeholt werden können. In folgenden Phasen kann das Einholen von Feedback sinnvoll sein:
+Der Zeitpunkt des Feedbacks kann sehr variabel sein – je nachdem, wie partizipativ der Prozess gestaltet werden möchte und wie viel Zeit zur Verfügung steht. Mindestens eine Feedbackschleife sollte nach dem Entwurf mit den relevanten Akteur:innen bzw. Stakeholdern durchgeführt werden. Es können auch mehrere Feedbackschleifen durchlaufen werden, die zu unterschiedlichen Zeitpunkten mit unterschiedlichen Akteur:innen stattfinden, wodurch diverses Feedback eingeholt werden kann. In folgenden Phasen kann das Einholen von Feedback sinnvoll sein:
 
-- Vor dem Kickoff (z.B. von Entscheidungsträger:innen)
-- Vor der ersten Redaktionsphase (z.B. von OER-Befürworter:innen)
-- Nach der Redaktionsphase (z.B. von Entscheidungsträger:innen)
-- Der Feinschliff (v.a. mit Justitiariat)
+- Vor dem Kick-off (z. B. von Entscheidungstragenden)
+- Vor der ersten Redaktionsphase (z. B. von OER-Befürwortenden)
+- Nach der Redaktionsphase (z. B. von Entscheidungstragenden)
+- Für den Feinschliff (v. a. mit Justitiariat)
 
 ### Wie wird Feedback eingeholt?
-Feedback einholen kann auf verschiedene Art und Weise passieren, z.B. synchron/ asynchron, persönlich/ virtuell, mündlich/ schriftlich, einzeln oder in der Gruppe etc. In jedem Fall ist es sinnvoll, den Feedbackgebenden Leitfragen mit an die Hand zu geben, damit sie wissen, worauf sie besonders achten bzw. aus welcher Perspektive sie drauf schauen sollen. Grundsätzlich kann man sich folgende Fragen stellen, bevor man Feedback zu der OER-Policy einholt:
+Feedback einholen kann auf verschiedene Art und Weise passieren: synchron/asynchron, persönlich/virtuell, mündlich/schriftlich, einzeln oder in der Gruppe etc. In jedem Fall ist es sinnvoll, den Feedbackgebenden Leitfragen mit an die Hand zu geben, damit sie wissen, worauf sie besonders achten bzw. aus welcher Perspektive sie schauen sollen. Grundsätzlich können sich folgende Fragen gestellt werden, bevor Feedback zu der OER-Policy eingeholt wird:
 
 - Welche offenen Fragen möchte ich mit dem Feedback beantworten?
-- Welche Art von Feedback will ich haben? Wer kann mir das geben?
+- Welche Art von Feedback möchte ich erhalten? Wer kann mir dieses geben?
 - Was müssen die Feedbackgebenden über die OER-Policy und den Feedbackprozess wissen, bevor sie konstruktives Feedback geben können (vgl. [Roadmap Uni Bielefeld](41))?
 - Welche Leitfragen kann ich den Feedbackgebenden zur Orientierung mitgeben?
 - Wie möchte ich das Feedback einholen? Und wie gehe ich mit dem Feedback um?
-- Gibt es eine Rückkopplung an die Feedbackgebenden (s. Schritt 4 [Überarbeitung](#20))? Braucht es mehrere Feedbackschleifen?
+- Gibt es eine Rückkopplung an die Feedbackgebenden (s. Schritt 4: [Überarbeitung](#20))? Bedarf es mehrere Feedbackschleifen?
 
-Mit diesen Fragen kann man sich einen groben Fahrplan für die Feedbackschleifen erstellen. Welche konkrete Vorgehensweise hier empfehlenswert ist, hängt von der Kommunikationskultur der jeweiligen Hochschule ab: Wie kurz sind die Wege? Kann man Kolleg:innen und Leiter:innen anderer Abteilungen diesbezüglich direkt ansprechen oder sollte der Weg über den/die Vorgesetzte laufen? Braucht es einen offiziellen Workflow oder kann man einfach Rücksprache halten? Folgende Szenarien skizzieren beispielhaft verschiedene Feedbackprozesse, wobei diese auch kombiniert werden können:
+Mit diesen und weiteren Fragen kann ein grober Fahrplan für das Einholen von Feedback erstellt werden. Welche konkrete Vorgehensweise hier empfehlenswert ist, hängt von der Kommunikationskultur der jeweiligen Hochschule ab: Wie kurz sind die Wege? Können Kolleg:innen und Leitungen anderer Abteilungen diesbezüglich direkt angesprochen werden oder sollte der Weg über die Vorgesetzten laufen? Bedarf es einen offiziellen Workflow oder kann einfach Rücksprache gehalten werden? Folgende Szenarien skizzieren beispielhaft verschiedene Feedbackprozesse, wobei diese auch kombiniert werden können:
 
-Szenario A - Der kurze Weg
+Szenario A – Der kurze Weg
 ----
-Wer bereits mit vielen Stakeholder zur OER-Policy persönlichen Kontakt hatte, kann den Entwurf direkt an diese schicken und um Feedback bitten – ggf. wird der Feedbackprozess zuvor kurz per Mail oder Telefon angekündigt. Daraufhin können die Feedbackgebenden schriftlich asynchron Feedback geben, welches schrittweise eingearbeitet wird oder Rückfragen und Anmerkungen werden telefonisch aufgenommen und geklärt.
+Wer bereits mit vielen Stakeholdern für die Entwicklung der OER-Policy persönlichen Kontakt hatte, kann den Entwurf an diese schicken und um Feedback bitten. Der Feedbackprozess sollte zuvor kurz per Mail oder Telefon angekündigt werden. Daraufhin können die Feedbackgebenden z. B. schriftlich sowie asynchron Feedback geben, welches schrittweise eingearbeitet wird. Rückfragen und Anmerkungen werden telefonisch aufgenommen und geklärt.
 
-Szenario B - Alle an einen Tisch holen
+Szenario B – Alle an einen Tisch holen
 ----
-Ein eher formales Setting ist die Präsentation des Policy-Entwurfs in einer gemeinsamen Kick-off-Veranstaltung mit den beteiligten Stakeholder, die dazu eingeladen wurden (s. [Mailvorlage](32) und [Präsentationsfolien Kick-off](#41)). Im Kick-off kann nochmal deutlich gemacht werden, dass die Policy nur ein Türöffner ist, aber ein wesentlicher Schritt zur Förderung von OER an der Hochschule sein kann. Folgende Punkte können dabei auf der Agenda stehen:
-- Was ist OER und warum ist das wichtig?
-- Warum braucht es eine OER-Policy?
-- Was steht im Entwurf?
-- Wie können die Beteiligten daran teilhaben bzw. mitwirken?
+Ein eher formales Setting ist die Präsentation der Policy in einer gemeinsamen Kick-off-Veranstaltung sowie in späteren Follow-ups mit den beteiligten Stakeholdern (s. [Mailvorlage](32) und [Präsentationsfolien Kick-off](#41)). Im Kick-off kann deutlich gemacht werden, dass die Policy ein Türöffner sein kann sowie einen wesentlichen Schritt zur Förderung von OER an der Hochschule darstellen kann. Zudem kann ein erster Entwurf der Policy gezeigt und geklärt werden, wie die Beteiligten am weiteren Entwicklungsprozess teilhaben bzw. mitwirken können. In Follow-up-Veranstaltungen kann dann systematisch Feedback zum jeweils aktuellen Stand der Policy eingeholt werden.
 
-Szenario C - Auf mehreren Hochzeiten tanzen
+Szenario C – Auf mehreren Hochzeiten tanzen
 ----
-Soll Feedback von vielen verschiedenen Stakeholder eingeholt werden, bei denen ein gemeinsames Treffen schwierig zu organisieren ist, kann man den Entwurf mit den verschiedenen Gruppen einzeln besprechen bzw. eine Kombination aus verschiedenen Feedbackmethoden machen. Dabei können z.B. engagierte Lehrende zu einem Feedback-Treffen mündlich synchron Feedback geben, während das Feedback der relevanten Schnittstellen v.a. asynchron schriftlich eingeholt wird, da hier ggf. teaminterne Absprachen zu Maßnahmen und Unterstützungsangeboten erforderlich sind. Mit dem Justitiariat sind ggf. mehrere Feedbackschleifen - mal synchron, mal asynchron - notwendig, bis jede Formulierung durch das schrittweise Feedback geprüft und angepasst ist. Dieser Prozess ist eher aufwändig, aber ermöglicht zielgruppenspezifisches Feedback.
+Soll Feedback von vielen verschiedenen Stakeholdern eingeholt werden, bei denen ein gemeinsames Treffen schwierig zu organisieren ist, kann der Entwurf mit den verschiedenen Gruppen einzeln besprochen bzw. eine Kombination aus verschiedenen Feedbackmethoden angestrebt werden. Dabei können z. B. engagierte Lehrende bei einem Feedback-Treffen mündlich und synchron Feedback geben, während das Feedback der anderer Schnittstellen asynchron schriftlich eingeholt wird, wo ggf. teaminterne Absprachen zu Maßnahmen und Unterstützungsangeboten erforderlich sind. Mit dem Justitiariat sind ggf. mehrere Feedbackschleifen - mal synchron, mal asynchron - notwendig, bis jede Formulierung durch das schrittweise Feedback geprüft und angepasst ist. Dieser Prozess ist eher aufwändig, aber ermöglicht zielgruppenspezifisches Feedback.
 
 ## Schritt 4: Überarbeitung
 Wie erhält der Policy-Entwurf den letzten Schliff?
