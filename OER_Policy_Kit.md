@@ -518,7 +518,7 @@ Sobald die Policy zentral veröffentlicht wurde, kann an relevanten Stellen dara
 
 Welche Begleitmaßnahmen können zur Sichtbarkeit der Policy beitragen?
 ----
-Neben der schriftlichen Information können weitere Begleitmaßnahmen angeboten werden. Es könnte eine Informationsveranstaltung zur Policy stattfinden oder sie könnte in bestehende Veranstaltungen integriert werden, wie auf einem Tag der Lehre oder einem Seminar zu Bildungsgerechtigkeit. Empfehlenswert sind zudem ergänzende Informationsmaterialien zur Erläuterung mit der Beantwortung der Fragen „Was heißt OER?“ oder „Warum braucht die Hochschule eine OER-Policy?“ (s. [Flyer OER-FAQ](#Flyer OER FAQ)). Dadurch kann die Akzeptanz der Policy erhöht werden. Nicht zuletzt können alle beteiligten Akteur:innen, die am Entwicklungsprozess in irgendeiner Form mitgewirkt haben, als Multiplikator:innen der Policy dienen.
+Neben der schriftlichen Information können weitere Begleitmaßnahmen angeboten werden. Es könnte eine Informationsveranstaltung zur Policy stattfinden oder sie könnte in bestehende Veranstaltungen integriert werden, wie auf einem Tag der Lehre oder einem Seminar zu Bildungsgerechtigkeit. Empfehlenswert sind zudem ergänzende Informationsmaterialien zur Erläuterung mit der Beantwortung der Fragen „Was heißt OER?“ oder „Warum braucht die Hochschule eine OER-Policy?“ (s. [Flyer OER-FAQ](#Flyer-OER-FAQ)). Dadurch kann die Akzeptanz der Policy erhöht werden. Nicht zuletzt können alle beteiligten Akteur:innen, die am Entwicklungsprozess in irgendeiner Form mitgewirkt haben, als Multiplikator:innen der Policy dienen.
 
 Wie kann die Policy außerhalb der Hochschule sichtbar gemacht werden?
 ----
