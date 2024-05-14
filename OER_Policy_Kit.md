@@ -519,12 +519,11 @@ Sobald die Policy zentral veröffentlicht wurde, kann an relevanten Stellen dara
 Welche Begleitmaßnahmen können zur Sichtbarkeit der Policy beitragen?
 ----
 Neben der schriftlichen Information können weitere Begleitmaßnahmen angeboten werden. Es könnte eine Informationsveranstaltung zur Policy stattfinden oder sie könnte in bestehende Veranstaltungen integriert werden, wie auf einem Tag der Lehre oder einem Seminar zu Bildungsgerechtigkeit. Empfehlenswert sind zudem ergänzende Informationsmaterialien zur Erläuterung mit der Beantwortung der Fragen „Was heißt OER?“ oder „Warum braucht die Hochschule eine OER-Policy?“ (s. [Flyer OER-FAQ](#Flyer OER FAQ)). Dadurch kann die Akzeptanz der Policy erhöht werden. Nicht zuletzt können alle beteiligten Akteur:innen, die am Entwicklungsprozess in irgendeiner Form mitgewirkt haben, als Multiplikator:innen der Policy dienen.
->>>>>>> main
 
 Wie kann die Policy außerhalb der Hochschule sichtbar gemacht werden?
 ----
 
-Es lohnt sich einen Blick nach Außen zu werfen und zu überlegen, an welchen Stellen außerhalb der eigenen Hochschule die Information zur OER-Policy platziert werden kann. Sie könnte in der OER-Policy-Map von twillo oder auf ORCA.nrw verlinkt werden (s. Schritt 2 [Entwurf](#Entwurf)). Schließlich kann auf diversen Konferenzen und Workshops darüber informiert werden, dass Ihre Hochschule jetzt eine OER-Policy veröffentlicht hat - denn es gilt: “Tu Gutes und sprich darüber!”. Ein Beispiel für ein unkonventionelles aber neugierig machendes kurzes [Video](https://www.oercamp.de/24/video/oer-policy-kit/) ist auf dem OERcamp entstanden, welches das OER-Policy Kit kurz und knackig vorstellt und besonders für Social Media Kanäle geeignet ist.
+Es lohnt sich einen Blick nach Außen zu werfen und zu überlegen, an welchen Stellen außerhalb der eigenen Hochschule die Information zur OER-Policy platziert werden kann. Sie könnte in der OER-Policy-Map von twillo oder auf ORCA.nrw verlinkt werden (s. Schritt 2 [Entwurf](#Entwurf)). Schließlich kann auf diversen Konferenzen und Workshops darüber informiert werden, dass Ihre Hochschule jetzt eine OER-Policy veröffentlicht hat - denn es gilt: “Tu Gutes und sprich darüber!” Ein Beispiel für ein unkonventionelles aber neugierig machendes kurzes [Video](https://www.oercamp.de/24/video/oer-policy-kit/) ist auf dem OERcamp entstanden, welches das OER-Policy Kit kurz und knackig vorstellt und besonders für Social Media Kanäle geeignet ist.
 
 ## Schritt 7: Ausblick
 
