@@ -42,7 +42,7 @@ Die Lizenz soll wie folgt angegeben werden:
 
 Alle Dateien zum Nachnutzen des Policy Kits finden Sie auf [GitHub](https://github.com/twillo-lehre-teilen/OER-Policy-Kit).
 
-![HAWK](Bilder/HAWK_1_neg.png) ![ORCAnrw](Bilder/orca_logo_claim.png) ![twillo](Bilder/Logo twillo dark.png)
+![HAWK](Bilder/HAWK_1_neg.png) ![ORCAnrw](Bilder/orca_logo_claim.png) ![twillo](Bilder/Logo_twillo_dark.png)
 
 ## Schritt 1: Überblick
 
